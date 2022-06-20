@@ -1,0 +1,111 @@
+---
+title: "Intro to Programming"
+subtitle: "Session 0 - DEC Python training"
+author: "DIME Analytics & DECAT"
+institute: "DEC, The World Bank Group"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+---
+class: middle
+
+# Scope
+
+.pull-left[
+The *DEC Foundations of Python* does not require
+that you have any background in programming. 
+
+However, if you have no background in any type of programming, 
+then this session is for you.
+
+We will cover how working with code is different
+than working in, for example, Excel. 
+We will also cover some basic concepts of programming 
+that you are expected to know in the rest of this training.
+]
+
+.pull-right[
+**Content of this session:**
+
+1. Why programming and why Python?
+
+1. What is code and how do I use it?
+
+1. Some basic concepts of programming 
+]
+
+
+
+---
+class: inverse, center, middle
+
+# Why programming? Why Python?
+
+---
+
+# Why programming? 
+
+.pull-left[
+When working in programming we do not interact with the data directly.
+Instead, we write code that are exact instructions on how to interact with the data.
+
+Computers follow these instructions to generate the outputs with great exactness.
+They never do anything not in the instructions.
+
+Compare with Excel where we make edits manually directly to the data,
+and share new versions of that data.
+
+In Excel we hare the final output but not how we got there. 
+In programming we share the code to remove any ambiguity 
+what was done to the data.
+
+You cannot look at an Excel file and know if any data cells were changed manually.
+]
+
+.pull-right[
+
+**1. Transparency**:<br>
+You can share your code as a fully transparent list of anything ever done to the raw data.
+
+<br>**2. Replication**:<br>
+Anyone else who has access to the data inputs can use your code and run it to verify that they get the same results as you and your team.
+
+<br>**3. Re-usability**/**automation**:<br>
+We can copy/paste these instruction across our projects.
+
+In programming we copy/paste instructions for how to do tasks all the time. 
+Some programmers publish code with the sole purpose of it being used by others.
+]
+
+--
+
+---
+
+# Why Python?
+
+Everything about programming on the previous slide applies to all programming languages. Why are we teaching Python over any other language?
+
+1. Python is popular - especially in data science 
+Since we commonly copy other people's code, this actaully matter a lot
+
+2. Python is can be used for much more than statistics/data science. Alternatives to Python like R and Stata can only be used for data
+
+---
+
+class: center, middle
+
+# Thanks!
+
+
