@@ -18,8 +18,9 @@ options(htmltools.dir.version = FALSE)
 ```
 
 ---
+class: middle
 
-# What we assume about you:
+## What we assume about you:
 
 Python programming can be used for so many topics in computer science 
 that it is impossible to cover all of them.
@@ -34,7 +35,7 @@ Therefore, we make the following assumptions about you and your use case:
 ---
 class: middle
 
-# Scope of this session
+## Scope of this session
 
 .pull-left[
 The *DEC Foundations of Python* does not require
@@ -68,7 +69,7 @@ class: inverse, center, middle
 
 ---
 
-# Why programming? 
+## Why programming? 
 
 .pull-left[
 When working in programming we do not interact with the data directly.
@@ -104,7 +105,7 @@ Some programmers publish code with the sole purpose of it being used by others.
 
 ---
 
-# Why Python?
+## Why Python?
 
 Everything about programming on the previous slide applies to all programming languages. Why are we teaching Python over any other language?
 
