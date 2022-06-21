@@ -148,6 +148,87 @@ class: inverse, center, middle
 
 # Some basic concepts of code
 
+---
+class: middle
+
+## Code is a file meant to run from top to bottom
+
+.pull-left[
+When writing code this is far from always true. 
+We manually jump back and forth to solve bugs,
+to make the code more readable etc.
+
+But in the end, we want code that does the task correctly when executed from top to bottom
+]
+
+.pull-right[
+TODO: DIAGRAM WITH BLOCKS THAT REPRESENTS SECTIONS IN CODE
+]
+
+
+---
+class: middle
+
+## Repeating parts of the code
+
+.pull-left[
+Sometimes we need to repeat a section of the code. 
+For example, repeat a section 10 times, 
+repeat a section once for each country in the data, 
+repeat some code until you found a match in your data. 
+
+Some of these repeats can be implemented manually,
+but some cannot, for example when we
+
+In programming these are called loops. 
+We will cover how to do them in Python in session 2.
+]
+
+.pull-right[
+TODO: DIAGRAM WITH BLOCKS THAT REPRESENTS SECTIONS IN CODE WHERE ONE BLOCK IS REPEATED
+]
+
+---
+class: middle
+
+## Sometimes skipping parts of the code
+
+.pull-left[
+Sometimes we need to skip a section of the code.
+For example, in some repeats of a group skip some code,
+or skip sections that does not apply in code 
+meant to be used on different data.
+
+This is particularly important when writing re-usable code.
+
+In programming these are called if-conditions. 
+We will cover how to do them in Python in session 2.
+]
+
+.pull-right[
+TODO: DIAGRAM WITH BLOCKS THAT REPRESENTS SECTIONS IN CODE WHERE ONE BLOCK IS CONDITIONAL
+]
+
+
+---
+class: middle
+
+## Sometimes skipping parts of the code
+
+.pull-left[
+In the end you have a file where anyone can see exactly what data you used,
+what you did to that data,
+which values you edited,
+what parts you repeated and what parts you skipped,
+and finally what outputs were created.
+
+This is fully transparent and therefore much more credible data work.
+Someone can also be inspired of or build on your work.
+]
+
+.pull-right[
+TODO: FINAL DIAGRAM
+]
 
 ---
 
