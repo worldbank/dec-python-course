@@ -18,12 +18,19 @@ options(htmltools.dir.version = FALSE)
 ```
 
 ---
+class: inverse, center, middle
+
+# Intro to session
+
+---
+
+---
 class: middle
 
 ## What we assume about you:
 
-Python programming can be used for so many topics in computer science 
-that it is impossible to cover all of them.
+Python programming can be used for many topics in computer science.
+It is impossible to cover all of them in one training.
 Therefore, we make the following assumptions about you and your use case: 
 
 1. You want to use Python for some kind of data work (numbers, text data, geo-data etc.) as opposed to developing software, a server back-end etc.
@@ -41,13 +48,12 @@ class: middle
 The *DEC Foundations of Python* does not require
 that you have any background in programming. 
 
-However, if you have no background in any type of programming, 
-then this session is for you.
+If you have no background in any type of programming, 
+then this session will prepare you for the rest of the course.
 
-We will cover how working with code is different
-than working in, for example, Excel. 
-We will also cover some basic concepts of programming 
-that you are expected to know in the rest of this training.
+We will cover how working with code is different,
+some basic concepts of programming
+as well as allow a lot of time for questions.
 ]
 
 .pull-right[
@@ -55,9 +61,9 @@ that you are expected to know in the rest of this training.
 
 1. Why programming and why Python?
 
-1. What is code and how do I use it?
+1. How is the workflow different when I write code?
 
-1. Some basic concepts of programming 
+1. Some common concepts in programming 
 ]
 
 
@@ -73,35 +79,48 @@ class: inverse, center, middle
 
 .pull-left[
 When working in programming we do not interact with the data directly.
-Instead, we write code that are exact instructions on how to interact with the data.
+Instead, we write code that are exact instructions for a computer to interact with the data.
 
-Computers follow these instructions to generate the outputs with great exactness.
-They never do anything not in the instructions.
+Computers always follows our instructions exactly.
+This give us an exact and transparent record 
+of what was done to our data 
+to generate the outputs that we publish.
 
-Compare with Excel where we make edits manually directly to the data,
-and share new versions of that data.
+Compare with Excel where outputs are created
+using a mix of formulas and editing the data manually.
 
-In Excel we hare the final output but not how we got there. 
-In programming we share the code to remove any ambiguity 
-what was done to the data.
+In Excel we share the final output but not how we got there. 
+In programming we share the final output 
+and we can include unambiguous instructions how to got there.
 
-You cannot look at an Excel file and know if any data cells were changed manually.
 ]
 
 .pull-right[
 
-**1. Transparency**:<br>
-You can share your code as a fully transparent list of anything ever done to the raw data.
-
-<br>**2. Replication**:<br>
-Anyone else who has access to the data inputs can use your code and run it to verify that they get the same results as you and your team.
-
-<br>**3. Re-usability**/**automation**:<br>
-We can copy/paste these instruction across our projects.
-
-In programming we copy/paste instructions for how to do tasks all the time. 
-Some programmers publish code with the sole purpose of it being used by others.
 ]
+
+---
+
+## Why programming? 
+
+This can be summed up in these key advantages about programming:
+
+**1. Transparency**<br>
+You can share your code as a fully transparent log
+of everything ever done to the input data.
+This log can be shared with others,
+but the person likely to benefit from this most frequently is yourself.
+
+**2. Replication**<br>
+As the code is a transparent log of what was done to the data, anyone else who has access to the input data can use your code and run it to verify that they get the same results as you and your team. This makes your results more credible.
+
+**3. Re-usability/automation**<br>
+We can copy/paste a section of code from one project to another.
+Meaning that we can repeat all work on one project to another project
+with just some small adjustments. 
+In fact, some developers write code which only purpose is 
+to be used by other users in their projects. 
+Such code is called a "_library_" and there are 1000s of them free to use.
 
 ---
 
@@ -120,11 +139,11 @@ class: inverse, center, middle
 # How is the workflow different when I write code?
 
 ---
-class: center, middle
-
-When working with code you need a different mindset and approach to datawork
+class: middle
 
 ## Data work in Excel vs. programmaing
+
+When working with code you need a different mindset and approach to datawork
 
 .pull-left[
 ### Excel
@@ -156,7 +175,7 @@ This is especially important for everyone working on research.
 Just like journals have required, for a long time, that all papers have a _theory_ and/or _methods_ section to explain the statistical method, more and more journals require that all papers include the code to show exactly how the code was processed and how the statistical methods were applied to the data.
 
 ---
-class: center, middle
+class: middle
 
 ## Programming is like writing recepies
 
@@ -197,7 +216,7 @@ Think of code as both something that enables us to do advanced data work, but al
 ---
 class: inverse, center, middle
 
-# Some basic concepts of code
+# Some common concepts in programming 
 
 ---
 class: middle
