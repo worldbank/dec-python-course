@@ -194,9 +194,9 @@ regression analysis, machine learning, national language processing etc.
 
 While it is true that code enables you to do advanced things you should consider the **_code as a end in itself_**. Think of code as an output just as much as dashboards, data visualizations etc. are.
 
-Think of **_code as a comprehensive and exact method of communicating_** 
+Think of **_code as a comprehensive and exact method to communicate_** 
 about your work. 
-Outputs shared, published etc. with the code used to generate them
+Outputs shared, published etc. together with the code used to generate them
 will always be received as more credible.
 
 Results in a research papers without a _theory_/_methods_ section
@@ -233,10 +233,61 @@ you do not need to write your code starting from scratch.
 You can always build on someone else's efforts.
 
 ---
+class: middle
 
-## Summary? 
+## Correct code can still be bad code
 
-This can be summed up in these key advantages about programming:
+Since the code is a central component in both
+communication about and collaboration on your work 
+it is important that you write good code.
+Good code is more than just code that generates correct results.
+
+As an example, have you ever received a letter written by a lawyer
+that is difficult to read even though it is very correct?
+Or have you ever read a World Bank working paper with
+a theory section that is impossible to follow? 
+We want to write code that also makes sense to someone 
+that has a different skill set.
+
+The peer most likely to benefit from your code being good code
+is your future self.
+Hastily written code, even when generating correct outputs, is likely to cause you or someone in your team a delay much longer then writing the code well in the first place.
+
+---
+class: middle
+
+## How to learn how to write good code
+
+Learn from the beginning how to write good code. 
+There are almost always more than one way to solve something in code. 
+
+**Learn from others**. 
+Whatever way we recommended in this course 
+is often based on  the practice with which we think 
+it is the easiest to write good code. 
+This is true for most trainings and tutorials you will learn from.
+
+**Review each other's code**. 
+The best way to learn about good code and the importance of it
+is to review code that has room from improvement.
+When you don't understand code, 
+pay attention to what is difficult to follow
+and ask yourself if you do the same thing.
+In addition to being a great learning experience, 
+peer-review of your code is a great way for you to improve,
+not just your skills,
+but also the code that you are contributing to your team.
+
+**Use comments**. Comments is a concept that 
+almost all programming languages have.
+Comments is a descriptive bit of text in your code file
+that is skipped by the computer. 
+It's only purpose is to make the code itself easier 
+to follow by a human reader.
+
+---
+
+## Summary - key advantages of programming:
 
 **1. Transparency**<br>
 You can share your code as a fully transparent log
@@ -245,27 +296,18 @@ This log can be shared with others,
 but the person likely to benefit from this most frequently is yourself.
 
 **2. Replication**<br>
-As the code is a transparent log of what was done to the data, anyone else who has access to the input data can use your code and run it to verify that they get the same results as you and your team. This makes your results more credible.
+As the code is a transparent log of what was done to the data,
+anyone else who has access to the input data can use your code
+and run it to verify that they get the same results as you and your team.
+This makes your results more credible
+and is becoming a standard requreirment in research.
 
 **3. Re-usability/automation**<br>
 We can copy/paste a section of code from one project to another.
 Meaning that we can repeat all work on one project to another project
 with just some small adjustments. 
-
-
----
-class: middle
-
-## Can correct code be both good or bad?
-
-Think of it as: "What makes a _theory_ and/or _methods_ section in a report good or bad?" 
-
-Can a peer with comparable knowledge about the topic at hand follow the code? 
-
-In data science and research we use the code to communicate to team members, peer-reviewers, consumers of our outputs etc. what was done to our data. 
-
-Think of code as both something that enables us to do advanced data work, but also as the most central tool about how we communicate about advanced data work.
-
+Over time we build a toolbox of code sections for tasks we frequently need,
+and we will be much more productive.
 
 ---
 class: inverse, center, middle
