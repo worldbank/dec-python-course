@@ -312,7 +312,7 @@ and we will be much more productive.
 ---
 class: inverse, center, middle
 
-# Some common concepts in programming 
+# Running code and some common concepts in programming 
 
 ---
 class: middle
