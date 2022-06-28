@@ -29,11 +29,12 @@ class: middle
 
 ## What we assume about you:
 
-Python programming can be used for many topics in computer science.
-It is impossible to cover all of them in one training.
-Therefore, we make the following assumptions about you and your use case: 
+Python programming can be used for many topics in computer science and we need to restrict the scope.
+Therefore, we make the following assumptions about you and how you want to use Python: 
 
-1. You want to use Python for some kind of data work (numbers, text data, geo-data etc.) as opposed to developing software, a server back-end etc.
+1. You want to use Python for data work (numbers, text data, geo-data etc.) 
+
+1. Developing software, a server back-end etc.
 
 1. You have some experience working with data. For example, extensive work in Excel or some work in Stata or R.
 
@@ -74,24 +75,25 @@ class: inverse, center, middle
 # Why programming? Why Python?
 
 ---
+class:  middle
 
 ## Why programming? 
 
 .pull-left[
-When working in programming we do not interact with the data directly.
-Instead, we write code that are exact instructions for a computer to interact with the data.
+Write instructions for a computer (code) to interact with the data,
+instead of manually edit the data.
 
-Computers always follows our instructions exactly.
-This give us an exact and transparent record 
-of what was done to our data 
-to generate the outputs that we publish.
+Computers are very exact.
+The code we write becomes an exact record
+of what was done to the data 
+and how outputs were generted.
 
-Compare with Excel where outputs are created
+In Excel, outputs are created
 using a mix of formulas and editing the data manually.
+We share the final output but not exactly how we got there. 
 
-In Excel we share the final output but not how we got there. 
 In programming we share the final output 
-and we can include unambiguous instructions how to got there.
+**and** the code that unambigiously shows how we got there.
 
 ]
 
@@ -101,23 +103,21 @@ and we can include unambiguous instructions how to got there.
 
 ---
 
+class: middle
+
 ## Why Python?
 
-Everything about programming on the previous slide
-applies to all programming languages. 
-Why are we teaching Python over any other language?
+Why are there so many programming languages? How is Python over any other language?
 
-1. Python is popular - especially in data science 
-Since we commonly copy other people's code, this actually matter a lot
+| Reason  | Description | Example of opposite |
+|---------|-----|-----|
+| Free/Open-source | Python is and will always be free | Licensed software such as Stata |
+| Popular | Many users means many user developed tools | Any other language |
+| Easy syntax | Python code reads more similarly to regular English | Most older languages |
+| General purpose | Python can be used for data science, servers, software etc. | R is only great at data science |
+| High-level | Python code runs the same way on Windows and Mac | Optimized languages such as C++ |
+| Error handling | Python stops when there is an error in the code | Javascript in web browsers |
 
-2. Python is can be used for much more than statistics/data science.
-Alternatives to Python like R and Stata can only be used for data
-
-3. Pyhton is considered to have "easy syntax". 
-This means that the code is written more similarly to regular English,
-making it easier for a human to read and understand what the code does.
-However, as beginners you will not always find it easy to read Python code,
-but it is easier than any comparable alternative.
 
 ---
 class: inverse, center, middle
