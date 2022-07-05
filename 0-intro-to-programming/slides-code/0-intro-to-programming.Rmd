@@ -168,6 +168,20 @@ class: middle
 
 .pull-right[PICTURE]
 
+
+
+
+---
+class: middle, center
+
+.large[
+  .margin-bottom100[
+    Code is not just a means to an end - **code is an end in itself**
+  ]
+  
+  The code is a comprehensive and exact method to communicate the project's data work, and **the code is an output** just as much as the project's final report, data visualizations etc.
+]
+
 ---
 class: middle
 
