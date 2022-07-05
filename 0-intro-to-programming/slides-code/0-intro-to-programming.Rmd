@@ -42,7 +42,7 @@ class: middle
 .pull-right[
   **Content of this session:**
   
-  1. Why programming and important differences to data work in Excel
+  1. Why programming? Work flow in data work programming
   
   1. Why Python?
   
@@ -69,7 +69,8 @@ For example, extensive work in Excel or some work in Stata or R.
 ---
 class: inverse, center, middle
 
-# Why programming? Why Python?
+# Why programming? 
+# Work flow in data work programming
 
 ---
 class:  middle
@@ -77,21 +78,15 @@ class:  middle
 ## Why programming? 
 
 .pull-left[
-Write instructions for a computer (code) to interact with the data,
-instead of manually edit the data.
 
-Computers are very exact.
-The code we write becomes an exact record
-of what was done to the data 
-and how outputs were generted.
+  Data work should be very exact. Computers are more exact than humans.
 
-In Excel, outputs are created
-using a mix of formulas and editing the data manually.
-We share the final output but not exactly how we got there. 
-
-In programming we share the final output 
-**and** the code that unambigiously shows how we got there.
-
+  Instead of manually working with the data directly, 
+  we write code that are instructions for computers to work with the data.
+  
+  Since computers are very exact, 
+  our code becomes an exact record of what was done to the data 
+  and how outputs were generated.
 ]
 
 .pull-right[
@@ -99,61 +94,17 @@ In programming we share the final output
 ]
 
 ---
+class:  middle
 
-class: middle
+## Compare Excel and programming
 
-## Why Python?
-
-Why are there so many programming languages? How is Python over any other language?
-
-| Reason  | Description | Example of opposite |
-|---------|-----|-----|
-| Free/Open-source | Python is and will always be free | Licensed software such as Stata |
-| Popular | Many users means many user developed tools | Any other language |
-| Easy syntax | Python code reads more similarly to regular English | Most older languages |
-| General purpose | Python can be used for data science, servers, software etc. | R is only great at data science |
-| High-level | Python code runs the same way on Windows and Mac | Optimized languages such as C++ |
-| Error handling | Python stops when there is an error in the code | Javascript in web browsers |
-
-
----
-class: inverse, center, middle
-
-# How is the workflow different when I write code?
-
----
-class: middle
-
-## Data work in Excel vs. programmaing
-
-When working with code you need a different mindset and approach to datawork
-
-.pull-left[
-### Excel
-* In Excel you edit the `.xlsx` file directly and save new version of the file.
-* This file includes all input data, formulas, manual edits
-as well the final outputs. 
-* The final output can be a results of 
-manual edits, formulas in cells, features from the menus in Excel 
-or mix of them all
-* When collaborating, you share the file 
-and other team members makes edits directly to the file
-* Apart from formulas in cells, 
-there is no log of what anyone has done manually to the data
-]
-
-.pull-right[
-### Programming
-* In programming you only edit the code, 
-and never directly the input data or the output
-* Think of code as instructions for a computer on how to
-generate outputs from a certain input, 
-including all data cleaning steps.
-* When collaborating, you share the code files,
-and other team members only edit the instructions in the code
-* The code should never require any manual steps - all steps needed should be included in the code
-* Anyone with the code and the inputs should be able to genereate the same outputs, with no other action than running the code 
-]
+  | | Excel | Programming |
+  |---------|-----|-----|
+  | Are manual edits done directly to the files containing data? | Yes, we manually work directly in the file containing the raw data and and outputs | We only manually edit the code which is a different file from data and output.  |
+  | Can we write instructions for the computer to modify our data? | Yes, formulas | Yes, code |
+  | Are instructions to modify our data mixed with manual edits? | Yes, it is common | No, that's never the work flow |
+  | Do we have an unambiguous way of sharing what was done to the data? | Only formulas are shown, not manual edits | Yes, it is the code |
+  | Is it easy for a reviewer to reproduce all steps? | Its challenging or impossible to follow any manual edits as there is no record of them | Yes, anyone who has the code and the access to the input data can reproduce everything |
 
 ---
 class: middle
@@ -161,24 +112,96 @@ class: middle
 ## Programming is like writing recepies
 
 .pull-left[
-### Sponge cake:
-* Set oven on 200C
-* Melt 200g butter and mix with 200g sugar
-* Mix in 4eggs one at the time
-* Mix in 200g flour
-* Bake in the middle of the oven for 30 min
+  ### Sponge cake:
+  * Set oven on 200C
+  * Melt 200g butter and mix with 200g sugar
+  * Mix in 4eggs one at the time
+  * Mix in 200g flour
+  * Bake in the middle of the oven for 30 min
 ]
 
 .pull-right[
-### Data science visualization:
-* Get GDP per capita data from for all countries
-* Get investment data from all WB client countries
-* Remove data that was not found in both dataset
-* Sort ascendingly on GDP per capita
-* Export a scatter plot and format the colors and the text
+  ### Data science visualization:
+  * Get GDP per capita data from for all countries
+  * Get investment data from all WB client countries
+  * Remove data that was not found in both dataset
+  * Sort ascendingly on GDP per capita
+  * Export a scatter plot and format the colors and the text
 ]
 
-Really, thinking of your code as a baking recipe is a great approach to write good code.
+
+---
+class: middle
+
+## Data work in programmaing
+
+.pull-left[
+
+* Code should only have well-documented inputs 
+
+* How to document original data:
+    * _Primary data_: secure back-up of raw data
+    * _Secondary data_: Cite the data source
+
+* Derivatives of original data (new data products and analysis outputs) should be created from original data and code only
+  
+* Version control your code - Git/GitHub
+]
+
+.pull-right[
+
+]
+
+
+---
+class: middle
+
+## Code is how you communcate data science
+
+.pull-left[
+  Chefs use recipes to communicate about food, 
+  data scientists use code to communicate about data work.
+  
+  A cook book of poorly written recipes will lead to bad food. 
+  The same applies to code and data outputs.
+]
+
+.pull-right[PICTURE]
+
+---
+class: middle
+
+## Learn how to commnuicate data science well
+
+.pull-left[
+  **Correct code:** Code that generates correct results
+  
+  **Good code:** Code that can be understood and used by others
+]
+
+.pull-right[
+  **Code should be both correct code and good code.**
+  
+  Correct code is really valuable to a team,
+  if it can be read and understood by the team members.
+  
+  Compare this to, for example, a recipe, a driving direction or legal contract,
+  that is correct but impossible to read or understand by anyone else.
+]
+
+
+---
+class: middle, center
+
+.large[
+  .margin-bottom100[
+    Code is not just a means to an end - **code is an end in itself**
+  ]
+  
+  The code is a comprehensive and exact method to communicate the project's data work, and **the code is an output** just as much as the project's final report, data visualizations etc.
+]
+
+
 
 ---
 class: middle
