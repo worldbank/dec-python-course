@@ -35,8 +35,9 @@ class: middle
   If you have no programming background, 
   then this session will prepare you for the rest of the course.
   
-  In addition to learning how to write code,
-  you also need to learn to approach data work slightly differently.
+  You will need to learn two things to do data work in Python:
+  * Read and write Python code
+  * Think slightly different about work flow in data work
 ]
 
 .pull-right[
@@ -139,13 +140,12 @@ class: middle
 
 * Code should only have well-documented inputs 
 
-* How to document original data:
+* How to document original data used as input:
     * _Primary data_: secure back-up of raw data
     * _Secondary data_: Cite the data source
 
 * Derivatives of original data (new data products and analysis outputs) should be created from original data and code only
-  
-* Version control your code - Git/GitHub
+
 ]
 
 .pull-right[
@@ -159,8 +159,8 @@ class: middle
 ## Code is how you communcate data science
 
 .pull-left[
-  Chefs use recipes to communicate about food, 
-  data scientists use code to communicate about data work.
+  Chefs use recipes to communicate about food. - 
+  Data scientists use code to communicate about data work.
   
   A cook book of poorly written recipes will lead to bad food. 
   The same applies to code and data outputs.
@@ -237,7 +237,7 @@ class: middle
   
   Code is only really valuable to a team,
   if it both generates the correct results 
-  and can understood by the team members.
+  and it can be understood by the team members.
   
 
 ]
@@ -342,6 +342,8 @@ and who work on similar types of projects might be the best way
 on how to realize what makes your own code hard to follow,
 
 ---
+class: middle
+
 ## Version control of code means version control of all your data work
 
 .pull-left[
