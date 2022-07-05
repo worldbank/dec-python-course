@@ -24,51 +24,47 @@ class: inverse, center, middle
 # Intro to session
 
 ---
+class: middle
+
+## Scope of this session
+
+.pull-left[
+  The *DEC Foundations of Python* does not require
+  that you have any background in programming. 
+  
+  If you have no programming background, 
+  then this session will prepare you for the rest of the course.
+  
+  In addition to learning how to write code,
+  you also need to learn to approach data work slightly differently.
+]
+
+.pull-right[
+  **Content of this session:**
+  
+  1. Why programming and important differences to data work in Excel
+  
+  1. Why Python?
+  
+  1. How does one write good code?
+  
+  1. Some common concepts in programming 
+]
 
 ---
 class: middle
 
 ## What we assume about you:
 
-Python programming can be used for many topics in computer science and we need to restrict the scope.
-Therefore, we make the following assumptions about you and how you want to use Python: 
+Python can be used for many topics in computer science. 
+But we must restrict the scope.
+We've made these assumptions about you and why you want to learn Python: 
 
-1. You want to use Python for data work (numbers, text data, geo-data etc.) 
+1. You want to use Python for data work (numbers, text data, geo-data etc.), 
+as opposed to, developing software, website back-ends etc.
 
-1. Developing software, a server back-end etc.
-
-1. You have some experience working with data. For example, extensive work in Excel or some work in Stata or R.
-
-1. You are familiar with the topic you want to apply your Python skills to
-
----
-class: middle
-
-## Scope of this session
-
-.pull-left[
-The *DEC Foundations of Python* does not require
-that you have any background in programming. 
-
-If you have no background in any type of programming, 
-then this session will prepare you for the rest of the course.
-
-We will cover how working with code is different,
-some basic concepts of programming
-as well as allow a lot of time for questions.
-]
-
-.pull-right[
-**Content of this session:**
-
-1. Why programming and why Python?
-
-1. How is the workflow different when I write code?
-
-1. Some common concepts in programming 
-]
-
-
+1. You have some experience working with data. 
+For example, extensive work in Excel or some work in Stata or R.
 
 ---
 class: inverse, center, middle
