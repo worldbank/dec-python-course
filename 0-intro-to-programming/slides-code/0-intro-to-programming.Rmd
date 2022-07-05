@@ -5,6 +5,7 @@ author: "DIME Analytics & DECAT"
 institute: "DEC, The World Bank Group"
 output:
   xaringan::moon_reader:
+    css: [default,default-fonts,custom-css/this-slide.css] 
     lib_dir: libs
     nature:
       ratio: "16:9"
