@@ -182,6 +182,37 @@ class: middle, center
   The code is a comprehensive and exact method to communicate the project's data work, and **the code is an output** just as much as the project's final report, data visualizations etc.
 ]
 
+
+---
+class: inverse, center, middle
+
+# Why Python?
+
+---
+
+class: 
+
+## Why Python?
+
+
+.pull-left[
+
+Why are there so many programming languages? How does Python compare to other languages?
+
+**Free/Open-source**: Python is and will always be 100% free to use
+
+**Easy syntax**: Python code reads more similarly to regular English
+
+**Widely used**: Many users means many user developed tools
+
+**#1 in data science**: The language with most data science tools
+
+**General purpose**: Python can be used for data science, servers, software etc.
+]
+
+.pull-right[
+
+]
 ---
 class: middle
 
