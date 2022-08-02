@@ -96,6 +96,7 @@
 !/**/Output/**/*.xml
 !/**/Output/**/*.eps
 !/**/Output/**/*.svg
+!/1-foundations/3-numpy-and-pandas/data/*
 
 #######################
 # Include all the files with passwords or tokens here. All files named
