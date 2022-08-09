@@ -21,7 +21,7 @@ options(htmltools.dir.version = FALSE)
 ---
 class: inverse, center, middle
 
-# Intro to session
+# Session overview
 
 ---
 class: middle
@@ -35,9 +35,11 @@ class: middle
   If you have no programming background, 
   then this session will prepare you for the rest of the course.
   
-  You will need to learn two things to do data work in Python:
-  * Read and write Python code
-  * Think slightly different about work flow in data work
+  To be successful in programming data work in Python code,
+  you need to learn two skills:
+  
+  * Learn how to write Python code 
+  * Learn how to approach a task like a coder
 ]
 
 .pull-right[
@@ -47,25 +49,34 @@ class: middle
   
   1. Why Python?
   
-  1. How does one write good code?
+  1. How does one write "_good code_"?
   
   1. Some common concepts in programming 
 ]
+
 
 ---
 class: middle
 
 ## What we assume about you:
+.pull-left[
+  
+  Python can be used for countless of topics in computer science. 
+  However, the scope of this training is limited to:
+  
+  1. How to use Python for data work. Numbers, text data, geo-data etc.
+  
+  1. Participants have some experience working with data. 
+  For example, extensive work in Excel or some work in Stata or R.
+  
+  1. This course does not include how to use Python 
+  for software development, backends for websites etc.
+]
 
-Python can be used for many topics in computer science. 
-But we must restrict the scope.
-We've made these assumptions about you and why you want to learn Python: 
-
-1. You want to use Python for data work (numbers, text data, geo-data etc.), 
-as opposed to, developing software, website back-ends etc.
-
-1. You have some experience working with data. 
-For example, extensive work in Excel or some work in Stata or R.
+.pull-right[
+  
+  IMAGE OF EXCLE AND STATA LOGO WITH ARROW TOWARDS PYTHON LOGO
+]
 
 ---
 class: inverse, center, middle
@@ -76,14 +87,15 @@ class: inverse, center, middle
 ---
 class:  middle
 
-## Why programming? 
+## Why use programming for data work? 
 
 .pull-left[
 
   Data work should be very exact. Computers are more exact than humans.
 
-  Instead of manually working with the data directly, 
-  we write code that are instructions for computers to work with the data.
+  Instead of manually working directly one the data, 
+  we write code that are instructions for computers 
+  on what to do with the data.
   
   Since computers are very exact, 
   our code becomes an exact record of what was done to the data 
@@ -101,11 +113,11 @@ class:  middle
 
   | | Excel | Programming |
   |---------|-----|-----|
-  | Are manual edits done directly to the files containing data? | Yes, we manually work directly in the file containing the raw data and and outputs | We only manually edit the code which is a different file from data and output.  |
-  | Can we write instructions for the computer to modify our data? | Yes, formulas | Yes, code |
-  | Are instructions to modify our data mixed with manual edits? | Yes, it is common | No, that's never the work flow |
+  | Are manual edits done directly to the files containing data? | Yes, we manually work directly in the file containing the raw data and and outputs | We only manually edit the code which is in files from files with data and output.  |
+  | Can we write instructions for the computer to modify our data? | Yes, this is an option (Excel formulas) | Yes, and this is the only way (code)  |
+  | Can the instructions to modify the data be mixed with manual edits? | Yes, and it is common. | No, code should always start from unaltered raw data |
   | Do we have an unambiguous way of sharing what was done to the data? | Only formulas are shown, not manual edits | Yes, it is the code |
-  | Is it easy for a reviewer to reproduce all steps? | Its challenging or impossible to follow any manual edits as there is no record of them | Yes, anyone who has the code and the access to the input data can reproduce everything |
+  | Is it easy for a reviewer to reproduce all steps? | Its challenging or impossible to follow any manual edits as there is no record of them | Yes, anyone who has the code and have access to the input data can reproduce everything |
 
 ---
 class: middle
@@ -116,7 +128,7 @@ class: middle
   ### Sponge cake:
   * Set oven on 200C
   * Melt 200g butter and mix with 200g sugar
-  * Mix in 4eggs one at the time
+  * Mix in 4 eggs - one at the time
   * Mix in 200g flour
   * Bake in the middle of the oven for 30 min
 ]
@@ -138,13 +150,18 @@ class: middle
 
 .pull-left[
 
-* Code should only have well-documented inputs 
+Ingredients in a cooking recipes can vary.
 
-* How to document original data used as input:
-    * _Primary data_: secure back-up of raw data
-    * _Secondary data_: Cite the data source
+Inputs to code can and should be very exact. 
+How that is done depends on the type of data.
 
-* Derivatives of original data (new data products and analysis outputs) should be created from original data and code only
+* _Primary data_: Properly back-up of raw data
+* _Secondary shared data_: Cite and back-up the data source
+* _Secondary published data_: Cite the data source
+
+Derivatives of original data (new data products and analysis outputs) should be created from original data and code only.
+
+See [DIME Analytic's book](http://hdl.handle.net/10986/35594) for more details.
 
 ]
 
@@ -159,11 +176,13 @@ class: middle
 ## Code is how you communcate data science
 
 .pull-left[
-  Chefs use recipes to communicate about food. - 
+  Chefs use recipes to communicate about food
+  
   Data scientists use code to communicate about data work.
   
   A cook book of poorly written recipes will lead to bad food. 
-  The same applies to code and data outputs.
+  
+  Poorly written code will lead to bad communication about data work
 ]
 
 .pull-right[PICTURE]
@@ -179,7 +198,10 @@ class: middle, center
     Code is not just a means to an end - **code is an end in itself**
   ]
   
-  The code is a comprehensive and exact method to communicate the project's data work, and **the code is an output** just as much as the project's final report, data visualizations etc.
+  The code is a comprehensive and exact method
+  to communicate the project's data work, 
+  and **the code is an output** just as much as 
+  the project's final report, data visualizations etc.
 ]
 
 
@@ -230,26 +252,27 @@ class: middle
   **Correct code:** Code that generates correct results
   
   **Good code:** Code that can be understood and used by others
+  
+  Code should be **both** correct code and good code.
+  Only then is code useful as an output of your data work.
+  
+  Start by writing _correct code_, 
+  then keep going to write _good code_.
 ]
 
 .pull-right[
-  **Code should be both correct code and good code.**
-  
-  Code is only really valuable to a team,
-  if it both generates the correct results 
-  and it can be understood by the team members.
-  
-
 ]
 
 ---
-class: middle, center
+class: middle
 
-.large[
-    _Trial and error!_
-]
+## Trial and error!
 
-Don't be afraid of making errors as we are not editing the data directly!
+**Writing correct code usually takes many errors**
+
+Don't be afraid of making errors as the data is not edited the data directly! 
+
+Even the best coders user trial and error - what makes them good is how 
 
 ---
 
@@ -262,15 +285,35 @@ class: middle
   
 * Python always give you some message when there is an error
   
-* Learn how to interpret error messages - google them
+* Learn how to interpret error messages - Google them
 
-* You will have thousands of bugs - 
+* You will have thousands of errors and bugs - 
 test run your code and find out where it breaks
 ]
 
 .pull-right[
   PICTURE TEXT ERROR IN HEART
 ]
+
+
+---
+class: middle
+
+## When the code works you are only half-done
+
+How to make correct code into good code?
+
+Ask yourself 
+"_Would someone with your level of Python knowledge
+be able to follow the code?_"
+
+* Simplify
+* Peer-review
+* Document
+
+Settling for "_just_" correct code does not 
+save you or your team any time in the long run.
+
 
 ---
 
@@ -289,144 +332,235 @@ Three levels of re-using code:
 
 * **Library:** Code packages developed by others to solve difficult tasks but made easy use in any project
 
-In short, in programming you should always build on someone else' efforts. This _someone_ can be your past self.
+***
 
-Compare with Excel. You can use the built-in features, but how do you build on the efforts of other users?
+**Do not re-invent wheels**
 
----
-class: middle
-
-## When the code works you are only half-done
-
-Once you have written correct code, 
-you should make sure that you write correct **and** good code.
-
-How to make correct code into good code?
-
-* Simplify
-* Document
-* Peer-review
-
-Ask yourself, would someone with basic knowledge in your topic
-and basic knowledge be able to follow you code?
-
-The person most likely to suffer from your code being hard to follow
-is the future you. It is unlikely that you save time in the long run by settling code that is "_just_" correct.
+* Aim to have each section of code be built on someone else' efforts
+* Someone else's efforts can be the efforts of past you 
+* Compare with Excel - how do you build on the efforts of other users?
 
 ---
 class: middle
 
-## Comments
+## Learn good code from expert coders
 
-All programming languages has a feature called _comments_. 
-Comments is text inside the code that is skipped when the computer executes the code.
-Its only purpose is to provide context to the code for a human reading the code.
-
-Good comments explain the _why_ and not the _what_. What the code does can often be inferred from the code itself. Comments best compliment the code if it explains why the code is written a certain way.
-
-
----
-class: middle
-
-## Learn how to write good code from others
-
-#### Use critical thinking when reading code examples
-When you read code examples, always ask yourself if it was easy to follow. Why was it easy to follow or why was it not easy to follow?
-
-#### Peer-review code
-Code examples are usually well curated elegant and simple ways of solving some coding tasks. 
-This might not be applicable for your day-to-day tasks.
-
-Reviewing code written by someone who are at your level of Python skills
-and who work on similar types of projects might be the best way 
-on how to realize what makes your own code hard to follow,
+.pull-left[
+  **Be careful** - expert code examples can be deceptive
+  
+  Advanced code examples is usually meant to explain
+  how to do something complex _correctly_, 
+  and not how to write _good code_.
+  
+  An advance example might not fit your project, 
+  regardless how _correct_ it solved a well-defined school book example.
+  Use critical thinking.
+]
 
 ---
 class: middle
 
-## Version control of code means version control of all your data work
+## Learn good code from peer coders
+.pull-left[
+  Read code from real world data work examples, 
+  written by people at or just above your skill level
+  
+  This will teach you lessons 
+  much more applicable to your day-to-day work,
+  than school book examples
+  
+  Code written by someone at your level 
+  will teach you much more about how you
+  can become better at writing good code.
+  
+]
+
+---
+class: middle,
+
+## Documentation - comments
 
 .pull-left[
 
-The code is used to generate all derivatives of the original data (intermediate data, final data, results, data visualizations, dashboards etc.)
-
-If the original data used as input is fixed (backed-up or properly cited) and the code is version controlled, then all version of the derivatives are also version controlled.
-
-Since this is such a valuable feature of programming, much work has gone into develop standard for version control of code. That standard is a software called Git/GitHub.
-
+  All programming languages has a feature called _comments_. 
+  
+  Comments are text in the same file as the code 
+  that the computer skips when running the code.
+  
+  Comments' only (but important) purpose
+  is to provide context for a human reading the code.
+  
+  Comments best compliment the code if 
+  they explains why the code is written a certain way.
 ]
 
+.pull-right[
+
+  | OK comment | Good comment |
+  | --- | --- |
+  | _What_ code does | _What_ code does **and** _why_ |
+  | `Load data` | `Loading region definitions shared by NGO used in sampling` |
+  | `Deleting variable "id" and "name"` | `Removing identifying variables to create a non-confidential data set` |
+  
+]
 
 ---
 class: inverse, center, middle
 
-# Running code and intro to flow control
+# Some common concepts in programming 
 
 ---
 class: middle
 
-## Code instructions are executed top to bottom
+## Version control
 
 .pull-left[
-Just like a recipe, the instructions in code are read from top to bottom.
 
-However, when re-using code to not repeat ourselves, 
-we sometimes needs to repeat some parts of the code, 
-and sometimes skip some blocks of code.
+  _"Version control"_ refers to tools used to:
 
-Session 2 will cover how to implement these concepts in Python.
-In this session we will only spend time to make sure that the concept makes sense on a high level.
+  * Keep track of multiple people 
+  making different contributions 
+  to the files of a project
+  * Give access to previous versions
+  of the files of a project
+  
+  
+  Version control exists outside programming. 
+  For example, `ctrl+z`, 
+  restore files in OneDrive or Dropbox,
+  recovered files in Windows, etc.
+  
+  In coding version control is much more comprehensive,
+  and can track every single edit anyone in the team do.
+
+]
+
+---
+class: middle
+
+## Version control of code = Version control of all data work
+  
+  Code is very exact instructions on 
+  how to create outputs from original data.
+  
+  If we handle the original data with the same level of exactness
+  (backed-up or properly cited), 
+  and if we version control our code, 
+  then all outputs are also version controlled.
+  
+  Version controlling all work is perhaps
+  the most valuable feature of programming.
+  
+  That standard for version control in code 
+  is called _Git_ or _GitHub_.
+  
+---
+class: middle
+
+.pull-left[
+
+  ## Code flow
+
+  Just like a recipe, the instructions in code are read from top to bottom.
+  
+  Each "sections" in the diagram is a task 
+  that can be a code block of one or many lines of code.
+  
+  In data work we repeat the same task on multiple parts of the data.
+  It is not _good code_ to repeat the code multiple times. 
+  We need a way to express a repeat.
+  
+  Similarly, some tasks only applies to some parts of the data.
+  We need a way to express a condition.
 ]
 
 .pull-right[
-TODO: DIAGRAM WITH BLOCKS THAT REPRESENTS SECTIONS IN CODE
+  ```{r, eval=TRUE, echo=FALSE,out.width = '75%'}
+    knitr::include_graphics("img/code-flow-simple.png")
+  ```
 ]
-
 
 ---
 class: middle
+
+
+
+.pull-left[
 
 ## Repeating parts of the code
 
-.pull-left[
 We can repeat a section of code using **loops**.
 
 Three ways of deciding how many times to repeat:
-* **Hard coded**. Repeat an exact number of tiems. For example, 10 times
+* **Hard coded**. Repeat an exact number of times. For example, 10 times
+
 * **While-loop**. Repeat until a condition is met. For example, a match is found
-* **Dynamically**. Use a characteristc in the data to decide the number of repeats. For example, repeat once for each country in the data set.
+
+* **Dynamically**. Use a characteristic in the data 
+to decide the number of repeats. 
+For example, repeat once for each country in the data set.
 
 ]
 
 .pull-right[
-TODO: DIAGRAM WITH BLOCKS THAT REPRESENTS SECTIONS IN CODE WHERE ONE BLOCK IS REPEATED
+  ```{r, eval=TRUE, echo=FALSE,out.width = '75%'}
+    knitr::include_graphics("img/code-flow-loop.png")
+  ```
 ]
-
 ---
 class: middle
 
-## Sometimes skipping parts of the code
+
 
 .pull-left[
 
-Some code blocks might have sections that does not always apply. 
-We need to instruct the computer when to skip that code. 
-We do this using **if-conditions**.
+## Sometimes skipping parts of the code
 
-Examples:
-* When repeating several blocks of code in a loop, only execute certain blocks on certain countries.
-* When writing code meant to be re-used across different contexts, if-conditions can make the code adapt to different contexts without manual edits.
+When repeating or re-suing code, 
+some sections does not always apply.
+We use **if-conditions** to instruct the computer
+when to skip some code. 
+
+* Only execute certain blocks on certain countries in a loop
+
+* Code intended to be re-used across projects can fit more cases
+when **if-conditions** are used
+to make the code adapt itself to what is needed in each context.
 
 ]
 
 .pull-right[
-TODO: DIAGRAM WITH BLOCKS THAT REPRESENTS SECTIONS IN CODE WHERE ONE BLOCK IS CONDITIONAL
+  ```{r, eval=TRUE, echo=FALSE,out.width = '75%'}
+    knitr::include_graphics("img/code-flow-if.png")
+  ```
 ]
 
 ---
 class: middle
 
-## Summary - key advantages of programming:
+.pull-left[
+
+  ## Code flow - combine it all
+  
+  Often loops and if-conditions are combined or they can be nested. 
+  
+  Session 2 of this course will show how this is done in Python. 
+  
+  Having neat, human readable and intuitive code flow 
+  using loops and if-conditions,
+  is important to make code _good code_.
+]
+
+.pull-right[
+  ```{r, eval=TRUE, echo=FALSE,out.width = '75%'}
+    knitr::include_graphics("img/code-flow-example.png")
+  ```
+] 
+
+---
+class: middle
+
+## Summary in terms of research standards
 
 **1. Transparency**<br>
 You can share your code as a fully transparent log
@@ -453,5 +587,8 @@ and we will be much more productive.
 class: center, middle
 
 # Thanks!
+
+# Questions?
+
 
 
