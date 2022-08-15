@@ -411,70 +411,53 @@ class: middle,
 class: inverse, center, middle
 
 # Some common concepts in programming 
-
+  
 ---
 class: middle
 
-## Version control
-
 .pull-left[
 
-  _"Version control"_ refers to tools used to:
-
-  * Keep track of multiple people 
-  making different contributions 
-  to the files of a project
-  * Give access to previous versions
-  of the files of a project
+  ## What is a script?
   
+  **A script is file with code** 
+  that is meant to run in a certain order, 
+  usually from top to bottom 
+  (_not the formal definition_).
   
-  Version control exists outside programming. 
-  For example, `ctrl+z`, 
-  restore files in OneDrive or Dropbox,
-  recovered files in Windows, etc.
+  Compare with software that is meant to use different code
+  depending on how each user interacts with it.
   
-  In coding version control is much more comprehensive,
-  and can track every single edit anyone in the team do.
-
+  **A project often consists of several scripts.**
+  If they are not fully independent, 
+  then the order to run them should be clear.
+  
+  Compare again to recipes that you follow top to bottom,
+  and how you can have sub-recipes for common small tasks.
 ]
 
----
-class: middle
+.pull-right[
 
-## Version control of code = Version control of all data work
-  
-  Code is very exact instructions on 
-  how to create outputs from original data.
-  
-  If we handle the original data with the same level of exactness
-  (backed-up or properly cited), 
-  and if we version control our code, 
-  then all outputs are also version controlled.
-  
-  Version controlling all work is perhaps
-  the most valuable feature of programming.
-  
-  That standard for version control in code 
-  is called _Git_ or _GitHub_.
+]  
   
 ---
 class: middle
 
 .pull-left[
 
-  ## Code flow
+  ## Control flow
 
-  Just like a recipe, the instructions in code are read from top to bottom.
+  For a script to run from top to bottom and 
+  still be _good code_,
+  we need to introduce two ways of controlling the flow of the code.
   
-  Each "sections" in the diagram is a task 
-  that can be a code block of one or many lines of code.
+  No recipes would say
+  "_do step A, then do it again, and then do it a third time_".
+  Instead it would say "_repeat step A 3 times_".
+  Repeats in code are called __loops__.
   
-  In data work we repeat the same task on multiple parts of the data.
-  It is not _good code_ to repeat the code multiple times. 
-  We need a way to express a repeat.
+  In recipes, you can read "_if X applies to you, then skip to step Y_".
+  In code, such skips are created using __if-conditions__.
   
-  Similarly, some tasks only applies to some parts of the data.
-  We need a way to express a condition.
 ]
 
 .pull-right[
@@ -486,15 +469,12 @@ class: middle
 ---
 class: middle
 
-
-
 .pull-left[
 
 ## Repeating parts of the code
 
-We can repeat a section of code using **loops**.
+When using **loops** we need a way to decide how many iterations in a loop.
 
-Three ways of deciding how many times to repeat:
 * **Hard coded**. Repeat an exact number of times. For example, 10 times
 
 * **While-loop**. Repeat until a condition is met. For example, a match is found
@@ -512,8 +492,6 @@ For example, repeat once for each country in the data set.
 ]
 ---
 class: middle
-
-
 
 .pull-left[
 
@@ -559,6 +537,51 @@ class: middle
     knitr::include_graphics("img/code-flow-example.png")
   ```
 ] 
+
+---
+class: middle
+
+## Version control
+
+.pull-left[
+
+  _"Version control"_ refers to tools used to:
+
+  * Keep track of multiple people 
+  making different contributions 
+  to the files of a project
+  * Give access to previous versions
+  of the files of a project
+  
+  
+  Version control exists outside programming. 
+  For example, `ctrl+z`, 
+  restore files in OneDrive or Dropbox,
+  recovered files in Windows, etc.
+  
+  In coding version control is much more comprehensive,
+  and can track every single edit anyone in the team do.
+
+]
+
+---
+class: middle
+
+## Version control of code = Version control of all data work
+  
+  Code is very exact instructions on 
+  how to create outputs from original data.
+  
+  If we handle the original data with the same level of exactness
+  (backed-up or properly cited), 
+  and if we version control our code, 
+  then all outputs are also version controlled.
+  
+  Version controlling all work is perhaps
+  the most valuable feature of programming.
+  
+  That standard for version control in code 
+  is called _Git_ or _GitHub_.
 
 ---
 class: middle
