@@ -1,7 +1,7 @@
 ---
 title: "Intro to Programming"
-subtitle: "Session 0 - DEC Python training"
-author: "DIME Analytics & DECAT"
+subtitle: "Session 0 - Foundations of Python for Data Science"
+author: "DIME & DECDG"
 institute: "DEC, The World Bank Group"
 output:
   xaringan::moon_reader:
@@ -93,7 +93,7 @@ class:  middle
 
   Data work should be very exact. Computers are more exact than humans.
 
-  Instead of manually working directly one the data, 
+  Instead of manually working directly on the data, 
   we write code that are instructions for computers 
   on what to do with the data.
   
@@ -122,7 +122,7 @@ class:  middle
 ---
 class: middle
 
-## Programming is like writing recepies
+## Programming is like writing recipes
 
 .pull-left[
   ### Sponge cake:
@@ -146,11 +146,11 @@ class: middle
 ---
 class: middle
 
-## Data work in programmaing
+## Data work in programming
 
 .pull-left[
 
-Ingredients in a cooking recipes can vary.
+Ingredients in a cooking recipe can vary.
 
 Inputs to code can and should be very exact. 
 How that is done depends on the type of data.
@@ -173,7 +173,7 @@ See [DIME Analytic's book](http://hdl.handle.net/10986/35594) for more details.
 ---
 class: middle
 
-## Code is how you communcate data science
+## Code is how you communicate data science
 
 .pull-left[
   Chefs use recipes to communicate about food
@@ -201,7 +201,7 @@ class: middle, center
   The code is a comprehensive and exact method
   to communicate the project's data work, 
   and **the code is an output** just as much as 
-  the project's final report, data visualizations etc.
+  the project's final report, data visualizations, etc.
 ]
 
 
@@ -322,7 +322,7 @@ class: middle
 ## Re-use code
 
 Since the instructions (code) is separate from input and output,
-we can re-use code blocks within and across projects. An imporant paradigm in coding is **DRY** (don't uepeat yourself)
+we can re-use code blocks within and across projects. An important paradigm in coding is **DRY** (don't repeat yourself)
 
 Three levels of re-using code:
 
@@ -516,7 +516,7 @@ class: middle
 
 ## Sometimes skipping parts of the code
 
-When repeating or re-suing code, 
+When repeating or re-using code, 
 some sections does not always apply.
 We use **if-conditions** to instruct the computer
 when to skip some code. 
