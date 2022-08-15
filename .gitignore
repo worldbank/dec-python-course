@@ -87,15 +87,11 @@
 #!/**/*.yaml
 
 #######################
-# Include some additional file formats in any output folder. You might have
-# to change the name of the Output folder to whatever it is called in your
-# project, but we strongly recommend that you only include these files in
-# a subset of the folders where you are certain no private data is ever stored.
-!/**/Output/**/*.txt
-!/**/Output/**/*.csv
-!/**/Output/**/*.xml
-!/**/Output/**/*.eps
-!/**/Output/**/*.svg
+# Include images if they are in a folder img
+!/**/img/**/*.png
+!/**/img/**/*.jpeg
+
+# Include session 3 data files
 !/1-foundations/3-numpy-and-pandas/data/*
 
 #######################
