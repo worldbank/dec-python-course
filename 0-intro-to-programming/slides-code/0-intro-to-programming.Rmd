@@ -115,7 +115,7 @@ class:  middle
   |---------|-----|-----|
   | Are manual edits done directly to the files containing data? | Yes, we manually work directly in the file containing the raw data and and outputs | We only manually edit the code which is in files from files with data and output.  |
   | Can we write instructions for the computer to modify our data? | Yes, this is an option (Excel formulas) | Yes, and this is the only way (code)  |
-  | Can the instructions to modify the data be mixed with manual edits? | Yes, and it is common. | No, code should always start from unaltered raw data |
+  | Can computer instructions be mixed with manual edits? | Yes, and it is common. | No, code should always start from unaltered raw data |
   | Do we have an unambiguous way of sharing what was done to the data? | Only formulas are shown, not manual edits | Yes, it is the code |
   | Is it easy for a reviewer to reproduce all steps? | Its challenging or impossible to follow any manual edits as there is no record of them | Yes, anyone who has the code and have access to the input data can reproduce everything |
 
