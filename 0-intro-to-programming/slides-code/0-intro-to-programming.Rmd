@@ -560,22 +560,22 @@ class: middle
 ---
 class: middle
 
-## Summary in terms of research standards
+## The advantages of code benefits your data science and research work 
 
-**1. Transparency**<br>
+**1. Transparency and Replicability**<br>
 You can share your code as a fully transparent log
 of everything ever done to the input data.
 This log can be shared with others,
 but the person likely to benefit from this most frequently is yourself.
 
-**2. Replication**<br>
+**2. Reproducibility**<br>
 As the code is a transparent log of what was done to the data,
 anyone else who has access to the input data can use your code
 and run it to verify that they get the same results as you and your team.
 This makes your results more credible
 and is becoming a standard requirement in research.
 
-**3. Re-usability/automation**<br>
+**3. Re-usability and Automation**<br>
 We can copy/paste a section of code from one project to another.
 Meaning that we can repeat all work on one project to another project
 with just some small adjustments. 
