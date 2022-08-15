@@ -242,8 +242,6 @@ class: inverse, center, middle
 # How does one write good code?
 
 ---
-
----
 class: middle
 
 ## Learn how to commnuicate data science well
@@ -270,9 +268,10 @@ class: middle
 
 **Writing correct code usually takes many errors**
 
-Don't be afraid of making errors as the data is not edited the data directly! 
+Don't be afraid of making errors, as code should not edit the original data! 
 
-Even the best coders user trial and error - what makes them good is how 
+Even the best coders use trial and error - 
+what makes them the best is how well they understand the errors
 
 ---
 
