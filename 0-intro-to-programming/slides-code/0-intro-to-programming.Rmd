@@ -150,18 +150,22 @@ class: middle
 
 .pull-left[
 
-Ingredients in a cooking recipe can vary.
+If code is a recipe, 
+then the ingredients of data work is 
+the project's original data.
 
-Inputs to code can and should be very exact. 
-How that is done depends on the type of data.
+While organic ingredients in food is slightly different each time, 
+code inputs can and should be as exact as the code.
 
-* _Primary data_: Properly back-up of raw data
-* _Secondary shared data_: Cite and back-up the data source
-* _Secondary published data_: Cite the data source
+__Primary data__: Proper back-up of raw data
 
-Derivatives of original data (new data products and analysis outputs) should be created from original data and code only.
+__Secondary shared data__: Cite source, back-up data 
 
-See [DIME Analytic's book](http://hdl.handle.net/10986/35594) for more details.
+__Secondary published data__: Cite source
+
+Derivatives of original data 
+(new data products and analysis outputs) 
+should be created from original data and code only.
 
 ]
 
@@ -580,6 +584,8 @@ Meaning that we can repeat all work on one project to another project
 with just some small adjustments. 
 Over time we build a toolbox of code sections for tasks we frequently need,
 and we will be much more productive.
+
+See [DIME Analytic's book](http://hdl.handle.net/10986/35594) for more details.
 
 ---
 
