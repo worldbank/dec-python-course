@@ -324,23 +324,22 @@ class: middle
 
 ## Re-use code
 
-Since the instructions (code) is separate from input and output,
-we can re-use code blocks within and across projects. An important paradigm in coding is **DRY** (don't repeat yourself)
+We can easily re-use code within and across projects as code is separate from inputs and outputs. Three levels of re-using code:
 
-Three levels of re-using code:
+* **Copy-paste:** Copy someone else's code and modify it to fit your context
 
-* **Copy-paste:** Copy a block a code of modify it to fit the context
+* **Functions:** A block of code that can be referenced across a project
 
-* **Functions:** A block of code you written that can be referenced across the project
-
-* **Library:** Code packages developed by others to solve difficult tasks but made easy use in any project
+* **Library:** Code packages developed by others to solve difficult tasks but made easy to use in any project
 
 ***
 
 **Do not re-invent wheels**
 
 * Aim to have each section of code be built on someone else' efforts
+
 * Someone else's efforts can be the efforts of past you 
+
 * Compare with Excel - how do you build on the efforts of other users?
 
 ---
