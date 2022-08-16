@@ -89,7 +89,6 @@
 
 #######################
 # Include images if they are in a folder img
-!/**/img/**/*.png
 !/**/img/**/*.jpeg
 
 #######################
