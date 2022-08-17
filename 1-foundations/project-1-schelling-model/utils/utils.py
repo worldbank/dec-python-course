@@ -27,10 +27,3 @@ def show_grid(grid):
                 print_this += '   '
         print_this += ']'
         print(print_this)
-
-def test_equality(x1, x2):
-
-    if x1 == x2:
-        return True
-    else:
-        return False
