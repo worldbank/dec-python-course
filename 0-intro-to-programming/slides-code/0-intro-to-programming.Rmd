@@ -396,7 +396,7 @@ We can easily re-use code within and across projects as code is separate from in
 
 ***
 
-**Do not re-invent wheels**
+**Do not reinvent the wheel:**
 
 * Aim to have each section of code be built on someone else' efforts
 
