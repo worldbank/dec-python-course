@@ -678,8 +678,8 @@ class: middle
   Version controlling all work is perhaps
   the most valuable feature of programming.
   
-  That standard for version control in code 
-  is called _Git_ or _GitHub_.
+  The most common standard for version control in code 
+  is called _Git_ and most Git projects are hosted on _GitHub_.
 
 ---
 class: middle
