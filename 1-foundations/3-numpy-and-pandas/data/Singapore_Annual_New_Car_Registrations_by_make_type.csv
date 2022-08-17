@@ -1,0 +1,2811 @@
+year,make,fuel,type,number
+2015,ALFA ROMEO,Petrol,Hatchback,29
+2015,ASTON MARTIN,Petrol,Hatchback,3
+2015,AUDI,Petrol,Hatchback,262
+2015,AUSTIN,Petrol,Hatchback,1
+2015,B.M.W.,Petrol,Hatchback,408
+2015,B.M.W.,Diesel,Hatchback,355
+2015,B.M.W.,Others,Hatchback,30
+2015,CHERY,Petrol,Hatchback,1
+2015,CHEVROLET,Petrol,Hatchback,21
+2015,CITROEN,Petrol,Hatchback,2
+2015,CITROEN,Diesel,Hatchback,10
+2015,CITROEN,Others,Hatchback,4
+2015,DAIHATSU,Petrol,Hatchback,1
+2015,FIAT,Petrol,Hatchback,2
+2015,FORD,Petrol,Hatchback,155
+2015,HONDA,Petrol,Hatchback,1068
+2015,HONDA,Others,Hatchback,6
+2015,HYUNDAI,Petrol,Hatchback,111
+2015,KIA,Petrol,Hatchback,30
+2015,MAZDA,Petrol,Hatchback,612
+2015,MERCEDES BENZ,Petrol,Hatchback,1111
+2015,MINI,Petrol,Hatchback,277
+2015,MINI,Diesel,Hatchback,4
+2015,NISSAN,Petrol,Hatchback,307
+2015,OPEL,Petrol,Hatchback,28
+2015,PEUGEOT,Petrol,Hatchback,121
+2015,PORSCHE,Petrol,Hatchback,3
+2015,RENAULT,Petrol,Hatchback,21
+2015,RENAULT,Diesel,Hatchback,72
+2015,SUBARU,Petrol,Hatchback,8
+2015,SUZUKI,Petrol,Hatchback,256
+2015,TOYOTA,Petrol,Hatchback,12
+2015,TOYOTA,Others,Hatchback,159
+2015,VOLKSWAGEN,Petrol,Hatchback,1353
+2015,VOLVO,Petrol,Hatchback,111
+2015,VOLVO,Diesel,Hatchback,192
+2015,ALFA ROMEO,Petrol,Sedan,1
+2015,ALPINA,Petrol,Sedan,4
+2015,AUDI,Petrol,Sedan,1356
+2015,B.M.W.,Petrol,Sedan,1681
+2015,B.M.W.,Diesel,Sedan,16
+2015,B.M.W.,Others,Sedan,1
+2015,BENTLEY,Petrol,Sedan,36
+2015,CHERY,Petrol,Sedan,1
+2015,CHEVROLET,Petrol,Sedan,159
+2015,CHRYSLER,Petrol,Sedan,1
+2015,FORD,Petrol,Sedan,111
+2015,HONDA,Petrol,Sedan,794
+2015,HYUNDAI,Petrol,Sedan,1450
+2015,HYUNDAI,Diesel,Sedan,2
+2015,INFINITI,Petrol,Sedan,219
+2015,INFINITI,Others,Sedan,1
+2015,JAGUAR,Petrol,Sedan,311
+2015,JAGUAR,Diesel,Sedan,65
+2015,KIA,Petrol,Sedan,1244
+2015,MASERATI,Petrol,Sedan,58
+2015,MASERATI,Diesel,Sedan,7
+2015,MAZDA,Petrol,Sedan,3260
+2015,MERCEDES BENZ,Petrol,Sedan,3234
+2015,MERCEDES BENZ,Diesel,Sedan,23
+2015,MERCEDES BENZ,Others,Sedan,16
+2015,MITSUBISHI,Petrol,Sedan,568
+2015,MITSUOKA,Petrol,Sedan,1
+2015,MORRIS,Petrol,Sedan,1
+2015,NISSAN,Petrol,Sedan,2281
+2015,OPEL,Petrol,Sedan,10
+2015,PEUGEOT,Petrol,Sedan,21
+2015,PEUGEOT,Diesel,Sedan,1
+2015,PORSCHE,Petrol,Sedan,36
+2015,PORSCHE,Others,Sedan,1
+2015,RENAULT,Petrol,Sedan,1
+2015,RENAULT,Diesel,Sedan,157
+2015,ROLLS ROYCE,Petrol,Sedan,11
+2015,ROVER,Petrol,Sedan,1
+2015,SUBARU,Petrol,Sedan,141
+2015,SUZUKI,Petrol,Sedan,1
+2015,THE LONDON TAXI CO,Diesel,Sedan,1
+2015,TOYOTA,Petrol,Sedan,6485
+2015,TOYOTA,Others,Sedan,272
+2015,VOLKSWAGEN,Petrol,Sedan,1202
+2015,VOLVO,Petrol,Sedan,249
+2015,VOLVO,Diesel,Sedan,314
+2015,ALPINA,Petrol,Multi-purpose Vehicle/Station-wagon,2
+2015,AUDI,Petrol,Multi-purpose Vehicle/Station-wagon,19
+2015,AUDI,Diesel,Multi-purpose Vehicle/Station-wagon,1
+2015,B.M.W.,Petrol,Multi-purpose Vehicle/Station-wagon,7
+2015,B.M.W.,Diesel,Multi-purpose Vehicle/Station-wagon,271
+2015,CHEVROLET,Petrol,Multi-purpose Vehicle/Station-wagon,157
+2015,CHRYSLER,Diesel,Multi-purpose Vehicle/Station-wagon,4
+2015,CITROEN,Petrol,Multi-purpose Vehicle/Station-wagon,108
+2015,CITROEN,Diesel,Multi-purpose Vehicle/Station-wagon,463
+2015,FORD,Petrol,Multi-purpose Vehicle/Station-wagon,27
+2015,HONDA,Petrol,Multi-purpose Vehicle/Station-wagon,1459
+2015,HONDA,Others,Multi-purpose Vehicle/Station-wagon,2
+2015,HYUNDAI,Petrol,Multi-purpose Vehicle/Station-wagon,6
+2015,HYUNDAI,Diesel,Multi-purpose Vehicle/Station-wagon,3
+2015,JEEP,Petrol,Multi-purpose Vehicle/Station-wagon,7
+2015,JEEP,Diesel,Multi-purpose Vehicle/Station-wagon,3
+2015,KIA,Petrol,Multi-purpose Vehicle/Station-wagon,82
+2015,MAZDA,Petrol,Multi-purpose Vehicle/Station-wagon,1116
+2015,MERCEDES BENZ,Petrol,Multi-purpose Vehicle/Station-wagon,61
+2015,MERCEDES BENZ,Diesel,Multi-purpose Vehicle/Station-wagon,12
+2015,NISSAN,Petrol,Multi-purpose Vehicle/Station-wagon,103
+2015,NISSAN,Others,Multi-purpose Vehicle/Station-wagon,21
+2015,OPEL,Petrol,Multi-purpose Vehicle/Station-wagon,25
+2015,PEUGEOT,Petrol,Multi-purpose Vehicle/Station-wagon,139
+2015,PEUGEOT,Diesel,Multi-purpose Vehicle/Station-wagon,133
+2015,RENAULT,Petrol,Multi-purpose Vehicle/Station-wagon,4
+2015,RENAULT,Diesel,Multi-purpose Vehicle/Station-wagon,60
+2015,SSANGYONG,Diesel,Multi-purpose Vehicle/Station-wagon,20
+2015,SUBARU,Petrol,Multi-purpose Vehicle/Station-wagon,110
+2015,TOYOTA,Petrol,Multi-purpose Vehicle/Station-wagon,2910
+2015,TOYOTA,Others,Multi-purpose Vehicle/Station-wagon,35
+2015,VOLKSWAGEN,Petrol,Multi-purpose Vehicle/Station-wagon,141
+2015,VOLKSWAGEN,Diesel,Multi-purpose Vehicle/Station-wagon,219
+2015,VOLVO,Petrol,Multi-purpose Vehicle/Station-wagon,9
+2015,VOLVO,Diesel,Multi-purpose Vehicle/Station-wagon,36
+2015,ALPINA,Diesel,Sports Utility Vehicle,3
+2015,AUDI,Petrol,Sports Utility Vehicle,386
+2015,B.M.W.,Petrol,Sports Utility Vehicle,485
+2015,B.M.W.,Diesel,Sports Utility Vehicle,26
+2015,CHERY,Petrol,Sports Utility Vehicle,3
+2015,CHEVROLET,Petrol,Sports Utility Vehicle,22
+2015,CITROEN,Petrol,Sports Utility Vehicle,99
+2015,FORD,Petrol,Sports Utility Vehicle,29
+2015,HONDA,Petrol,Sports Utility Vehicle,4536
+2015,HONDA,Others,Sports Utility Vehicle,51
+2015,HYUNDAI,Petrol,Sports Utility Vehicle,191
+2015,HYUNDAI,Diesel,Sports Utility Vehicle,1
+2015,INFINITI,Petrol,Sports Utility Vehicle,2
+2015,JEEP,Petrol,Sports Utility Vehicle,19
+2015,KIA,Petrol,Sports Utility Vehicle,203
+2015,KIA,Diesel,Sports Utility Vehicle,24
+2015,LAND ROVER,Petrol,Sports Utility Vehicle,299
+2015,LAND ROVER,Diesel,Sports Utility Vehicle,50
+2015,MAZDA,Petrol,Sports Utility Vehicle,278
+2015,MAZDA,Diesel,Sports Utility Vehicle,3
+2015,MERCEDES BENZ,Petrol,Sports Utility Vehicle,170
+2015,MERCEDES BENZ,Diesel,Sports Utility Vehicle,13
+2015,MITSUBISHI,Petrol,Sports Utility Vehicle,809
+2015,MITSUBISHI,Diesel,Sports Utility Vehicle,1
+2015,MITSUBISHI,Others,Sports Utility Vehicle,1
+2015,NISSAN,Petrol,Sports Utility Vehicle,2862
+2015,PEUGEOT,Diesel,Sports Utility Vehicle,110
+2015,PORSCHE,Petrol,Sports Utility Vehicle,392
+2015,PORSCHE,Diesel,Sports Utility Vehicle,42
+2015,PORSCHE,Others,Sports Utility Vehicle,2
+2015,RANGE ROVER,Petrol,Sports Utility Vehicle,1
+2015,SSANGYONG,Petrol,Sports Utility Vehicle,43
+2015,SSANGYONG,Diesel,Sports Utility Vehicle,10
+2015,SUBARU,Petrol,Sports Utility Vehicle,1400
+2015,TOYO ACE,Petrol,Sports Utility Vehicle,1
+2015,TOYOTA,Petrol,Sports Utility Vehicle,2156
+2015,TOYOTA,Diesel,Sports Utility Vehicle,1
+2015,TOYOTA,Others,Sports Utility Vehicle,105
+2015,VOLKSWAGEN,Petrol,Sports Utility Vehicle,118
+2015,VOLKSWAGEN,Diesel,Sports Utility Vehicle,19
+2015,VOLVO,Petrol,Sports Utility Vehicle,320
+2015,VOLVO,Diesel,Sports Utility Vehicle,43
+2015,ALFA ROMEO,Petrol,Coupe/ Convertible,1
+2015,ASTON MARTIN,Petrol,Coupe/ Convertible,2
+2015,AUDI,Petrol,Coupe/ Convertible,69
+2015,AUSTIN,Petrol,Coupe/ Convertible,1
+2015,B.M.W.,Petrol,Coupe/ Convertible,291
+2015,B.M.W.,Others,Coupe/ Convertible,27
+2015,BENTLEY,Petrol,Coupe/ Convertible,30
+2015,CHEVROLET,Petrol,Coupe/ Convertible,2
+2015,DAIHATSU,Petrol,Coupe/ Convertible,2
+2015,DAIMLER,Petrol,Coupe/ Convertible,1
+2015,FERRARI,Petrol,Coupe/ Convertible,41
+2015,FIAT,Petrol,Coupe/ Convertible,1
+2015,FORD,Petrol,Coupe/ Convertible,1
+2015,HYUNDAI,Petrol,Coupe/ Convertible,41
+2015,JAGUAR,Petrol,Coupe/ Convertible,9
+2015,KIA,Petrol,Coupe/ Convertible,3
+2015,LAMBORGHINI,Petrol,Coupe/ Convertible,20
+2015,M.G.,Petrol,Coupe/ Convertible,1
+2015,MASERATI,Petrol,Coupe/ Convertible,10
+2015,MAZDA,Petrol,Coupe/ Convertible,18
+2015,Mclaren,Petrol,Coupe/ Convertible,4
+2015,MERCEDES BENZ,Petrol,Coupe/ Convertible,768
+2015,MINI,Petrol,Coupe/ Convertible,14
+2015,MITSUOKA,Petrol,Coupe/ Convertible,2
+2015,PORSCHE,Petrol,Coupe/ Convertible,113
+2015,RENAULT,Petrol,Coupe/ Convertible,1
+2015,ROLLS ROYCE,Petrol,Coupe/ Convertible,9
+2015,RUF,Petrol,Coupe/ Convertible,1
+2015,SUBARU,Petrol,Coupe/ Convertible,9
+2015,TOYOTA,Petrol,Coupe/ Convertible,36
+2015,TRIUMPH,Petrol,Coupe/ Convertible,1
+2015,VOLKSWAGEN,Petrol,Coupe/ Convertible,4
+2016,ALFA ROMEO,Petrol,Hatchback,39
+2016,ASTON MARTIN,Petrol,Hatchback,2
+2016,AUDI,Petrol,Hatchback,274
+2016,B.M.W.,Petrol,Hatchback,59
+2016,B.M.W.,Diesel,Hatchback,949
+2016,B.M.W.,Others,Hatchback,6
+2016,BYD,Others,Hatchback,7
+2016,CHERY,Petrol,Hatchback,6
+2016,CHEVROLET,Petrol,Hatchback,5
+2016,CITROEN,Petrol,Hatchback,57
+2016,CITROEN,Diesel,Hatchback,41
+2016,FIAT,Petrol,Hatchback,1
+2016,FORD,Petrol,Hatchback,149
+2016,HONDA,Petrol,Hatchback,1844
+2016,HYUNDAI,Petrol,Hatchback,60
+2016,INFINITI,Petrol,Hatchback,6
+2016,INFINITI,Diesel,Hatchback,47
+2016,KIA,Petrol,Hatchback,5
+2016,MAZDA,Petrol,Hatchback,539
+2016,MERCEDES BENZ,Petrol,Hatchback,1092
+2016,MERCEDES BENZ,Diesel,Hatchback,1
+2016,MINI,Petrol,Hatchback,300
+2016,MINI,Diesel,Hatchback,15
+2016,NISSAN,Petrol,Hatchback,979
+2016,NISSAN,Others,Hatchback,1
+2016,OPEL,Petrol,Hatchback,147
+2016,PERODUA,Petrol,Hatchback,18
+2016,PEUGEOT,Petrol,Hatchback,117
+2016,PORSCHE,Petrol,Hatchback,1
+2016,RENAULT,Diesel,Hatchback,47
+2016,SEAT,Petrol,Hatchback,11
+2016,SEAT,Diesel,Hatchback,1
+2016,SUBARU,Petrol,Hatchback,2
+2016,SUZUKI,Petrol,Hatchback,451
+2016,TESLA,Others,Hatchback,3
+2016,TOYOTA,Petrol,Hatchback,2
+2016,TOYOTA,Others,Hatchback,1009
+2016,VOLKSWAGEN,Petrol,Hatchback,1277
+2016,VOLKSWAGEN,Diesel,Hatchback,1
+2016,VOLVO,Petrol,Hatchback,330
+2016,ALPINA,Petrol,Sedan,5
+2016,AUDI,Petrol,Sedan,1595
+2016,B.M.W.,Petrol,Sedan,1499
+2016,B.M.W.,Diesel,Sedan,7
+2016,BENTLEY,Petrol,Sedan,17
+2016,CHEVROLET,Petrol,Sedan,278
+2016,CHRYSLER,Petrol,Sedan,2
+2016,DAIMLER,Petrol,Sedan,1
+2016,FORD,Petrol,Sedan,74
+2016,HONDA,Petrol,Sedan,1788
+2016,HONDA,Others,Sedan,128
+2016,HYUNDAI,Petrol,Sedan,2111
+2016,INFINITI,Petrol,Sedan,270
+2016,JAGUAR,Petrol,Sedan,288
+2016,JAGUAR,Diesel,Sedan,180
+2016,KIA,Petrol,Sedan,1786
+2016,MASERATI,Petrol,Sedan,46
+2016,MASERATI,Diesel,Sedan,9
+2016,MAZDA,Petrol,Sedan,4904
+2016,MERCEDES BENZ,Petrol,Sedan,3243
+2016,MERCEDES BENZ,Diesel,Sedan,100
+2016,MERCEDES BENZ,Others,Sedan,3
+2016,MINI,Petrol,Sedan,1
+2016,MITSUBISHI,Petrol,Sedan,2747
+2016,NISSAN,Petrol,Sedan,1448
+2016,NISSAN,Others,Sedan,1
+2016,OPEL,Petrol,Sedan,23
+2016,OPEL,Diesel,Sedan,5
+2016,PEUGEOT,Petrol,Sedan,21
+2016,PEUGEOT,Diesel,Sedan,54
+2016,PORSCHE,Petrol,Sedan,27
+2016,RENAULT,Diesel,Sedan,159
+2016,ROLLS ROYCE,Petrol,Sedan,9
+2016,SKODA,Petrol,Sedan,1
+2016,SUBARU,Petrol,Sedan,91
+2016,SUZUKI,Petrol,Sedan,41
+2016,TOYOTA,Petrol,Sedan,7458
+2016,TOYOTA,Others,Sedan,378
+2016,VOLKSWAGEN,Petrol,Sedan,911
+2016,VOLVO,Petrol,Sedan,728
+2016,VOLVO,Diesel,Sedan,51
+2016,AUDI,Petrol,Multi-purpose Vehicle/Station-wagon,26
+2016,B.M.W.,Petrol,Multi-purpose Vehicle/Station-wagon,8
+2016,B.M.W.,Diesel,Multi-purpose Vehicle/Station-wagon,800
+2016,CHEVROLET,Petrol,Multi-purpose Vehicle/Station-wagon,328
+2016,CHRYSLER,Diesel,Multi-purpose Vehicle/Station-wagon,8
+2016,CITROEN,Petrol,Multi-purpose Vehicle/Station-wagon,24
+2016,CITROEN,Diesel,Multi-purpose Vehicle/Station-wagon,657
+2016,FORD,Petrol,Multi-purpose Vehicle/Station-wagon,54
+2016,HONDA,Petrol,Multi-purpose Vehicle/Station-wagon,3276
+2016,HONDA,Others,Multi-purpose Vehicle/Station-wagon,649
+2016,HYUNDAI,Petrol,Multi-purpose Vehicle/Station-wagon,4
+2016,HYUNDAI,Diesel,Multi-purpose Vehicle/Station-wagon,1
+2016,JEEP,Petrol,Multi-purpose Vehicle/Station-wagon,4
+2016,KIA,Petrol,Multi-purpose Vehicle/Station-wagon,52
+2016,KIA,Diesel,Multi-purpose Vehicle/Station-wagon,273
+2016,KIA,Others,Multi-purpose Vehicle/Station-wagon,1
+2016,LAND ROVER,Petrol,Multi-purpose Vehicle/Station-wagon,1
+2016,LAND ROVER,Diesel,Multi-purpose Vehicle/Station-wagon,1
+2016,MAZDA,Petrol,Multi-purpose Vehicle/Station-wagon,1291
+2016,MERCEDES BENZ,Petrol,Multi-purpose Vehicle/Station-wagon,277
+2016,MERCEDES BENZ,Diesel,Multi-purpose Vehicle/Station-wagon,23
+2016,MINI,Petrol,Multi-purpose Vehicle/Station-wagon,40
+2016,NISSAN,Petrol,Multi-purpose Vehicle/Station-wagon,65
+2016,NISSAN,Others,Multi-purpose Vehicle/Station-wagon,50
+2016,OPEL,Petrol,Multi-purpose Vehicle/Station-wagon,62
+2016,PEUGEOT,Petrol,Multi-purpose Vehicle/Station-wagon,159
+2016,PEUGEOT,Diesel,Multi-purpose Vehicle/Station-wagon,123
+2016,RENAULT,Petrol,Multi-purpose Vehicle/Station-wagon,3
+2016,RENAULT,Diesel,Multi-purpose Vehicle/Station-wagon,60
+2016,SEAT,Diesel,Multi-purpose Vehicle/Station-wagon,2
+2016,SKODA,Diesel,Multi-purpose Vehicle/Station-wagon,1
+2016,SSANGYONG,Diesel,Multi-purpose Vehicle/Station-wagon,36
+2016,SUBARU,Petrol,Multi-purpose Vehicle/Station-wagon,341
+2016,SUZUKI,Petrol,Multi-purpose Vehicle/Station-wagon,4
+2016,TOYOTA,Petrol,Multi-purpose Vehicle/Station-wagon,6254
+2016,TOYOTA,Others,Multi-purpose Vehicle/Station-wagon,179
+2016,VOLKSWAGEN,Petrol,Multi-purpose Vehicle/Station-wagon,337
+2016,VOLKSWAGEN,Diesel,Multi-purpose Vehicle/Station-wagon,1
+2016,VOLVO,Petrol,Multi-purpose Vehicle/Station-wagon,50
+2016,ALPINA,Diesel,Sports Utility Vehicle,1
+2016,AUDI,Petrol,Sports Utility Vehicle,409
+2016,B.M.W.,Petrol,Sports Utility Vehicle,874
+2016,B.M.W.,Diesel,Sports Utility Vehicle,13
+2016,BENTLEY,Petrol,Sports Utility Vehicle,11
+2016,CHERY,Petrol,Sports Utility Vehicle,4
+2016,CHEVROLET,Petrol,Sports Utility Vehicle,11
+2016,CITROEN,Petrol,Sports Utility Vehicle,35
+2016,FORD,Petrol,Sports Utility Vehicle,25
+2016,HONDA,Petrol,Sports Utility Vehicle,10109
+2016,HONDA,Others,Sports Utility Vehicle,1554
+2016,HYUNDAI,Petrol,Sports Utility Vehicle,355
+2016,HYUNDAI,Diesel,Sports Utility Vehicle,21
+2016,INFINITI,Petrol,Sports Utility Vehicle,5
+2016,JAGUAR,Petrol,Sports Utility Vehicle,39
+2016,JAGUAR,Diesel,Sports Utility Vehicle,36
+2016,JEEP,Petrol,Sports Utility Vehicle,5
+2016,KIA,Petrol,Sports Utility Vehicle,66
+2016,KIA,Diesel,Sports Utility Vehicle,174
+2016,LAND ROVER,Petrol,Sports Utility Vehicle,311
+2016,LAND ROVER,Diesel,Sports Utility Vehicle,71
+2016,MASERATI,Petrol,Sports Utility Vehicle,1
+2016,MAZDA,Petrol,Sports Utility Vehicle,302
+2016,MAZDA,Diesel,Sports Utility Vehicle,7
+2016,MERCEDES BENZ,Petrol,Sports Utility Vehicle,871
+2016,MERCEDES BENZ,Diesel,Sports Utility Vehicle,20
+2016,MITSUBISHI,Petrol,Sports Utility Vehicle,883
+2016,MITSUBISHI,Others,Sports Utility Vehicle,2
+2016,NISSAN,Petrol,Sports Utility Vehicle,4481
+2016,OPEL,Diesel,Sports Utility Vehicle,4
+2016,PEUGEOT,Petrol,Sports Utility Vehicle,20
+2016,PEUGEOT,Diesel,Sports Utility Vehicle,114
+2016,PORSCHE,Petrol,Sports Utility Vehicle,372
+2016,PORSCHE,Diesel,Sports Utility Vehicle,48
+2016,RENAULT,Diesel,Sports Utility Vehicle,191
+2016,SSANGYONG,Petrol,Sports Utility Vehicle,175
+2016,SSANGYONG,Diesel,Sports Utility Vehicle,68
+2016,SUBARU,Petrol,Sports Utility Vehicle,2460
+2016,TOYOTA,Petrol,Sports Utility Vehicle,3156
+2016,TOYOTA,Diesel,Sports Utility Vehicle,6
+2016,TOYOTA,Others,Sports Utility Vehicle,28
+2016,VOLKSWAGEN,Petrol,Sports Utility Vehicle,246
+2016,VOLKSWAGEN,Diesel,Sports Utility Vehicle,4
+2016,VOLVO,Petrol,Sports Utility Vehicle,320
+2016,VOLVO,Diesel,Sports Utility Vehicle,4
+2016,ALPINA,Petrol,Coupe/ Convertible,6
+2016,ASTON MARTIN,Petrol,Coupe/ Convertible,12
+2016,AUDI,Petrol,Coupe/ Convertible,56
+2016,B.M.W.,Petrol,Coupe/ Convertible,358
+2016,B.M.W.,Others,Coupe/ Convertible,9
+2016,BENTLEY,Petrol,Coupe/ Convertible,25
+2016,CHEVROLET,Petrol,Coupe/ Convertible,1
+2016,DAIHATSU,Petrol,Coupe/ Convertible,1
+2016,FERRARI,Petrol,Coupe/ Convertible,37
+2016,FORD,Petrol,Coupe/ Convertible,35
+2016,HONDA,Petrol,Coupe/ Convertible,1
+2016,HYUNDAI,Petrol,Coupe/ Convertible,35
+2016,JAGUAR,Petrol,Coupe/ Convertible,12
+2016,KOENIGSEGG,Petrol,Coupe/ Convertible,1
+2016,LAMBORGHINI,Petrol,Coupe/ Convertible,15
+2016,LAND ROVER,Petrol,Coupe/ Convertible,4
+2016,LOTUS,Petrol,Coupe/ Convertible,1
+2016,M.G.,Petrol,Coupe/ Convertible,4
+2016,MASERATI,Petrol,Coupe/ Convertible,7
+2016,MAZDA,Petrol,Coupe/ Convertible,48
+2016,Mclaren,Petrol,Coupe/ Convertible,5
+2016,MERCEDES BENZ,Petrol,Coupe/ Convertible,814
+2016,MINI,Petrol,Coupe/ Convertible,27
+2016,NISSAN,Petrol,Coupe/ Convertible,3
+2016,PORSCHE,Petrol,Coupe/ Convertible,115
+2016,RENAULT,Petrol,Coupe/ Convertible,2
+2016,ROLLS ROYCE,Petrol,Coupe/ Convertible,10
+2016,SUBARU,Petrol,Coupe/ Convertible,8
+2016,TOYOTA,Petrol,Coupe/ Convertible,21
+2016,TRIUMPH,Petrol,Coupe/ Convertible,1
+2016,VOLKSWAGEN,Petrol,Coupe/ Convertible,2
+2016,VOLVO,Petrol,Coupe/ Convertible,2
+2017,ALFA ROMEO,Petrol,Hatchback,10
+2017,ASTON MARTIN,Petrol,Hatchback,6
+2017,AUDI,Petrol,Hatchback,398
+2017,B.M.W.,Petrol,Hatchback,45
+2017,B.M.W.,Diesel,Hatchback,1069
+2017,B.M.W.,Others,Hatchback,15
+2017,BLUECAR,Others,Hatchback,235
+2017,BYD,Others,Hatchback,63
+2017,CHERY,Petrol,Hatchback,4
+2017,CITROEN,Petrol,Hatchback,80
+2017,CITROEN,Diesel,Hatchback,100
+2017,FIAT,Petrol,Hatchback,1
+2017,FORD,Petrol,Hatchback,129
+2017,FORD,Others,Hatchback,1
+2017,HONDA,Petrol,Hatchback,1113
+2017,HONDA,Others,Hatchback,7
+2017,HYUNDAI,Petrol,Hatchback,23
+2017,HYUNDAI,Others,Hatchback,202
+2017,INFINITI,Petrol,Hatchback,12
+2017,INFINITI,Diesel,Hatchback,99
+2017,KIA,Petrol,Hatchback,4
+2017,MAZDA,Petrol,Hatchback,655
+2017,MAZDA,Diesel,Hatchback,2
+2017,MERCEDES BENZ,Petrol,Hatchback,905
+2017,MERCEDES BENZ,Diesel,Hatchback,17
+2017,MINI,Petrol,Hatchback,323
+2017,MINI,Diesel,Hatchback,3
+2017,MITSUBISHI,Petrol,Hatchback,137
+2017,NISSAN,Petrol,Hatchback,1077
+2017,NISSAN,Others,Hatchback,8
+2017,OPEL,Petrol,Hatchback,365
+2017,PERODUA,Petrol,Hatchback,18
+2017,PEUGEOT,Petrol,Hatchback,124
+2017,RENAULT,Petrol,Hatchback,35
+2017,RENAULT,Diesel,Hatchback,59
+2017,SEAT,Petrol,Hatchback,127
+2017,SKODA,Diesel,Hatchback,1
+2017,SUBARU,Petrol,Hatchback,217
+2017,SUZUKI,Petrol,Hatchback,441
+2017,SUZUKI,Others,Hatchback,25
+2017,TOYOTA,Petrol,Hatchback,20
+2017,TOYOTA,Others,Hatchback,2086
+2017,VOLKSWAGEN,Petrol,Hatchback,1247
+2017,VOLVO,Petrol,Hatchback,325
+2017,ALFA ROMEO,Petrol,Sedan,2
+2017,ALPINA,Petrol,Sedan,5
+2017,ALPINA,Diesel,Sedan,7
+2017,ASTON MARTIN,Petrol,Sedan,1
+2017,AUDI,Petrol,Sedan,1487
+2017,B.M.W.,Petrol,Sedan,1635
+2017,B.M.W.,Diesel,Sedan,168
+2017,B.M.W.,Others,Sedan,24
+2017,BENTLEY,Petrol,Sedan,33
+2017,CHERY,Petrol,Sedan,2
+2017,CHEVROLET,Petrol,Sedan,147
+2017,DATSUN,Petrol,Sedan,1
+2017,FORD,Petrol,Sedan,103
+2017,HONDA,Petrol,Sedan,3088
+2017,HONDA,Others,Sedan,239
+2017,HYUNDAI,Petrol,Sedan,2794
+2017,HYUNDAI,Diesel,Sedan,4
+2017,INFINITI,Petrol,Sedan,159
+2017,INFINITI,Others,Sedan,2
+2017,JAGUAR,Petrol,Sedan,281
+2017,JAGUAR,Diesel,Sedan,171
+2017,KIA,Petrol,Sedan,2616
+2017,KIA,Others,Sedan,1
+2017,LANCIA,Petrol,Sedan,1
+2017,MASERATI,Petrol,Sedan,78
+2017,MASERATI,Diesel,Sedan,9
+2017,MAZDA,Petrol,Sedan,5911
+2017,MERCEDES BENZ,Petrol,Sedan,3750
+2017,MERCEDES BENZ,Diesel,Sedan,223
+2017,MERCEDES BENZ,Others,Sedan,12
+2017,MITSUBISHI,Petrol,Sedan,2451
+2017,MITSUOKA,Petrol,Sedan,1
+2017,NISSAN,Petrol,Sedan,422
+2017,OPEL,Petrol,Sedan,12
+2017,OPEL,Diesel,Sedan,4
+2017,PERODUA,Petrol,Sedan,107
+2017,PEUGEOT,Petrol,Sedan,11
+2017,PEUGEOT,Diesel,Sedan,34
+2017,PORSCHE,Petrol,Sedan,113
+2017,PORSCHE,Diesel,Sedan,1
+2017,RENAULT,Petrol,Sedan,77
+2017,RENAULT,Diesel,Sedan,222
+2017,ROLLS ROYCE,Petrol,Sedan,14
+2017,ROVER,Petrol,Sedan,1
+2017,SEAT,Petrol,Sedan,1
+2017,SEAT,Diesel,Sedan,37
+2017,SUBARU,Petrol,Sedan,368
+2017,SUZUKI,Petrol,Sedan,30
+2017,TOYOTA,Petrol,Sedan,5439
+2017,TOYOTA,Others,Sedan,506
+2017,VOLKSWAGEN,Petrol,Sedan,437
+2017,VOLVO,Petrol,Sedan,640
+2017,VOLVO,Diesel,Sedan,28
+2017,ALPINA,Petrol,Multi-purpose Vehicle/Station-wagon,4
+2017,AUDI,Petrol,Multi-purpose Vehicle/Station-wagon,17
+2017,B.M.W.,Petrol,Multi-purpose Vehicle/Station-wagon,418
+2017,B.M.W.,Diesel,Multi-purpose Vehicle/Station-wagon,473
+2017,B.M.W.,Others,Multi-purpose Vehicle/Station-wagon,27
+2017,BENTLEY,Diesel,Multi-purpose Vehicle/Station-wagon,2
+2017,CHEVROLET,Petrol,Multi-purpose Vehicle/Station-wagon,312
+2017,CITROEN,Petrol,Multi-purpose Vehicle/Station-wagon,62
+2017,CITROEN,Diesel,Multi-purpose Vehicle/Station-wagon,450
+2017,FORD,Petrol,Multi-purpose Vehicle/Station-wagon,79
+2017,HONDA,Petrol,Multi-purpose Vehicle/Station-wagon,2714
+2017,HONDA,Others,Multi-purpose Vehicle/Station-wagon,1107
+2017,HYUNDAI,Diesel,Multi-purpose Vehicle/Station-wagon,1
+2017,JEEP,Petrol,Multi-purpose Vehicle/Station-wagon,4
+2017,KIA,Diesel,Multi-purpose Vehicle/Station-wagon,348
+2017,KIA,Others,Multi-purpose Vehicle/Station-wagon,527
+2017,LAND ROVER,Diesel,Multi-purpose Vehicle/Station-wagon,1
+2017,MAZDA,Petrol,Multi-purpose Vehicle/Station-wagon,1594
+2017,MERCEDES BENZ,Petrol,Multi-purpose Vehicle/Station-wagon,185
+2017,MERCEDES BENZ,Diesel,Multi-purpose Vehicle/Station-wagon,26
+2017,MERCEDES BENZ,Others,Multi-purpose Vehicle/Station-wagon,2
+2017,MINI,Petrol,Multi-purpose Vehicle/Station-wagon,110
+2017,NISSAN,Petrol,Multi-purpose Vehicle/Station-wagon,48
+2017,NISSAN,Others,Multi-purpose Vehicle/Station-wagon,2
+2017,OPEL,Petrol,Multi-purpose Vehicle/Station-wagon,367
+2017,PEUGEOT,Petrol,Multi-purpose Vehicle/Station-wagon,186
+2017,PEUGEOT,Diesel,Multi-purpose Vehicle/Station-wagon,32
+2017,RENAULT,Petrol,Multi-purpose Vehicle/Station-wagon,1
+2017,RENAULT,Diesel,Multi-purpose Vehicle/Station-wagon,239
+2017,SEAT,Petrol,Multi-purpose Vehicle/Station-wagon,11
+2017,SEAT,Diesel,Multi-purpose Vehicle/Station-wagon,22
+2017,SKODA,Petrol,Multi-purpose Vehicle/Station-wagon,2
+2017,SSANGYONG,Diesel,Multi-purpose Vehicle/Station-wagon,79
+2017,SUBARU,Petrol,Multi-purpose Vehicle/Station-wagon,145
+2017,SUZUKI,Petrol,Multi-purpose Vehicle/Station-wagon,4
+2017,TOYOTA,Petrol,Multi-purpose Vehicle/Station-wagon,4819
+2017,TOYOTA,Others,Multi-purpose Vehicle/Station-wagon,1383
+2017,VOLKSWAGEN,Petrol,Multi-purpose Vehicle/Station-wagon,411
+2017,VOLKSWAGEN,Diesel,Multi-purpose Vehicle/Station-wagon,98
+2017,VOLVO,Petrol,Multi-purpose Vehicle/Station-wagon,111
+2017,ALPINA,Diesel,Sports Utility Vehicle,2
+2017,AUDI,Petrol,Sports Utility Vehicle,625
+2017,AUDI,Diesel,Sports Utility Vehicle,2
+2017,B.M.W.,Petrol,Sports Utility Vehicle,1224
+2017,B.M.W.,Diesel,Sports Utility Vehicle,61
+2017,B.M.W.,Others,Sports Utility Vehicle,2
+2017,BENTLEY,Petrol,Sports Utility Vehicle,9
+2017,BENTLEY,Diesel,Sports Utility Vehicle,8
+2017,CHERY,Petrol,Sports Utility Vehicle,7
+2017,CHEVROLET,Petrol,Sports Utility Vehicle,9
+2017,CITROEN,Petrol,Sports Utility Vehicle,25
+2017,FORD,Petrol,Sports Utility Vehicle,6
+2017,FORD,Diesel,Sports Utility Vehicle,10
+2017,HONDA,Petrol,Sports Utility Vehicle,4505
+2017,HONDA,Others,Sports Utility Vehicle,3232
+2017,HYUNDAI,Petrol,Sports Utility Vehicle,745
+2017,HYUNDAI,Diesel,Sports Utility Vehicle,17
+2017,INFINITI,Petrol,Sports Utility Vehicle,2
+2017,JAGUAR,Petrol,Sports Utility Vehicle,48
+2017,JAGUAR,Diesel,Sports Utility Vehicle,47
+2017,JEEP,Petrol,Sports Utility Vehicle,45
+2017,JEEP,Diesel,Sports Utility Vehicle,3
+2017,KIA,Petrol,Sports Utility Vehicle,95
+2017,KIA,Diesel,Sports Utility Vehicle,257
+2017,LAND ROVER,Petrol,Sports Utility Vehicle,314
+2017,LAND ROVER,Diesel,Sports Utility Vehicle,209
+2017,MASERATI,Diesel,Sports Utility Vehicle,33
+2017,MAZDA,Petrol,Sports Utility Vehicle,306
+2017,MAZDA,Diesel,Sports Utility Vehicle,5
+2017,MERCEDES BENZ,Petrol,Sports Utility Vehicle,1260
+2017,MERCEDES BENZ,Diesel,Sports Utility Vehicle,80
+2017,MITSUBISHI,Petrol,Sports Utility Vehicle,965
+2017,MITSUBISHI,Others,Sports Utility Vehicle,2
+2017,NISSAN,Petrol,Sports Utility Vehicle,3683
+2017,OPEL,Petrol,Sports Utility Vehicle,19
+2017,OPEL,Diesel,Sports Utility Vehicle,192
+2017,PEUGEOT,Petrol,Sports Utility Vehicle,293
+2017,PEUGEOT,Diesel,Sports Utility Vehicle,1
+2017,PORSCHE,Petrol,Sports Utility Vehicle,371
+2017,PORSCHE,Diesel,Sports Utility Vehicle,17
+2017,RENAULT,Petrol,Sports Utility Vehicle,35
+2017,RENAULT,Diesel,Sports Utility Vehicle,100
+2017,SKODA,Petrol,Sports Utility Vehicle,1
+2017,SKODA,Diesel,Sports Utility Vehicle,2
+2017,SSANGYONG,Petrol,Sports Utility Vehicle,203
+2017,SSANGYONG,Diesel,Sports Utility Vehicle,106
+2017,SUBARU,Petrol,Sports Utility Vehicle,2487
+2017,SUZUKI,Petrol,Sports Utility Vehicle,1
+2017,TOYOTA,Petrol,Sports Utility Vehicle,2954
+2017,TOYOTA,Diesel,Sports Utility Vehicle,4
+2017,TOYOTA,Others,Sports Utility Vehicle,1892
+2017,VOLKSWAGEN,Petrol,Sports Utility Vehicle,221
+2017,VOLKSWAGEN,Diesel,Sports Utility Vehicle,8
+2017,VOLVO,Petrol,Sports Utility Vehicle,422
+2017,ALPINA,Petrol,Coupe/ Convertible,5
+2017,ASTON MARTIN,Petrol,Coupe/ Convertible,22
+2017,AUDI,Petrol,Coupe/ Convertible,75
+2017,AUSTIN,Petrol,Coupe/ Convertible,1
+2017,B.M.W.,Petrol,Coupe/ Convertible,425
+2017,B.M.W.,Others,Coupe/ Convertible,5
+2017,BENTLEY,Petrol,Coupe/ Convertible,18
+2017,CITROEN,Petrol,Coupe/ Convertible,5
+2017,DAIHATSU,Petrol,Coupe/ Convertible,1
+2017,DATSUN,Petrol,Coupe/ Convertible,1
+2017,FERRARI,Petrol,Coupe/ Convertible,39
+2017,FORD,Petrol,Coupe/ Convertible,27
+2017,HONDA,Petrol,Coupe/ Convertible,6
+2017,HONDA,Others,Coupe/ Convertible,2
+2017,HYUNDAI,Petrol,Coupe/ Convertible,18
+2017,JAGUAR,Petrol,Coupe/ Convertible,6
+2017,INFINITI,Petrol,Coupe/ Convertible,28
+2017,LAMBORGHINI,Petrol,Coupe/ Convertible,18
+2017,LANCIA,Petrol,Coupe/ Convertible,1
+2017,LAND ROVER,Petrol,Coupe/ Convertible,5
+2017,LOTUS,Petrol,Coupe/ Convertible,1
+2017,M.G.,Petrol,Coupe/ Convertible,1
+2017,MARCOS,Petrol,Coupe/ Convertible,1
+2017,MASERATI,Petrol,Coupe/ Convertible,4
+2017,MAZDA,Petrol,Coupe/ Convertible,36
+2017,Mclaren,Petrol,Coupe/ Convertible,10
+2017,MERCEDES BENZ,Petrol,Coupe/ Convertible,1450
+2017,MERCEDES BENZ,Diesel,Coupe/ Convertible,66
+2017,MINI,Petrol,Coupe/ Convertible,32
+2017,NISSAN,Petrol,Coupe/ Convertible,1
+2017,OPEL,Petrol,Coupe/ Convertible,2
+2017,PAGANI,Petrol,Coupe/ Convertible,1
+2017,PORSCHE,Petrol,Coupe/ Convertible,175
+2017,RAMBLER,Petrol,Coupe/ Convertible,1
+2017,ROLLS ROYCE,Petrol,Coupe/ Convertible,11
+2017,SEAT,Petrol,Coupe/ Convertible,1
+2017,SUBARU,Petrol,Coupe/ Convertible,22
+2017,TOYOTA,Petrol,Coupe/ Convertible,29
+2017,TOYOTA,Others,Coupe/ Convertible,1
+2017,TRIUMPH,Petrol,Coupe/ Convertible,3
+2017,VOLKSWAGEN,Petrol,Coupe/ Convertible,28
+2018,ALFA ROMEO,Petrol,Hatchback,3
+2018,ALPINA,Petrol,Hatchback,
+2018,ALPINA,Diesel,Hatchback,
+2018,ASTON MARTIN,Petrol,Hatchback,1
+2018,AUDI,Petrol,Hatchback,573
+2018,AUDI,Diesel,Hatchback,
+2018,AUDI,Others,Hatchback,4
+2018,AUSTIN,Petrol,Hatchback,
+2018,B.M.W.,Petrol,Hatchback,517
+2018,B.M.W.,Diesel,Hatchback,346
+2018,B.M.W.,Others,Hatchback,13
+2018,BENTLEY,Petrol,Hatchback,
+2018,BENTLEY,Diesel,Hatchback,
+2018,BLUECAR,Others,Hatchback,180
+2018,BYD,Others,Hatchback,32
+2018,CHERY,Petrol,Hatchback,
+2018,CHEVROLET,Petrol,Hatchback,
+2018,CHRYSLER,Petrol,Hatchback,
+2018,CHRYSLER,Diesel,Hatchback,
+2018,CITROEN,Petrol,Hatchback,2
+2018,CITROEN,Diesel,Hatchback,
+2018,CITROEN,Others,Hatchback,
+2018,DAIHATSU,Petrol,Hatchback,5
+2018,DAIMLER,Petrol,Hatchback,
+2018,DATSUN,Petrol,Hatchback,
+2018,FERRARI,Petrol,Hatchback,
+2018,FIAT,Petrol,Hatchback,
+2018,FORD,Petrol,Hatchback,40
+2018,FORD,Diesel,Hatchback,
+2018,FORD,Others,Hatchback,
+2018,HONDA,Petrol,Hatchback,2816
+2018,HONDA,Others,Hatchback,369
+2018,HYUNDAI,Petrol,Hatchback,397
+2018,HYUNDAI,Diesel,Hatchback,
+2018,HYUNDAI,Others,Hatchback,127
+2018,INFINITI,Petrol,Hatchback,23
+2018,INFINITI,Diesel,Hatchback,60
+2018,INFINITI,Others,Hatchback,
+2018,JAGUAR,Petrol,Hatchback,
+2018,JAGUAR,Diesel,Hatchback,
+2018,JEEP,Petrol,Hatchback,
+2018,JEEP,Diesel,Hatchback,
+2018,KIA,Petrol,Hatchback,99
+2018,KIA,Diesel,Hatchback,
+2018,KIA,Others,Hatchback,
+2018,KOENIGSEGG,Petrol,Hatchback,
+2018,LAMBORGHINI,Petrol,Hatchback,
+2018,LANCIA,Petrol,Hatchback,
+2018,LAND ROVER,Petrol,Hatchback,
+2018,LAND ROVER,Diesel,Hatchback,
+2018,LOTUS,Petrol,Hatchback,
+2018,M.G.,Petrol,Hatchback,
+2018,MARCOS,Petrol,Hatchback,
+2018,MASERATI,Petrol,Hatchback,
+2018,MASERATI,Diesel,Hatchback,
+2018,MAXUS,Petrol,Hatchback,
+2018,MAZDA,Petrol,Hatchback,981
+2018,MAZDA,Diesel,Hatchback,
+2018,Mclaren,Petrol,Hatchback,
+2018,MERCEDES BENZ,Petrol,Hatchback,664
+2018,MERCEDES BENZ,Diesel,Hatchback,
+2018,MERCEDES BENZ,Others,Hatchback,
+2018,MINI,Petrol,Hatchback,352
+2018,MINI,Diesel,Hatchback,
+2018,MITSUBISHI,Petrol,Hatchback,214
+2018,MITSUBISHI,Diesel,Hatchback,
+2018,MITSUBISHI,Others,Hatchback,
+2018,MITSUOKA,Petrol,Hatchback,
+2018,MORRIS,Petrol,Hatchback,
+2018,NISSAN,Petrol,Hatchback,1194
+2018,NISSAN,Others,Hatchback,
+2018,OPEL,Petrol,Hatchback,45
+2018,OPEL,Diesel,Hatchback,41
+2018,PAGANI,Petrol,Hatchback,
+2018,PERODUA,Petrol,Hatchback,6
+2018,PEUGEOT,Petrol,Hatchback,36
+2018,PEUGEOT,Diesel,Hatchback,
+2018,PORSCHE,Petrol,Hatchback,1
+2018,PORSCHE,Diesel,Hatchback,
+2018,PORSCHE,Others,Hatchback,
+2018,RAMBLER,Petrol,Hatchback,
+2018,RANGE ROVER,Petrol,Hatchback,
+2018,RENAULT,Petrol,Hatchback,22
+2018,RENAULT,Diesel,Hatchback,
+2018,RENAULT,Others,Hatchback,4
+2018,ROLLS ROYCE,Petrol,Hatchback,
+2018,ROVER,Petrol,Hatchback,
+2018,RUF,Petrol,Hatchback,
+2018,SEAT,Petrol,Hatchback,83
+2018,SEAT,Diesel,Hatchback,
+2018,SKODA,Petrol,Hatchback,23
+2018,SKODA,Diesel,Hatchback,
+2018,SMART,Petrol,Hatchback,3
+2018,SMART,Others,Hatchback,
+2018,SSANGYONG,Petrol,Hatchback,
+2018,SSANGYONG,Diesel,Hatchback,
+2018,SUBARU,Petrol,Hatchback,115
+2018,SUBARU,Others,Hatchback,
+2018,SUZUKI,Petrol,Hatchback,177
+2018,SUZUKI,Others,Hatchback,
+2018,TESLA,Others,Hatchback,3
+2018,THE LONDON TAXI CO,Diesel,Hatchback,
+2018,TOYO ACE,Petrol,Hatchback,
+2018,TOYOTA,Petrol,Hatchback,601
+2018,TOYOTA,Diesel,Hatchback,
+2018,TOYOTA,Others,Hatchback,194
+2018,TRIUMPH,Petrol,Hatchback,
+2018,VOLKSWAGEN,Petrol,Hatchback,928
+2018,VOLKSWAGEN,Diesel,Hatchback,
+2018,VOLVO,Petrol,Hatchback,248
+2018,VOLVO,Diesel,Hatchback,
+2018,ALFA ROMEO,Petrol,Sedan,45
+2018,ALPINA,Petrol,Sedan,5
+2018,ALPINA,Diesel,Sedan,
+2018,ASTON MARTIN,Petrol,Sedan,
+2018,AUDI,Petrol,Sedan,1507
+2018,AUDI,Diesel,Sedan,
+2018,AUDI,Others,Sedan,27
+2018,AUSTIN,Petrol,Sedan,
+2018,B.M.W.,Petrol,Sedan,1535
+2018,B.M.W.,Diesel,Sedan,15
+2018,B.M.W.,Others,Sedan,104
+2018,BENTLEY,Petrol,Sedan,23
+2018,BENTLEY,Diesel,Sedan,
+2018,BLUECAR,Others,Sedan,
+2018,BYD,Others,Sedan,
+2018,CHERY,Petrol,Sedan,
+2018,CHEVROLET,Petrol,Sedan,1
+2018,CHRYSLER,Petrol,Sedan,2
+2018,CHRYSLER,Diesel,Sedan,
+2018,CITROEN,Petrol,Sedan,
+2018,CITROEN,Diesel,Sedan,
+2018,CITROEN,Others,Sedan,
+2018,DAIHATSU,Petrol,Sedan,
+2018,DAIMLER,Petrol,Sedan,1
+2018,DATSUN,Petrol,Sedan,
+2018,FERRARI,Petrol,Sedan,
+2018,FIAT,Petrol,Sedan,
+2018,FORD,Petrol,Sedan,10
+2018,FORD,Diesel,Sedan,
+2018,FORD,Others,Sedan,
+2018,HONDA,Petrol,Sedan,3344
+2018,HONDA,Others,Sedan,72
+2018,HYUNDAI,Petrol,Sedan,5287
+2018,HYUNDAI,Diesel,Sedan,
+2018,HYUNDAI,Others,Sedan,
+2018,INFINITI,Petrol,Sedan,114
+2018,INFINITI,Diesel,Sedan,
+2018,INFINITI,Others,Sedan,
+2018,JAGUAR,Petrol,Sedan,255
+2018,JAGUAR,Diesel,Sedan,1
+2018,JEEP,Petrol,Sedan,
+2018,JEEP,Diesel,Sedan,
+2018,KIA,Petrol,Sedan,2889
+2018,KIA,Diesel,Sedan,
+2018,KIA,Others,Sedan,
+2018,KOENIGSEGG,Petrol,Sedan,
+2018,LAMBORGHINI,Petrol,Sedan,
+2018,LANCIA,Petrol,Sedan,
+2018,LAND ROVER,Petrol,Sedan,
+2018,LAND ROVER,Diesel,Sedan,
+2018,LOTUS,Petrol,Sedan,
+2018,M.G.,Petrol,Sedan,
+2018,MARCOS,Petrol,Sedan,
+2018,MASERATI,Petrol,Sedan,70
+2018,MASERATI,Diesel,Sedan,
+2018,MAXUS,Petrol,Sedan,
+2018,MAZDA,Petrol,Sedan,3358
+2018,MAZDA,Diesel,Sedan,
+2018,Mclaren,Petrol,Sedan,
+2018,MERCEDES BENZ,Petrol,Sedan,3491
+2018,MERCEDES BENZ,Diesel,Sedan,13
+2018,MERCEDES BENZ,Others,Sedan,57
+2018,MINI,Petrol,Sedan,
+2018,MINI,Diesel,Sedan,
+2018,MITSUBISHI,Petrol,Sedan,1690
+2018,MITSUBISHI,Diesel,Sedan,
+2018,MITSUBISHI,Others,Sedan,
+2018,MITSUOKA,Petrol,Sedan,
+2018,MORRIS,Petrol,Sedan,1
+2018,NISSAN,Petrol,Sedan,1151
+2018,NISSAN,Others,Sedan,
+2018,OPEL,Petrol,Sedan,
+2018,OPEL,Diesel,Sedan,
+2018,PAGANI,Petrol,Sedan,
+2018,PERODUA,Petrol,Sedan,13
+2018,PEUGEOT,Petrol,Sedan,
+2018,PEUGEOT,Diesel,Sedan,
+2018,PORSCHE,Petrol,Sedan,102
+2018,PORSCHE,Diesel,Sedan,
+2018,PORSCHE,Others,Sedan,12
+2018,RAMBLER,Petrol,Sedan,
+2018,RANGE ROVER,Petrol,Sedan,
+2018,RENAULT,Petrol,Sedan,94
+2018,RENAULT,Diesel,Sedan,
+2018,RENAULT,Others,Sedan,
+2018,ROLLS ROYCE,Petrol,Sedan,21
+2018,ROVER,Petrol,Sedan,
+2018,RUF,Petrol,Sedan,
+2018,SEAT,Petrol,Sedan,2
+2018,SEAT,Diesel,Sedan,
+2018,SKODA,Petrol,Sedan,245
+2018,SKODA,Diesel,Sedan,
+2018,SMART,Petrol,Sedan,
+2018,SMART,Others,Sedan,
+2018,SSANGYONG,Petrol,Sedan,
+2018,SSANGYONG,Diesel,Sedan,
+2018,SUBARU,Petrol,Sedan,153
+2018,SUBARU,Others,Sedan,
+2018,SUZUKI,Petrol,Sedan,
+2018,SUZUKI,Others,Sedan,
+2018,TESLA,Others,Sedan,
+2018,THE LONDON TAXI CO,Diesel,Sedan,
+2018,TOYO ACE,Petrol,Sedan,
+2018,TOYOTA,Petrol,Sedan,3663
+2018,TOYOTA,Diesel,Sedan,
+2018,TOYOTA,Others,Sedan,578
+2018,TRIUMPH,Petrol,Sedan,
+2018,VOLKSWAGEN,Petrol,Sedan,432
+2018,VOLKSWAGEN,Diesel,Sedan,
+2018,VOLVO,Petrol,Sedan,398
+2018,VOLVO,Diesel,Sedan,
+2018,ALFA ROMEO,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,ALPINA,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,ALPINA,Diesel,Multi-purpose Vehicle/Station-wagon,
+2018,ASTON MARTIN,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,AUDI,Petrol,Multi-purpose Vehicle/Station-wagon,16
+2018,AUDI,Diesel,Multi-purpose Vehicle/Station-wagon,1
+2018,AUDI,Others,Multi-purpose Vehicle/Station-wagon,
+2018,AUSTIN,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,B.M.W.,Petrol,Multi-purpose Vehicle/Station-wagon,646
+2018,B.M.W.,Diesel,Multi-purpose Vehicle/Station-wagon,4
+2018,B.M.W.,Others,Multi-purpose Vehicle/Station-wagon,27
+2018,BENTLEY,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,BENTLEY,Diesel,Multi-purpose Vehicle/Station-wagon,3
+2018,BLUECAR,Others,Multi-purpose Vehicle/Station-wagon,
+2018,BYD,Others,Multi-purpose Vehicle/Station-wagon,
+2018,CHERY,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,CHEVROLET,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,CHRYSLER,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,CHRYSLER,Diesel,Multi-purpose Vehicle/Station-wagon,
+2018,CITROEN,Petrol,Multi-purpose Vehicle/Station-wagon,121
+2018,CITROEN,Diesel,Multi-purpose Vehicle/Station-wagon,
+2018,CITROEN,Others,Multi-purpose Vehicle/Station-wagon,
+2018,DAIHATSU,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,DAIMLER,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,DATSUN,Petrol,Multi-purpose Vehicle/Station-wagon,1
+2018,FERRARI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,FIAT,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,FORD,Petrol,Multi-purpose Vehicle/Station-wagon,29
+2018,FORD,Diesel,Multi-purpose Vehicle/Station-wagon,1
+2018,FORD,Others,Multi-purpose Vehicle/Station-wagon,
+2018,HONDA,Petrol,Multi-purpose Vehicle/Station-wagon,2478
+2018,HONDA,Others,Multi-purpose Vehicle/Station-wagon,2119
+2018,HYUNDAI,Petrol,Multi-purpose Vehicle/Station-wagon,201
+2018,HYUNDAI,Diesel,Multi-purpose Vehicle/Station-wagon,2
+2018,HYUNDAI,Others,Multi-purpose Vehicle/Station-wagon,
+2018,INFINITI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,INFINITI,Diesel,Multi-purpose Vehicle/Station-wagon,
+2018,INFINITI,Others,Multi-purpose Vehicle/Station-wagon,
+2018,JAGUAR,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,JAGUAR,Diesel,Multi-purpose Vehicle/Station-wagon,
+2018,JEEP,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,JEEP,Diesel,Multi-purpose Vehicle/Station-wagon,
+2018,KIA,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,KIA,Diesel,Multi-purpose Vehicle/Station-wagon,582
+2018,KIA,Others,Multi-purpose Vehicle/Station-wagon,25
+2018,KOENIGSEGG,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,LAMBORGHINI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,LANCIA,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,LAND ROVER,Petrol,Multi-purpose Vehicle/Station-wagon,3
+2018,LAND ROVER,Diesel,Multi-purpose Vehicle/Station-wagon,4
+2018,LOTUS,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,M.G.,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,MARCOS,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,MASERATI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,MASERATI,Diesel,Multi-purpose Vehicle/Station-wagon,
+2018,MAXUS,Petrol,Multi-purpose Vehicle/Station-wagon,12
+2018,MAZDA,Petrol,Multi-purpose Vehicle/Station-wagon,161
+2018,MAZDA,Diesel,Multi-purpose Vehicle/Station-wagon,
+2018,Mclaren,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,MERCEDES BENZ,Petrol,Multi-purpose Vehicle/Station-wagon,115
+2018,MERCEDES BENZ,Diesel,Multi-purpose Vehicle/Station-wagon,14
+2018,MERCEDES BENZ,Others,Multi-purpose Vehicle/Station-wagon,
+2018,MINI,Petrol,Multi-purpose Vehicle/Station-wagon,147
+2018,MINI,Diesel,Multi-purpose Vehicle/Station-wagon,
+2018,MITSUBISHI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,MITSUBISHI,Diesel,Multi-purpose Vehicle/Station-wagon,
+2018,MITSUBISHI,Others,Multi-purpose Vehicle/Station-wagon,
+2018,MITSUOKA,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,MORRIS,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,NISSAN,Petrol,Multi-purpose Vehicle/Station-wagon,30
+2018,NISSAN,Others,Multi-purpose Vehicle/Station-wagon,1
+2018,OPEL,Petrol,Multi-purpose Vehicle/Station-wagon,55
+2018,OPEL,Diesel,Multi-purpose Vehicle/Station-wagon,
+2018,PAGANI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,PERODUA,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,PEUGEOT,Petrol,Multi-purpose Vehicle/Station-wagon,58
+2018,PEUGEOT,Diesel,Multi-purpose Vehicle/Station-wagon,
+2018,PORSCHE,Petrol,Multi-purpose Vehicle/Station-wagon,16
+2018,PORSCHE,Diesel,Multi-purpose Vehicle/Station-wagon,
+2018,PORSCHE,Others,Multi-purpose Vehicle/Station-wagon,3
+2018,RAMBLER,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,RANGE ROVER,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,RENAULT,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,RENAULT,Diesel,Multi-purpose Vehicle/Station-wagon,615
+2018,RENAULT,Others,Multi-purpose Vehicle/Station-wagon,
+2018,ROLLS ROYCE,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,ROVER,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,RUF,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,SEAT,Petrol,Multi-purpose Vehicle/Station-wagon,23
+2018,SEAT,Diesel,Multi-purpose Vehicle/Station-wagon,
+2018,SKODA,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,SKODA,Diesel,Multi-purpose Vehicle/Station-wagon,
+2018,SMART,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,SMART,Others,Multi-purpose Vehicle/Station-wagon,
+2018,SSANGYONG,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,SSANGYONG,Diesel,Multi-purpose Vehicle/Station-wagon,3
+2018,SUBARU,Petrol,Multi-purpose Vehicle/Station-wagon,19
+2018,SUBARU,Others,Multi-purpose Vehicle/Station-wagon,
+2018,SUZUKI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,SUZUKI,Others,Multi-purpose Vehicle/Station-wagon,
+2018,TESLA,Others,Multi-purpose Vehicle/Station-wagon,1
+2018,THE LONDON TAXI CO,Diesel,Multi-purpose Vehicle/Station-wagon,
+2018,TOYO ACE,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,TOYOTA,Petrol,Multi-purpose Vehicle/Station-wagon,3327
+2018,TOYOTA,Diesel,Multi-purpose Vehicle/Station-wagon,
+2018,TOYOTA,Others,Multi-purpose Vehicle/Station-wagon,2245
+2018,TRIUMPH,Petrol,Multi-purpose Vehicle/Station-wagon,
+2018,VOLKSWAGEN,Petrol,Multi-purpose Vehicle/Station-wagon,695
+2018,VOLKSWAGEN,Diesel,Multi-purpose Vehicle/Station-wagon,1
+2018,VOLVO,Petrol,Multi-purpose Vehicle/Station-wagon,48
+2018,VOLVO,Diesel,Multi-purpose Vehicle/Station-wagon,
+2018,ALFA ROMEO,Petrol,Sports Utility Vehicle,1
+2018,ALPINA,Petrol,Sports Utility Vehicle,
+2018,ALPINA,Diesel,Sports Utility Vehicle,1
+2018,ASTON MARTIN,Petrol,Sports Utility Vehicle,
+2018,AUDI,Petrol,Sports Utility Vehicle,723
+2018,AUDI,Diesel,Sports Utility Vehicle,
+2018,AUDI,Others,Sports Utility Vehicle,8
+2018,AUSTIN,Petrol,Sports Utility Vehicle,
+2018,B.M.W.,Petrol,Sports Utility Vehicle,1787
+2018,B.M.W.,Diesel,Sports Utility Vehicle,1
+2018,B.M.W.,Others,Sports Utility Vehicle,
+2018,BENTLEY,Petrol,Sports Utility Vehicle,8
+2018,BENTLEY,Diesel,Sports Utility Vehicle,5
+2018,BLUECAR,Others,Sports Utility Vehicle,
+2018,BYD,Others,Sports Utility Vehicle,
+2018,CHERY,Petrol,Sports Utility Vehicle,
+2018,CHEVROLET,Petrol,Sports Utility Vehicle,
+2018,CHRYSLER,Petrol,Sports Utility Vehicle,
+2018,CHRYSLER,Diesel,Sports Utility Vehicle,
+2018,CITROEN,Petrol,Sports Utility Vehicle,156
+2018,CITROEN,Diesel,Sports Utility Vehicle,
+2018,CITROEN,Others,Sports Utility Vehicle,
+2018,DAIHATSU,Petrol,Sports Utility Vehicle,
+2018,DAIMLER,Petrol,Sports Utility Vehicle,
+2018,DATSUN,Petrol,Sports Utility Vehicle,
+2018,FERRARI,Petrol,Sports Utility Vehicle,
+2018,FIAT,Petrol,Sports Utility Vehicle,
+2018,FORD,Petrol,Sports Utility Vehicle,11
+2018,FORD,Diesel,Sports Utility Vehicle,
+2018,FORD,Others,Sports Utility Vehicle,
+2018,HONDA,Petrol,Sports Utility Vehicle,3318
+2018,HONDA,Others,Sports Utility Vehicle,524
+2018,HYUNDAI,Petrol,Sports Utility Vehicle,524
+2018,HYUNDAI,Diesel,Sports Utility Vehicle,2
+2018,HYUNDAI,Others,Sports Utility Vehicle,
+2018,INFINITI,Petrol,Sports Utility Vehicle,12
+2018,INFINITI,Diesel,Sports Utility Vehicle,
+2018,INFINITI,Others,Sports Utility Vehicle,
+2018,JAGUAR,Petrol,Sports Utility Vehicle,147
+2018,JAGUAR,Diesel,Sports Utility Vehicle,
+2018,JEEP,Petrol,Sports Utility Vehicle,37
+2018,JEEP,Diesel,Sports Utility Vehicle,
+2018,KIA,Petrol,Sports Utility Vehicle,1
+2018,KIA,Diesel,Sports Utility Vehicle,327
+2018,KIA,Others,Sports Utility Vehicle,
+2018,KOENIGSEGG,Petrol,Sports Utility Vehicle,
+2018,LAMBORGHINI,Petrol,Sports Utility Vehicle,13
+2018,LANCIA,Petrol,Sports Utility Vehicle,
+2018,LAND ROVER,Petrol,Sports Utility Vehicle,271
+2018,LAND ROVER,Diesel,Sports Utility Vehicle,2
+2018,LOTUS,Petrol,Sports Utility Vehicle,
+2018,M.G.,Petrol,Sports Utility Vehicle,1
+2018,MARCOS,Petrol,Sports Utility Vehicle,
+2018,MASERATI,Petrol,Sports Utility Vehicle,34
+2018,MASERATI,Diesel,Sports Utility Vehicle,7
+2018,MAXUS,Petrol,Sports Utility Vehicle,
+2018,MAZDA,Petrol,Sports Utility Vehicle,902
+2018,MAZDA,Diesel,Sports Utility Vehicle,
+2018,Mclaren,Petrol,Sports Utility Vehicle,
+2018,MERCEDES BENZ,Petrol,Sports Utility Vehicle,1606
+2018,MERCEDES BENZ,Diesel,Sports Utility Vehicle,15
+2018,MERCEDES BENZ,Others,Sports Utility Vehicle,
+2018,MINI,Petrol,Sports Utility Vehicle,
+2018,MINI,Diesel,Sports Utility Vehicle,
+2018,MITSUBISHI,Petrol,Sports Utility Vehicle,1379
+2018,MITSUBISHI,Diesel,Sports Utility Vehicle,
+2018,MITSUBISHI,Others,Sports Utility Vehicle,
+2018,MITSUOKA,Petrol,Sports Utility Vehicle,
+2018,MORRIS,Petrol,Sports Utility Vehicle,
+2018,NISSAN,Petrol,Sports Utility Vehicle,1642
+2018,NISSAN,Others,Sports Utility Vehicle,1
+2018,OPEL,Petrol,Sports Utility Vehicle,140
+2018,OPEL,Diesel,Sports Utility Vehicle,20
+2018,PAGANI,Petrol,Sports Utility Vehicle,
+2018,PERODUA,Petrol,Sports Utility Vehicle,
+2018,PEUGEOT,Petrol,Sports Utility Vehicle,607
+2018,PEUGEOT,Diesel,Sports Utility Vehicle,
+2018,PORSCHE,Petrol,Sports Utility Vehicle,307
+2018,PORSCHE,Diesel,Sports Utility Vehicle,
+2018,PORSCHE,Others,Sports Utility Vehicle,
+2018,RAMBLER,Petrol,Sports Utility Vehicle,
+2018,RANGE ROVER,Petrol,Sports Utility Vehicle,
+2018,RENAULT,Petrol,Sports Utility Vehicle,
+2018,RENAULT,Diesel,Sports Utility Vehicle,
+2018,RENAULT,Others,Sports Utility Vehicle,
+2018,ROLLS ROYCE,Petrol,Sports Utility Vehicle,
+2018,ROVER,Petrol,Sports Utility Vehicle,
+2018,RUF,Petrol,Sports Utility Vehicle,
+2018,SEAT,Petrol,Sports Utility Vehicle,108
+2018,SEAT,Diesel,Sports Utility Vehicle,
+2018,SKODA,Petrol,Sports Utility Vehicle,184
+2018,SKODA,Diesel,Sports Utility Vehicle,
+2018,SMART,Petrol,Sports Utility Vehicle,
+2018,SMART,Others,Sports Utility Vehicle,
+2018,SSANGYONG,Petrol,Sports Utility Vehicle,37
+2018,SSANGYONG,Diesel,Sports Utility Vehicle,
+2018,SUBARU,Petrol,Sports Utility Vehicle,2905
+2018,SUBARU,Others,Sports Utility Vehicle,2
+2018,SUZUKI,Petrol,Sports Utility Vehicle,
+2018,SUZUKI,Others,Sports Utility Vehicle,
+2018,TESLA,Others,Sports Utility Vehicle,
+2018,THE LONDON TAXI CO,Diesel,Sports Utility Vehicle,
+2018,TOYO ACE,Petrol,Sports Utility Vehicle,
+2018,TOYOTA,Petrol,Sports Utility Vehicle,2381
+2018,TOYOTA,Diesel,Sports Utility Vehicle,2
+2018,TOYOTA,Others,Sports Utility Vehicle,815
+2018,TRIUMPH,Petrol,Sports Utility Vehicle,
+2018,VOLKSWAGEN,Petrol,Sports Utility Vehicle,275
+2018,VOLKSWAGEN,Diesel,Sports Utility Vehicle,
+2018,VOLVO,Petrol,Sports Utility Vehicle,722
+2018,VOLVO,Diesel,Sports Utility Vehicle,
+2018,ALFA ROMEO,Petrol,Coupe/ Convertible,1
+2018,ALPINA,Petrol,Coupe/ Convertible,4
+2018,ALPINA,Diesel,Coupe/ Convertible,1
+2018,ASTON MARTIN,Petrol,Coupe/ Convertible,25
+2018,AUDI,Petrol,Coupe/ Convertible,82
+2018,AUDI,Diesel,Coupe/ Convertible,
+2018,AUDI,Others,Coupe/ Convertible,
+2018,AUSTIN,Petrol,Coupe/ Convertible,
+2018,B.M.W.,Petrol,Coupe/ Convertible,407
+2018,B.M.W.,Diesel,Coupe/ Convertible,
+2018,B.M.W.,Others,Coupe/ Convertible,3
+2018,BENTLEY,Petrol,Coupe/ Convertible,22
+2018,BENTLEY,Diesel,Coupe/ Convertible,
+2018,BLUECAR,Others,Coupe/ Convertible,
+2018,BYD,Others,Coupe/ Convertible,
+2018,CHERY,Petrol,Coupe/ Convertible,
+2018,CHEVROLET,Petrol,Coupe/ Convertible,1
+2018,CHRYSLER,Petrol,Coupe/ Convertible,
+2018,CHRYSLER,Diesel,Coupe/ Convertible,
+2018,CITROEN,Petrol,Coupe/ Convertible,
+2018,CITROEN,Diesel,Coupe/ Convertible,
+2018,CITROEN,Others,Coupe/ Convertible,
+2018,DAIHATSU,Petrol,Coupe/ Convertible,
+2018,DAIMLER,Petrol,Coupe/ Convertible,
+2018,DATSUN,Petrol,Coupe/ Convertible,5
+2018,FERRARI,Petrol,Coupe/ Convertible,37
+2018,FIAT,Petrol,Coupe/ Convertible,
+2018,FORD,Petrol,Coupe/ Convertible,20
+2018,FORD,Diesel,Coupe/ Convertible,
+2018,FORD,Others,Coupe/ Convertible,
+2018,HONDA,Petrol,Coupe/ Convertible,
+2018,HONDA,Others,Coupe/ Convertible,
+2018,HYUNDAI,Petrol,Coupe/ Convertible,
+2018,HYUNDAI,Diesel,Coupe/ Convertible,
+2018,HYUNDAI,Others,Coupe/ Convertible,
+2018,INFINITI,Petrol,Coupe/ Convertible,15
+2018,INFINITI,Diesel,Coupe/ Convertible,
+2018,INFINITI,Others,Coupe/ Convertible,
+2018,JAGUAR,Petrol,Coupe/ Convertible,4
+2018,JAGUAR,Diesel,Coupe/ Convertible,
+2018,JEEP,Petrol,Coupe/ Convertible,
+2018,JEEP,Diesel,Coupe/ Convertible,
+2018,KIA,Petrol,Coupe/ Convertible,
+2018,KIA,Diesel,Coupe/ Convertible,
+2018,KIA,Others,Coupe/ Convertible,
+2018,KOENIGSEGG,Petrol,Coupe/ Convertible,
+2018,LAMBORGHINI,Petrol,Coupe/ Convertible,25
+2018,LANCIA,Petrol,Coupe/ Convertible,
+2018,LAND ROVER,Petrol,Coupe/ Convertible,8
+2018,LAND ROVER,Diesel,Coupe/ Convertible,1
+2018,LOTUS,Petrol,Coupe/ Convertible,2
+2018,M.G.,Petrol,Coupe/ Convertible,1
+2018,MARCOS,Petrol,Coupe/ Convertible,
+2018,MASERATI,Petrol,Coupe/ Convertible,7
+2018,MASERATI,Diesel,Coupe/ Convertible,
+2018,MAXUS,Petrol,Coupe/ Convertible,
+2018,MAZDA,Petrol,Coupe/ Convertible,12
+2018,MAZDA,Diesel,Coupe/ Convertible,
+2018,Mclaren,Petrol,Coupe/ Convertible,23
+2018,MERCEDES BENZ,Petrol,Coupe/ Convertible,1135
+2018,MERCEDES BENZ,Diesel,Coupe/ Convertible,5
+2018,MERCEDES BENZ,Others,Coupe/ Convertible,7
+2018,MINI,Petrol,Coupe/ Convertible,32
+2018,MINI,Diesel,Coupe/ Convertible,
+2018,MITSUBISHI,Petrol,Coupe/ Convertible,1
+2018,MITSUBISHI,Diesel,Coupe/ Convertible,
+2018,MITSUBISHI,Others,Coupe/ Convertible,
+2018,MITSUOKA,Petrol,Coupe/ Convertible,
+2018,MORRIS,Petrol,Coupe/ Convertible,
+2018,NISSAN,Petrol,Coupe/ Convertible,
+2018,NISSAN,Others,Coupe/ Convertible,
+2018,OPEL,Petrol,Coupe/ Convertible,
+2018,OPEL,Diesel,Coupe/ Convertible,
+2018,PAGANI,Petrol,Coupe/ Convertible,
+2018,PERODUA,Petrol,Coupe/ Convertible,
+2018,PEUGEOT,Petrol,Coupe/ Convertible,
+2018,PEUGEOT,Diesel,Coupe/ Convertible,
+2018,PORSCHE,Petrol,Coupe/ Convertible,134
+2018,PORSCHE,Diesel,Coupe/ Convertible,
+2018,PORSCHE,Others,Coupe/ Convertible,
+2018,RAMBLER,Petrol,Coupe/ Convertible,
+2018,RANGE ROVER,Petrol,Coupe/ Convertible,
+2018,RENAULT,Petrol,Coupe/ Convertible,
+2018,RENAULT,Diesel,Coupe/ Convertible,
+2018,RENAULT,Others,Coupe/ Convertible,
+2018,ROLLS ROYCE,Petrol,Coupe/ Convertible,10
+2018,ROVER,Petrol,Coupe/ Convertible,
+2018,RUF,Petrol,Coupe/ Convertible,
+2018,SEAT,Petrol,Coupe/ Convertible,
+2018,SEAT,Diesel,Coupe/ Convertible,
+2018,SKODA,Petrol,Coupe/ Convertible,
+2018,SKODA,Diesel,Coupe/ Convertible,
+2018,SMART,Petrol,Coupe/ Convertible,
+2018,SMART,Others,Coupe/ Convertible,1
+2018,SSANGYONG,Petrol,Coupe/ Convertible,
+2018,SSANGYONG,Diesel,Coupe/ Convertible,
+2018,SUBARU,Petrol,Coupe/ Convertible,2
+2018,SUBARU,Others,Coupe/ Convertible,
+2018,SUZUKI,Petrol,Coupe/ Convertible,
+2018,SUZUKI,Others,Coupe/ Convertible,
+2018,TESLA,Others,Coupe/ Convertible,
+2018,THE LONDON TAXI CO,Diesel,Coupe/ Convertible,
+2018,TOYO ACE,Petrol,Coupe/ Convertible,
+2018,TOYOTA,Petrol,Coupe/ Convertible,9
+2018,TOYOTA,Diesel,Coupe/ Convertible,
+2018,TOYOTA,Others,Coupe/ Convertible,2
+2018,TRIUMPH,Petrol,Coupe/ Convertible,2
+2018,VOLKSWAGEN,Petrol,Coupe/ Convertible,89
+2018,VOLKSWAGEN,Diesel,Coupe/ Convertible,
+2018,VOLVO,Petrol,Coupe/ Convertible,
+2018,VOLVO,Diesel,Coupe/ Convertible,
+2019,ALFA ROMEO,Petrol,Hatchback,3
+2019,ALPINA,Petrol,Hatchback,
+2019,ALPINA,Diesel,Hatchback,
+2019,ALPINE,Petrol,Hatchback,
+2019,ASTON MARTIN,Petrol,Hatchback,
+2019,AUDI,Petrol,Hatchback,592
+2019,AUDI,Diesel,Hatchback,
+2019,AUDI,Others,Hatchback,15
+2019,AUSTIN,Petrol,Hatchback,
+2019,AUSTIN,Diesel,Hatchback,
+2019,B.M.W.,Petrol,Hatchback,1632
+2019,B.M.W.,Diesel,Hatchback,
+2019,B.M.W.,Others,Hatchback,11
+2019,BENTLEY,Petrol,Hatchback,
+2019,BENTLEY,Diesel,Hatchback,
+2019,BLUECAR,Others,Hatchback,265
+2019,BYD,Others,Hatchback,7
+2019,CHERY,Petrol,Hatchback,
+2019,CHEVROLET,Petrol,Hatchback,
+2019,CHRYSLER,Petrol,Hatchback,
+2019,CHRYSLER,Diesel,Hatchback,
+2019,CITROEN,Petrol,Hatchback,
+2019,CITROEN,Diesel,Hatchback,
+2019,CITROEN,Others,Hatchback,
+2019,DAIHATSU,Petrol,Hatchback,
+2019,DAIMLER,Petrol,Hatchback,
+2019,DATSUN,Petrol,Hatchback,
+2019,FERRARI,Petrol,Hatchback,
+2019,FIAT,Petrol,Hatchback,
+2019,FORD,Petrol,Hatchback,
+2019,FORD,Diesel,Hatchback,
+2019,FORD,Others,Hatchback,
+2019,HONDA,Petrol,Hatchback,4619
+2019,HONDA,Others,Hatchback,500
+2019,HYUNDAI,Petrol,Hatchback,177
+2019,HYUNDAI,Diesel,Hatchback,
+2019,HYUNDAI,Others,Hatchback,42
+2019,INFINITI,Petrol,Hatchback,8
+2019,INFINITI,Diesel,Hatchback,
+2019,INFINITI,Others,Hatchback,
+2019,JAGUAR,Petrol,Hatchback,
+2019,JAGUAR,Diesel,Hatchback,
+2019,JAGUAR,Others,Hatchback,
+2019,JEEP,Petrol,Hatchback,
+2019,JEEP,Diesel,Hatchback,
+2019,KIA,Petrol,Hatchback,81
+2019,KIA,Diesel,Hatchback,
+2019,KIA,Others,Hatchback,
+2019,KOENIGSEGG,Petrol,Hatchback,
+2019,LAMBORGHINI,Petrol,Hatchback,
+2019,LANCIA,Petrol,Hatchback,
+2019,LAND ROVER,Petrol,Hatchback,
+2019,LAND ROVER,Diesel,Hatchback,
+2019,LAND ROVER,Others,Hatchback,
+2019,LOTUS,Petrol,Hatchback,
+2019,M.G.,Petrol,Hatchback,
+2019,MARCOS,Petrol,Hatchback,
+2019,MASERATI,Petrol,Hatchback,
+2019,MASERATI,Diesel,Hatchback,
+2019,MAXUS,Petrol,Hatchback,
+2019,MAZDA,Petrol,Hatchback,208
+2019,MAZDA,Diesel,Hatchback,
+2019,MAZDA,Others,Hatchback,92
+2019,Mclaren,Petrol,Hatchback,
+2019,MERCEDES BENZ,Petrol,Hatchback,884
+2019,MERCEDES BENZ,Diesel,Hatchback,
+2019,MERCEDES BENZ,Others,Hatchback,
+2019,MINI,Petrol,Hatchback,346
+2019,MINI,Diesel,Hatchback,
+2019,MITSUBISHI,Petrol,Hatchback,33
+2019,MITSUBISHI,Diesel,Hatchback,
+2019,MITSUBISHI,Others,Hatchback,
+2019,MITSUOKA,Petrol,Hatchback,
+2019,MORRIS,Petrol,Hatchback,
+2019,NISSAN,Petrol,Hatchback,739
+2019,NISSAN,Others,Hatchback,8
+2019,OPEL,Petrol,Hatchback,94
+2019,OPEL,Diesel,Hatchback,175
+2019,PAGANI,Petrol,Hatchback,
+2019,PERODUA,Petrol,Hatchback,28
+2019,PEUGEOT,Petrol,Hatchback,6
+2019,PEUGEOT,Diesel,Hatchback,
+2019,PORSCHE,Petrol,Hatchback,2
+2019,PORSCHE,Diesel,Hatchback,
+2019,PORSCHE,Others,Hatchback,1
+2019,RAMBLER,Petrol,Hatchback,
+2019,RANGE ROVER,Petrol,Hatchback,
+2019,RANGE ROVER,Diesel,Hatchback,
+2019,RENAULT,Petrol,Hatchback,37
+2019,RENAULT,Diesel,Hatchback,
+2019,RENAULT,Others,Hatchback,4
+2019,ROLLS ROYCE,Petrol,Hatchback,
+2019,ROVER,Petrol,Hatchback,
+2019,RUF,Petrol,Hatchback,
+2019,SEAT,Petrol,Hatchback,71
+2019,SEAT,Diesel,Hatchback,
+2019,SKODA,Petrol,Hatchback,24
+2019,SKODA,Diesel,Hatchback,
+2019,SMART,Petrol,Hatchback,
+2019,SMART,Others,Hatchback,
+2019,SSANGYONG,Petrol,Hatchback,
+2019,SSANGYONG,Diesel,Hatchback,
+2019,SUBARU,Petrol,Hatchback,63
+2019,SUBARU,Others,Hatchback,
+2019,SUZUKI,Petrol,Hatchback,396
+2019,SUZUKI,Others,Hatchback,26
+2019,TESLA,Others,Hatchback,4
+2019,THE LONDON TAXI CO,Diesel,Hatchback,
+2019,TOYO ACE,Petrol,Hatchback,
+2019,TOYOTA,Petrol,Hatchback,115
+2019,TOYOTA,Diesel,Hatchback,
+2019,TOYOTA,Others,Hatchback,148
+2019,TRIUMPH,Petrol,Hatchback,
+2019,VOLKSWAGEN,Petrol,Hatchback,686
+2019,VOLKSWAGEN,Diesel,Hatchback,
+2019,VOLVO,Petrol,Hatchback,97
+2019,VOLVO,Diesel,Hatchback,
+2019,ALFA ROMEO,Petrol,Sedan,43
+2019,ALPINA,Petrol,Sedan,
+2019,ALPINA,Diesel,Sedan,1
+2019,ALPINE,Petrol,Sedan,
+2019,ASTON MARTIN,Petrol,Sedan,
+2019,AUDI,Petrol,Sedan,915
+2019,AUDI,Diesel,Sedan,
+2019,AUDI,Others,Sedan,121
+2019,AUSTIN,Petrol,Sedan,
+2019,AUSTIN,Diesel,Sedan,
+2019,B.M.W.,Petrol,Sedan,1097
+2019,B.M.W.,Diesel,Sedan,14
+2019,B.M.W.,Others,Sedan,34
+2019,BENTLEY,Petrol,Sedan,21
+2019,BENTLEY,Diesel,Sedan,
+2019,BLUECAR,Others,Sedan,
+2019,BYD,Others,Sedan,
+2019,CHERY,Petrol,Sedan,
+2019,CHEVROLET,Petrol,Sedan,
+2019,CHRYSLER,Petrol,Sedan,
+2019,CHRYSLER,Diesel,Sedan,
+2019,CITROEN,Petrol,Sedan,
+2019,CITROEN,Diesel,Sedan,
+2019,CITROEN,Others,Sedan,
+2019,DAIHATSU,Petrol,Sedan,
+2019,DAIMLER,Petrol,Sedan,
+2019,DATSUN,Petrol,Sedan,1
+2019,FERRARI,Petrol,Sedan,
+2019,FIAT,Petrol,Sedan,
+2019,FORD,Petrol,Sedan,1
+2019,FORD,Diesel,Sedan,
+2019,FORD,Others,Sedan,
+2019,HONDA,Petrol,Sedan,2243
+2019,HONDA,Others,Sedan,100
+2019,HYUNDAI,Petrol,Sedan,4846
+2019,HYUNDAI,Diesel,Sedan,
+2019,HYUNDAI,Others,Sedan,
+2019,INFINITI,Petrol,Sedan,68
+2019,INFINITI,Diesel,Sedan,
+2019,INFINITI,Others,Sedan,
+2019,JAGUAR,Petrol,Sedan,126
+2019,JAGUAR,Diesel,Sedan,
+2019,JAGUAR,Others,Sedan,
+2019,JEEP,Petrol,Sedan,
+2019,JEEP,Diesel,Sedan,
+2019,KIA,Petrol,Sedan,2974
+2019,KIA,Diesel,Sedan,
+2019,KIA,Others,Sedan,
+2019,KOENIGSEGG,Petrol,Sedan,
+2019,LAMBORGHINI,Petrol,Sedan,
+2019,LANCIA,Petrol,Sedan,
+2019,LAND ROVER,Petrol,Sedan,
+2019,LAND ROVER,Diesel,Sedan,
+2019,LAND ROVER,Others,Sedan,
+2019,LOTUS,Petrol,Sedan,
+2019,M.G.,Petrol,Sedan,
+2019,MARCOS,Petrol,Sedan,
+2019,MASERATI,Petrol,Sedan,46
+2019,MASERATI,Diesel,Sedan,
+2019,MAXUS,Petrol,Sedan,
+2019,MAZDA,Petrol,Sedan,1352
+2019,MAZDA,Diesel,Sedan,38
+2019,MAZDA,Others,Sedan,599
+2019,Mclaren,Petrol,Sedan,
+2019,MERCEDES BENZ,Petrol,Sedan,3098
+2019,MERCEDES BENZ,Diesel,Sedan,8
+2019,MERCEDES BENZ,Others,Sedan,491
+2019,MINI,Petrol,Sedan,
+2019,MINI,Diesel,Sedan,
+2019,MITSUBISHI,Petrol,Sedan,1441
+2019,MITSUBISHI,Diesel,Sedan,
+2019,MITSUBISHI,Others,Sedan,
+2019,MITSUOKA,Petrol,Sedan,
+2019,MORRIS,Petrol,Sedan,1
+2019,NISSAN,Petrol,Sedan,1010
+2019,NISSAN,Others,Sedan,
+2019,OPEL,Petrol,Sedan,
+2019,OPEL,Diesel,Sedan,
+2019,PAGANI,Petrol,Sedan,
+2019,PERODUA,Petrol,Sedan,60
+2019,PEUGEOT,Petrol,Sedan,
+2019,PEUGEOT,Diesel,Sedan,
+2019,PORSCHE,Petrol,Sedan,65
+2019,PORSCHE,Diesel,Sedan,
+2019,PORSCHE,Others,Sedan,8
+2019,RAMBLER,Petrol,Sedan,
+2019,RANGE ROVER,Petrol,Sedan,
+2019,RANGE ROVER,Diesel,Sedan,
+2019,RENAULT,Petrol,Sedan,1
+2019,RENAULT,Diesel,Sedan,
+2019,RENAULT,Others,Sedan,
+2019,ROLLS ROYCE,Petrol,Sedan,25
+2019,ROVER,Petrol,Sedan,
+2019,RUF,Petrol,Sedan,
+2019,SEAT,Petrol,Sedan,53
+2019,SEAT,Diesel,Sedan,
+2019,SKODA,Petrol,Sedan,454
+2019,SKODA,Diesel,Sedan,
+2019,SMART,Petrol,Sedan,
+2019,SMART,Others,Sedan,
+2019,SSANGYONG,Petrol,Sedan,
+2019,SSANGYONG,Diesel,Sedan,
+2019,SUBARU,Petrol,Sedan,80
+2019,SUBARU,Others,Sedan,
+2019,SUZUKI,Petrol,Sedan,
+2019,SUZUKI,Others,Sedan,
+2019,TESLA,Others,Sedan,5
+2019,THE LONDON TAXI CO,Diesel,Sedan,
+2019,TOYO ACE,Petrol,Sedan,
+2019,TOYOTA,Petrol,Sedan,4386
+2019,TOYOTA,Diesel,Sedan,
+2019,TOYOTA,Others,Sedan,688
+2019,TRIUMPH,Petrol,Sedan,
+2019,VOLKSWAGEN,Petrol,Sedan,248
+2019,VOLKSWAGEN,Diesel,Sedan,
+2019,VOLVO,Petrol,Sedan,143
+2019,VOLVO,Diesel,Sedan,
+2019,ALFA ROMEO,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,ALPINA,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,ALPINA,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,ALPINE,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,ASTON MARTIN,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,AUDI,Petrol,Multi-purpose Vehicle/Station-wagon,26
+2019,AUDI,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,AUDI,Others,Multi-purpose Vehicle/Station-wagon,
+2019,AUSTIN,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,AUSTIN,Diesel,Multi-purpose Vehicle/Station-wagon,1
+2019,B.M.W.,Petrol,Multi-purpose Vehicle/Station-wagon,6
+2019,B.M.W.,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,B.M.W.,Others,Multi-purpose Vehicle/Station-wagon,18
+2019,BENTLEY,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,BENTLEY,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,BLUECAR,Others,Multi-purpose Vehicle/Station-wagon,
+2019,BYD,Others,Multi-purpose Vehicle/Station-wagon,
+2019,CHERY,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,CHEVROLET,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,CHRYSLER,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,CHRYSLER,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,CITROEN,Petrol,Multi-purpose Vehicle/Station-wagon,113
+2019,CITROEN,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,CITROEN,Others,Multi-purpose Vehicle/Station-wagon,
+2019,DAIHATSU,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,DAIMLER,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,DATSUN,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,FERRARI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,FIAT,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,FORD,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,FORD,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,FORD,Others,Multi-purpose Vehicle/Station-wagon,
+2019,HONDA,Petrol,Multi-purpose Vehicle/Station-wagon,1905
+2019,HONDA,Others,Multi-purpose Vehicle/Station-wagon,2348
+2019,HYUNDAI,Petrol,Multi-purpose Vehicle/Station-wagon,39
+2019,HYUNDAI,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,HYUNDAI,Others,Multi-purpose Vehicle/Station-wagon,
+2019,INFINITI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,INFINITI,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,INFINITI,Others,Multi-purpose Vehicle/Station-wagon,
+2019,JAGUAR,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,JAGUAR,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,JAGUAR,Others,Multi-purpose Vehicle/Station-wagon,
+2019,JEEP,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,JEEP,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,KIA,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,KIA,Diesel,Multi-purpose Vehicle/Station-wagon,47
+2019,KIA,Others,Multi-purpose Vehicle/Station-wagon,84
+2019,KOENIGSEGG,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,LAMBORGHINI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,LANCIA,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,LAND ROVER,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,LAND ROVER,Diesel,Multi-purpose Vehicle/Station-wagon,3
+2019,LAND ROVER,Others,Multi-purpose Vehicle/Station-wagon,
+2019,LOTUS,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,M.G.,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,MARCOS,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,MASERATI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,MASERATI,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,MAXUS,Petrol,Multi-purpose Vehicle/Station-wagon,15
+2019,MAZDA,Petrol,Multi-purpose Vehicle/Station-wagon,18
+2019,MAZDA,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,MAZDA,Others,Multi-purpose Vehicle/Station-wagon,
+2019,Mclaren,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,MERCEDES BENZ,Petrol,Multi-purpose Vehicle/Station-wagon,80
+2019,MERCEDES BENZ,Diesel,Multi-purpose Vehicle/Station-wagon,2
+2019,MERCEDES BENZ,Others,Multi-purpose Vehicle/Station-wagon,7
+2019,MINI,Petrol,Multi-purpose Vehicle/Station-wagon,77
+2019,MINI,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,MITSUBISHI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,MITSUBISHI,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,MITSUBISHI,Others,Multi-purpose Vehicle/Station-wagon,
+2019,MITSUOKA,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,MORRIS,Petrol,Multi-purpose Vehicle/Station-wagon,1
+2019,NISSAN,Petrol,Multi-purpose Vehicle/Station-wagon,23
+2019,NISSAN,Others,Multi-purpose Vehicle/Station-wagon,215
+2019,OPEL,Petrol,Multi-purpose Vehicle/Station-wagon,55
+2019,OPEL,Diesel,Multi-purpose Vehicle/Station-wagon,103
+2019,PAGANI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,PERODUA,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,PEUGEOT,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,PEUGEOT,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,PORSCHE,Petrol,Multi-purpose Vehicle/Station-wagon,9
+2019,PORSCHE,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,PORSCHE,Others,Multi-purpose Vehicle/Station-wagon,3
+2019,RAMBLER,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,RANGE ROVER,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,RANGE ROVER,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,RENAULT,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,RENAULT,Diesel,Multi-purpose Vehicle/Station-wagon,736
+2019,RENAULT,Others,Multi-purpose Vehicle/Station-wagon,
+2019,ROLLS ROYCE,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,ROVER,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,RUF,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,SEAT,Petrol,Multi-purpose Vehicle/Station-wagon,18
+2019,SEAT,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,SKODA,Petrol,Multi-purpose Vehicle/Station-wagon,3
+2019,SKODA,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,SMART,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,SMART,Others,Multi-purpose Vehicle/Station-wagon,
+2019,SSANGYONG,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,SSANGYONG,Diesel,Multi-purpose Vehicle/Station-wagon,5
+2019,SUBARU,Petrol,Multi-purpose Vehicle/Station-wagon,6
+2019,SUBARU,Others,Multi-purpose Vehicle/Station-wagon,
+2019,SUZUKI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,SUZUKI,Others,Multi-purpose Vehicle/Station-wagon,
+2019,TESLA,Others,Multi-purpose Vehicle/Station-wagon,5
+2019,THE LONDON TAXI CO,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,TOYO ACE,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,TOYOTA,Petrol,Multi-purpose Vehicle/Station-wagon,2350
+2019,TOYOTA,Diesel,Multi-purpose Vehicle/Station-wagon,2
+2019,TOYOTA,Others,Multi-purpose Vehicle/Station-wagon,2521
+2019,TRIUMPH,Petrol,Multi-purpose Vehicle/Station-wagon,
+2019,VOLKSWAGEN,Petrol,Multi-purpose Vehicle/Station-wagon,580
+2019,VOLKSWAGEN,Diesel,Multi-purpose Vehicle/Station-wagon,1
+2019,VOLVO,Petrol,Multi-purpose Vehicle/Station-wagon,40
+2019,VOLVO,Diesel,Multi-purpose Vehicle/Station-wagon,
+2019,ALFA ROMEO,Petrol,Sports Utility Vehicle,10
+2019,ALPINA,Petrol,Sports Utility Vehicle,
+2019,ALPINA,Diesel,Sports Utility Vehicle,
+2019,ALPINE,Petrol,Sports Utility Vehicle,
+2019,ASTON MARTIN,Petrol,Sports Utility Vehicle,
+2019,AUDI,Petrol,Sports Utility Vehicle,739
+2019,AUDI,Diesel,Sports Utility Vehicle,1
+2019,AUDI,Others,Sports Utility Vehicle,39
+2019,AUSTIN,Petrol,Sports Utility Vehicle,
+2019,AUSTIN,Diesel,Sports Utility Vehicle,
+2019,B.M.W.,Petrol,Sports Utility Vehicle,2092
+2019,B.M.W.,Diesel,Sports Utility Vehicle,1
+2019,B.M.W.,Others,Sports Utility Vehicle,
+2019,BENTLEY,Petrol,Sports Utility Vehicle,23
+2019,BENTLEY,Diesel,Sports Utility Vehicle,1
+2019,BLUECAR,Others,Sports Utility Vehicle,
+2019,BYD,Others,Sports Utility Vehicle,
+2019,CHERY,Petrol,Sports Utility Vehicle,
+2019,CHEVROLET,Petrol,Sports Utility Vehicle,
+2019,CHRYSLER,Petrol,Sports Utility Vehicle,
+2019,CHRYSLER,Diesel,Sports Utility Vehicle,
+2019,CITROEN,Petrol,Sports Utility Vehicle,190
+2019,CITROEN,Diesel,Sports Utility Vehicle,
+2019,CITROEN,Others,Sports Utility Vehicle,
+2019,DAIHATSU,Petrol,Sports Utility Vehicle,
+2019,DAIMLER,Petrol,Sports Utility Vehicle,
+2019,DATSUN,Petrol,Sports Utility Vehicle,
+2019,FERRARI,Petrol,Sports Utility Vehicle,
+2019,FIAT,Petrol,Sports Utility Vehicle,
+2019,FORD,Petrol,Sports Utility Vehicle,
+2019,FORD,Diesel,Sports Utility Vehicle,
+2019,FORD,Others,Sports Utility Vehicle,
+2019,HONDA,Petrol,Sports Utility Vehicle,3100
+2019,HONDA,Others,Sports Utility Vehicle,390
+2019,HYUNDAI,Petrol,Sports Utility Vehicle,283
+2019,HYUNDAI,Diesel,Sports Utility Vehicle,10
+2019,HYUNDAI,Others,Sports Utility Vehicle,221
+2019,INFINITI,Petrol,Sports Utility Vehicle,67
+2019,INFINITI,Diesel,Sports Utility Vehicle,
+2019,INFINITI,Others,Sports Utility Vehicle,
+2019,JAGUAR,Petrol,Sports Utility Vehicle,185
+2019,JAGUAR,Diesel,Sports Utility Vehicle,
+2019,JAGUAR,Others,Sports Utility Vehicle,20
+2019,JEEP,Petrol,Sports Utility Vehicle,58
+2019,JEEP,Diesel,Sports Utility Vehicle,
+2019,KIA,Petrol,Sports Utility Vehicle,892
+2019,KIA,Diesel,Sports Utility Vehicle,149
+2019,KIA,Others,Sports Utility Vehicle,
+2019,KOENIGSEGG,Petrol,Sports Utility Vehicle,
+2019,LAMBORGHINI,Petrol,Sports Utility Vehicle,49
+2019,LANCIA,Petrol,Sports Utility Vehicle,
+2019,LAND ROVER,Petrol,Sports Utility Vehicle,162
+2019,LAND ROVER,Diesel,Sports Utility Vehicle,24
+2019,LAND ROVER,Others,Sports Utility Vehicle,111
+2019,LOTUS,Petrol,Sports Utility Vehicle,
+2019,M.G.,Petrol,Sports Utility Vehicle,
+2019,MARCOS,Petrol,Sports Utility Vehicle,
+2019,MASERATI,Petrol,Sports Utility Vehicle,52
+2019,MASERATI,Diesel,Sports Utility Vehicle,
+2019,MAXUS,Petrol,Sports Utility Vehicle,
+2019,MAZDA,Petrol,Sports Utility Vehicle,775
+2019,MAZDA,Diesel,Sports Utility Vehicle,
+2019,MAZDA,Others,Sports Utility Vehicle,
+2019,Mclaren,Petrol,Sports Utility Vehicle,
+2019,MERCEDES BENZ,Petrol,Sports Utility Vehicle,1977
+2019,MERCEDES BENZ,Diesel,Sports Utility Vehicle,12
+2019,MERCEDES BENZ,Others,Sports Utility Vehicle,45
+2019,MINI,Petrol,Sports Utility Vehicle,2
+2019,MINI,Diesel,Sports Utility Vehicle,
+2019,MITSUBISHI,Petrol,Sports Utility Vehicle,1546
+2019,MITSUBISHI,Diesel,Sports Utility Vehicle,
+2019,MITSUBISHI,Others,Sports Utility Vehicle,
+2019,MITSUOKA,Petrol,Sports Utility Vehicle,
+2019,MORRIS,Petrol,Sports Utility Vehicle,
+2019,NISSAN,Petrol,Sports Utility Vehicle,409
+2019,NISSAN,Others,Sports Utility Vehicle,
+2019,OPEL,Petrol,Sports Utility Vehicle,202
+2019,OPEL,Diesel,Sports Utility Vehicle,
+2019,PAGANI,Petrol,Sports Utility Vehicle,
+2019,PERODUA,Petrol,Sports Utility Vehicle,
+2019,PEUGEOT,Petrol,Sports Utility Vehicle,118
+2019,PEUGEOT,Diesel,Sports Utility Vehicle,
+2019,PORSCHE,Petrol,Sports Utility Vehicle,413
+2019,PORSCHE,Diesel,Sports Utility Vehicle,
+2019,PORSCHE,Others,Sports Utility Vehicle,10
+2019,RAMBLER,Petrol,Sports Utility Vehicle,
+2019,RANGE ROVER,Petrol,Sports Utility Vehicle,
+2019,RANGE ROVER,Diesel,Sports Utility Vehicle,1
+2019,RENAULT,Petrol,Sports Utility Vehicle,1
+2019,RENAULT,Diesel,Sports Utility Vehicle,
+2019,RENAULT,Others,Sports Utility Vehicle,
+2019,ROLLS ROYCE,Petrol,Sports Utility Vehicle,9
+2019,ROVER,Petrol,Sports Utility Vehicle,
+2019,RUF,Petrol,Sports Utility Vehicle,
+2019,SEAT,Petrol,Sports Utility Vehicle,187
+2019,SEAT,Diesel,Sports Utility Vehicle,
+2019,SKODA,Petrol,Sports Utility Vehicle,368
+2019,SKODA,Diesel,Sports Utility Vehicle,
+2019,SMART,Petrol,Sports Utility Vehicle,
+2019,SMART,Others,Sports Utility Vehicle,
+2019,SSANGYONG,Petrol,Sports Utility Vehicle,31
+2019,SSANGYONG,Diesel,Sports Utility Vehicle,11
+2019,SUBARU,Petrol,Sports Utility Vehicle,1099
+2019,SUBARU,Others,Sports Utility Vehicle,7
+2019,SUZUKI,Petrol,Sports Utility Vehicle,45
+2019,SUZUKI,Others,Sports Utility Vehicle,
+2019,TESLA,Others,Sports Utility Vehicle,
+2019,THE LONDON TAXI CO,Diesel,Sports Utility Vehicle,
+2019,TOYO ACE,Petrol,Sports Utility Vehicle,
+2019,TOYOTA,Petrol,Sports Utility Vehicle,2277
+2019,TOYOTA,Diesel,Sports Utility Vehicle,1
+2019,TOYOTA,Others,Sports Utility Vehicle,420
+2019,TRIUMPH,Petrol,Sports Utility Vehicle,
+2019,VOLKSWAGEN,Petrol,Sports Utility Vehicle,132
+2019,VOLKSWAGEN,Diesel,Sports Utility Vehicle,
+2019,VOLVO,Petrol,Sports Utility Vehicle,594
+2019,VOLVO,Diesel,Sports Utility Vehicle,
+2019,ALFA ROMEO,Petrol,Coupe/ Convertible,4
+2019,ALPINA,Petrol,Coupe/ Convertible,1
+2019,ALPINA,Diesel,Coupe/ Convertible,
+2019,ALPINE,Petrol,Coupe/ Convertible,14
+2019,ASTON MARTIN,Petrol,Coupe/ Convertible,21
+2019,AUDI,Petrol,Coupe/ Convertible,39
+2019,AUDI,Diesel,Coupe/ Convertible,
+2019,AUDI,Others,Coupe/ Convertible,
+2019,AUSTIN,Petrol,Coupe/ Convertible,1
+2019,AUSTIN,Diesel,Coupe/ Convertible,
+2019,B.M.W.,Petrol,Coupe/ Convertible,438
+2019,B.M.W.,Diesel,Coupe/ Convertible,
+2019,B.M.W.,Others,Coupe/ Convertible,3
+2019,BENTLEY,Petrol,Coupe/ Convertible,24
+2019,BENTLEY,Diesel,Coupe/ Convertible,
+2019,BLUECAR,Others,Coupe/ Convertible,
+2019,BYD,Others,Coupe/ Convertible,
+2019,CHERY,Petrol,Coupe/ Convertible,
+2019,CHEVROLET,Petrol,Coupe/ Convertible,
+2019,CHRYSLER,Petrol,Coupe/ Convertible,
+2019,CHRYSLER,Diesel,Coupe/ Convertible,
+2019,CITROEN,Petrol,Coupe/ Convertible,
+2019,CITROEN,Diesel,Coupe/ Convertible,
+2019,CITROEN,Others,Coupe/ Convertible,
+2019,DAIHATSU,Petrol,Coupe/ Convertible,
+2019,DAIMLER,Petrol,Coupe/ Convertible,
+2019,DATSUN,Petrol,Coupe/ Convertible,1
+2019,FERRARI,Petrol,Coupe/ Convertible,43
+2019,FIAT,Petrol,Coupe/ Convertible,1
+2019,FORD,Petrol,Coupe/ Convertible,12
+2019,FORD,Diesel,Coupe/ Convertible,
+2019,FORD,Others,Coupe/ Convertible,
+2019,HONDA,Petrol,Coupe/ Convertible,
+2019,HONDA,Others,Coupe/ Convertible,
+2019,HYUNDAI,Petrol,Coupe/ Convertible,
+2019,HYUNDAI,Diesel,Coupe/ Convertible,
+2019,HYUNDAI,Others,Coupe/ Convertible,
+2019,INFINITI,Petrol,Coupe/ Convertible,19
+2019,INFINITI,Diesel,Coupe/ Convertible,
+2019,INFINITI,Others,Coupe/ Convertible,
+2019,JAGUAR,Petrol,Coupe/ Convertible,5
+2019,JAGUAR,Diesel,Coupe/ Convertible,
+2019,JAGUAR,Others,Coupe/ Convertible,
+2019,JEEP,Petrol,Coupe/ Convertible,
+2019,JEEP,Diesel,Coupe/ Convertible,
+2019,KIA,Petrol,Coupe/ Convertible,
+2019,KIA,Diesel,Coupe/ Convertible,
+2019,KIA,Others,Coupe/ Convertible,
+2019,KOENIGSEGG,Petrol,Coupe/ Convertible,1
+2019,LAMBORGHINI,Petrol,Coupe/ Convertible,12
+2019,LANCIA,Petrol,Coupe/ Convertible,
+2019,LAND ROVER,Petrol,Coupe/ Convertible,
+2019,LAND ROVER,Diesel,Coupe/ Convertible,
+2019,LAND ROVER,Others,Coupe/ Convertible,
+2019,LOTUS,Petrol,Coupe/ Convertible,2
+2019,M.G.,Petrol,Coupe/ Convertible,2
+2019,MARCOS,Petrol,Coupe/ Convertible,
+2019,MASERATI,Petrol,Coupe/ Convertible,5
+2019,MASERATI,Diesel,Coupe/ Convertible,
+2019,MAXUS,Petrol,Coupe/ Convertible,
+2019,MAZDA,Petrol,Coupe/ Convertible,13
+2019,MAZDA,Diesel,Coupe/ Convertible,
+2019,MAZDA,Others,Coupe/ Convertible,
+2019,Mclaren,Petrol,Coupe/ Convertible,21
+2019,MERCEDES BENZ,Petrol,Coupe/ Convertible,1101
+2019,MERCEDES BENZ,Diesel,Coupe/ Convertible,1
+2019,MERCEDES BENZ,Others,Coupe/ Convertible,134
+2019,MINI,Petrol,Coupe/ Convertible,28
+2019,MINI,Diesel,Coupe/ Convertible,
+2019,MITSUBISHI,Petrol,Coupe/ Convertible,
+2019,MITSUBISHI,Diesel,Coupe/ Convertible,
+2019,MITSUBISHI,Others,Coupe/ Convertible,
+2019,MITSUOKA,Petrol,Coupe/ Convertible,
+2019,MORRIS,Petrol,Coupe/ Convertible,
+2019,NISSAN,Petrol,Coupe/ Convertible,1
+2019,NISSAN,Others,Coupe/ Convertible,
+2019,OPEL,Petrol,Coupe/ Convertible,
+2019,OPEL,Diesel,Coupe/ Convertible,
+2019,PAGANI,Petrol,Coupe/ Convertible,
+2019,PERODUA,Petrol,Coupe/ Convertible,
+2019,PEUGEOT,Petrol,Coupe/ Convertible,
+2019,PEUGEOT,Diesel,Coupe/ Convertible,
+2019,PORSCHE,Petrol,Coupe/ Convertible,117
+2019,PORSCHE,Diesel,Coupe/ Convertible,
+2019,PORSCHE,Others,Coupe/ Convertible,
+2019,RAMBLER,Petrol,Coupe/ Convertible,
+2019,RANGE ROVER,Petrol,Coupe/ Convertible,
+2019,RANGE ROVER,Diesel,Coupe/ Convertible,
+2019,RENAULT,Petrol,Coupe/ Convertible,
+2019,RENAULT,Diesel,Coupe/ Convertible,
+2019,RENAULT,Others,Coupe/ Convertible,
+2019,ROLLS ROYCE,Petrol,Coupe/ Convertible,7
+2019,ROVER,Petrol,Coupe/ Convertible,
+2019,RUF,Petrol,Coupe/ Convertible,2
+2019,SEAT,Petrol,Coupe/ Convertible,
+2019,SEAT,Diesel,Coupe/ Convertible,
+2019,SKODA,Petrol,Coupe/ Convertible,
+2019,SKODA,Diesel,Coupe/ Convertible,
+2019,SMART,Petrol,Coupe/ Convertible,1
+2019,SMART,Others,Coupe/ Convertible,
+2019,SSANGYONG,Petrol,Coupe/ Convertible,
+2019,SSANGYONG,Diesel,Coupe/ Convertible,
+2019,SUBARU,Petrol,Coupe/ Convertible,6
+2019,SUBARU,Others,Coupe/ Convertible,
+2019,SUZUKI,Petrol,Coupe/ Convertible,
+2019,SUZUKI,Others,Coupe/ Convertible,
+2019,TESLA,Others,Coupe/ Convertible,
+2019,THE LONDON TAXI CO,Diesel,Coupe/ Convertible,
+2019,TOYO ACE,Petrol,Coupe/ Convertible,
+2019,TOYOTA,Petrol,Coupe/ Convertible,15
+2019,TOYOTA,Diesel,Coupe/ Convertible,
+2019,TOYOTA,Others,Coupe/ Convertible,
+2019,TRIUMPH,Petrol,Coupe/ Convertible,
+2019,VOLKSWAGEN,Petrol,Coupe/ Convertible,79
+2019,VOLKSWAGEN,Diesel,Coupe/ Convertible,
+2019,VOLVO,Petrol,Coupe/ Convertible,
+2019,VOLVO,Diesel,Coupe/ Convertible,
+2020,ALFA ROMEO,Petrol,Hatchback,
+2020,ALPINA,Petrol,Hatchback,
+2020,ALPINA,Diesel,Hatchback,
+2020,ALPINE,Petrol,Hatchback,
+2020,ASTON MARTIN,Petrol,Hatchback,
+2020,AUDI,Petrol,Hatchback,214
+2020,AUDI,Diesel,Hatchback,
+2020,AUDI,Others,Hatchback,188
+2020,AUSTIN,Petrol,Hatchback,1
+2020,AUSTIN,Diesel,Hatchback,
+2020,B.M.W.,Petrol,Hatchback,944
+2020,B.M.W.,Diesel,Hatchback,
+2020,B.M.W.,Others,Hatchback,4
+2020,BENTLEY,Petrol,Hatchback,
+2020,BENTLEY,Diesel,Hatchback,
+2020,BLUECAR,Others,Hatchback,
+2020,BYD,Others,Hatchback,2
+2020,CHERY,Petrol,Hatchback,
+2020,CHEVROLET,Petrol,Hatchback,
+2020,CHRYSLER,Petrol,Hatchback,
+2020,CHRYSLER,Diesel,Hatchback,
+2020,CITROEN,Petrol,Hatchback,
+2020,CITROEN,Diesel,Hatchback,
+2020,CITROEN,Others,Hatchback,
+2020,DAIHATSU,Petrol,Hatchback,
+2020,DAIMLER,Petrol,Hatchback,
+2020,DATSUN,Petrol,Hatchback,
+2020,FERRARI,Petrol,Hatchback,
+2020,FIAT,Petrol,Hatchback,
+2020,FORD,Petrol,Hatchback,
+2020,FORD,Diesel,Hatchback,
+2020,FORD,Others,Hatchback,
+2020,HONDA,Petrol,Hatchback,2208
+2020,HONDA,Others,Hatchback,187
+2020,HYUNDAI,Petrol,Hatchback,92
+2020,HYUNDAI,Diesel,Hatchback,
+2020,HYUNDAI,Others,Hatchback,180
+2020,INFINITI,Petrol,Hatchback,
+2020,INFINITI,Diesel,Hatchback,
+2020,INFINITI,Others,Hatchback,
+2020,INTERNATIONAL,Petrol,Hatchback,
+2020,JAGUAR,Petrol,Hatchback,
+2020,JAGUAR,Diesel,Hatchback,
+2020,JAGUAR,Others,Hatchback,
+2020,JEEP,Petrol,Hatchback,
+2020,JEEP,Diesel,Hatchback,
+2020,KIA,Petrol,Hatchback,52
+2020,KIA,Diesel,Hatchback,
+2020,KIA,Others,Hatchback,
+2020,KOENIGSEGG,Petrol,Hatchback,
+2020,LAMBORGHINI,Petrol,Hatchback,
+2020,LANCIA,Petrol,Hatchback,
+2020,LAND ROVER,Petrol,Hatchback,
+2020,LAND ROVER,Diesel,Hatchback,
+2020,LAND ROVER,Others,Hatchback,
+2020,LOTUS,Petrol,Hatchback,
+2020,M.G.,Petrol,Hatchback,
+2020,M.G.,Others,Hatchback,
+2020,MARCOS,Petrol,Hatchback,
+2020,MASERATI,Petrol,Hatchback,
+2020,MASERATI,Diesel,Hatchback,
+2020,MAXUS,Petrol,Hatchback,
+2020,MAZDA,Petrol,Hatchback,216
+2020,MAZDA,Diesel,Hatchback,
+2020,MAZDA,Others,Hatchback,67
+2020,Mclaren,Petrol,Hatchback,
+2020,MERCEDES BENZ,Petrol,Hatchback,522
+2020,MERCEDES BENZ,Diesel,Hatchback,
+2020,MERCEDES BENZ,Others,Hatchback,
+2020,MINI,Petrol,Hatchback,296
+2020,MINI,Diesel,Hatchback,
+2020,MINI,Others,Hatchback,6
+2020,MITSUBISHI,Petrol,Hatchback,41
+2020,MITSUBISHI,Diesel,Hatchback,
+2020,MITSUBISHI,Others,Hatchback,
+2020,MITSUOKA,Petrol,Hatchback,
+2020,MORRIS,Petrol,Hatchback,
+2020,NISSAN,Petrol,Hatchback,337
+2020,NISSAN,Others,Hatchback,5
+2020,OPEL,Petrol,Hatchback,85
+2020,OPEL,Diesel,Hatchback,5
+2020,PAGANI,Petrol,Hatchback,
+2020,PERODUA,Petrol,Hatchback,20
+2020,PEUGEOT,Petrol,Hatchback,
+2020,PEUGEOT,Diesel,Hatchback,
+2020,PONTIAC,Petrol,Hatchback,
+2020,PORSCHE,Petrol,Hatchback,
+2020,PORSCHE,Diesel,Hatchback,
+2020,PORSCHE,Others,Hatchback,
+2020,RAMBLER,Petrol,Hatchback,
+2020,RANGE ROVER,Petrol,Hatchback,
+2020,RANGE ROVER,Diesel,Hatchback,
+2020,RANGE ROVER,Others,Hatchback,
+2020,RENAULT,Petrol,Hatchback,19
+2020,RENAULT,Diesel,Hatchback,
+2020,RENAULT,Others,Hatchback,3
+2020,ROLLS ROYCE,Petrol,Hatchback,
+2020,ROVER,Petrol,Hatchback,
+2020,RUF,Petrol,Hatchback,
+2020,SEAT,Petrol,Hatchback,44
+2020,SEAT,Diesel,Hatchback,
+2020,SKODA,Petrol,Hatchback,
+2020,SKODA,Diesel,Hatchback,
+2020,SMART,Petrol,Hatchback,
+2020,SMART,Others,Hatchback,
+2020,SSANGYONG,Petrol,Hatchback,
+2020,SSANGYONG,Diesel,Hatchback,
+2020,SUBARU,Petrol,Hatchback,7
+2020,SUBARU,Others,Hatchback,
+2020,SUZUKI,Petrol,Hatchback,238
+2020,SUZUKI,Others,Hatchback,43
+2020,TESLA,Others,Hatchback,1
+2020,THE LONDON TAXI CO,Diesel,Hatchback,
+2020,TOYO ACE,Petrol,Hatchback,
+2020,TOYOTA,Petrol,Hatchback,39
+2020,TOYOTA,Diesel,Hatchback,
+2020,TOYOTA,Others,Hatchback,229
+2020,TRIUMPH,Petrol,Hatchback,
+2020,VOLKSWAGEN,Petrol,Hatchback,503
+2020,VOLKSWAGEN,Diesel,Hatchback,
+2020,VOLVO,Petrol,Hatchback,
+2020,VOLVO,Diesel,Hatchback,
+2020,VOLVO,Others,Hatchback,
+2020,ALFA ROMEO,Petrol,Sedan,23
+2020,ALPINA,Petrol,Sedan,2
+2020,ALPINA,Diesel,Sedan,
+2020,ALPINE,Petrol,Sedan,
+2020,ASTON MARTIN,Petrol,Sedan,
+2020,AUDI,Petrol,Sedan,380
+2020,AUDI,Diesel,Sedan,
+2020,AUDI,Others,Sedan,350
+2020,AUSTIN,Petrol,Sedan,
+2020,AUSTIN,Diesel,Sedan,
+2020,B.M.W.,Petrol,Sedan,1676
+2020,B.M.W.,Diesel,Sedan,4
+2020,B.M.W.,Others,Sedan,124
+2020,BENTLEY,Petrol,Sedan,26
+2020,BENTLEY,Diesel,Sedan,
+2020,BLUECAR,Others,Sedan,
+2020,BYD,Others,Sedan,
+2020,CHERY,Petrol,Sedan,
+2020,CHEVROLET,Petrol,Sedan,
+2020,CHRYSLER,Petrol,Sedan,
+2020,CHRYSLER,Diesel,Sedan,
+2020,CITROEN,Petrol,Sedan,
+2020,CITROEN,Diesel,Sedan,
+2020,CITROEN,Others,Sedan,
+2020,DAIHATSU,Petrol,Sedan,
+2020,DAIMLER,Petrol,Sedan,
+2020,DATSUN,Petrol,Sedan,2
+2020,FERRARI,Petrol,Sedan,
+2020,FIAT,Petrol,Sedan,
+2020,FORD,Petrol,Sedan,
+2020,FORD,Diesel,Sedan,
+2020,FORD,Others,Sedan,
+2020,HONDA,Petrol,Sedan,869
+2020,HONDA,Others,Sedan,19
+2020,HYUNDAI,Petrol,Sedan,1581
+2020,HYUNDAI,Diesel,Sedan,
+2020,HYUNDAI,Others,Sedan,
+2020,INFINITI,Petrol,Sedan,42
+2020,INFINITI,Diesel,Sedan,
+2020,INFINITI,Others,Sedan,
+2020,INTERNATIONAL,Petrol,Sedan,
+2020,JAGUAR,Petrol,Sedan,59
+2020,JAGUAR,Diesel,Sedan,
+2020,JAGUAR,Others,Sedan,
+2020,JEEP,Petrol,Sedan,
+2020,JEEP,Diesel,Sedan,
+2020,KIA,Petrol,Sedan,1124
+2020,KIA,Diesel,Sedan,
+2020,KIA,Others,Sedan,
+2020,KOENIGSEGG,Petrol,Sedan,
+2020,LAMBORGHINI,Petrol,Sedan,
+2020,LANCIA,Petrol,Sedan,
+2020,LAND ROVER,Petrol,Sedan,
+2020,LAND ROVER,Diesel,Sedan,
+2020,LAND ROVER,Others,Sedan,
+2020,LOTUS,Petrol,Sedan,
+2020,M.G.,Petrol,Sedan,
+2020,M.G.,Others,Sedan,
+2020,MARCOS,Petrol,Sedan,
+2020,MASERATI,Petrol,Sedan,33
+2020,MASERATI,Diesel,Sedan,1
+2020,MAXUS,Petrol,Sedan,
+2020,MAZDA,Petrol,Sedan,640
+2020,MAZDA,Diesel,Sedan,2
+2020,MAZDA,Others,Sedan,669
+2020,Mclaren,Petrol,Sedan,
+2020,MERCEDES BENZ,Petrol,Sedan,2552
+2020,MERCEDES BENZ,Diesel,Sedan,12
+2020,MERCEDES BENZ,Others,Sedan,232
+2020,MINI,Petrol,Sedan,
+2020,MINI,Diesel,Sedan,
+2020,MINI,Others,Sedan,
+2020,MITSUBISHI,Petrol,Sedan,555
+2020,MITSUBISHI,Diesel,Sedan,
+2020,MITSUBISHI,Others,Sedan,
+2020,MITSUOKA,Petrol,Sedan,
+2020,MORRIS,Petrol,Sedan,
+2020,NISSAN,Petrol,Sedan,307
+2020,NISSAN,Others,Sedan,
+2020,OPEL,Petrol,Sedan,
+2020,OPEL,Diesel,Sedan,
+2020,PAGANI,Petrol,Sedan,
+2020,PERODUA,Petrol,Sedan,47
+2020,PEUGEOT,Petrol,Sedan,
+2020,PEUGEOT,Diesel,Sedan,
+2020,PONTIAC,Petrol,Sedan,
+2020,PORSCHE,Petrol,Sedan,48
+2020,PORSCHE,Diesel,Sedan,
+2020,PORSCHE,Others,Sedan,4
+2020,RAMBLER,Petrol,Sedan,
+2020,RANGE ROVER,Petrol,Sedan,
+2020,RANGE ROVER,Diesel,Sedan,
+2020,RANGE ROVER,Others,Sedan,
+2020,RENAULT,Petrol,Sedan,
+2020,RENAULT,Diesel,Sedan,
+2020,RENAULT,Others,Sedan,
+2020,ROLLS ROYCE,Petrol,Sedan,22
+2020,ROVER,Petrol,Sedan,
+2020,RUF,Petrol,Sedan,
+2020,SEAT,Petrol,Sedan,43
+2020,SEAT,Diesel,Sedan,
+2020,SKODA,Petrol,Sedan,339
+2020,SKODA,Diesel,Sedan,
+2020,SMART,Petrol,Sedan,
+2020,SMART,Others,Sedan,
+2020,SSANGYONG,Petrol,Sedan,
+2020,SSANGYONG,Diesel,Sedan,
+2020,SUBARU,Petrol,Sedan,29
+2020,SUBARU,Others,Sedan,
+2020,SUZUKI,Petrol,Sedan,
+2020,SUZUKI,Others,Sedan,
+2020,TESLA,Others,Sedan,18
+2020,THE LONDON TAXI CO,Diesel,Sedan,
+2020,TOYO ACE,Petrol,Sedan,
+2020,TOYOTA,Petrol,Sedan,2178
+2020,TOYOTA,Diesel,Sedan,
+2020,TOYOTA,Others,Sedan,674
+2020,TRIUMPH,Petrol,Sedan,
+2020,VOLKSWAGEN,Petrol,Sedan,218
+2020,VOLKSWAGEN,Diesel,Sedan,
+2020,VOLVO,Petrol,Sedan,213
+2020,VOLVO,Diesel,Sedan,
+2020,VOLVO,Others,Sedan,2
+2020,ALFA ROMEO,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,ALPINA,Petrol,Multi-purpose Vehicle/Station-wagon,1
+2020,ALPINA,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,ALPINE,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,ASTON MARTIN,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,AUDI,Petrol,Multi-purpose Vehicle/Station-wagon,6
+2020,AUDI,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,AUDI,Others,Multi-purpose Vehicle/Station-wagon,13
+2020,AUSTIN,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,AUSTIN,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,B.M.W.,Petrol,Multi-purpose Vehicle/Station-wagon,1
+2020,B.M.W.,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,B.M.W.,Others,Multi-purpose Vehicle/Station-wagon,17
+2020,BENTLEY,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,BENTLEY,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,BLUECAR,Others,Multi-purpose Vehicle/Station-wagon,
+2020,BYD,Others,Multi-purpose Vehicle/Station-wagon,1
+2020,CHERY,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,CHEVROLET,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,CHRYSLER,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,CHRYSLER,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,CITROEN,Petrol,Multi-purpose Vehicle/Station-wagon,100
+2020,CITROEN,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,CITROEN,Others,Multi-purpose Vehicle/Station-wagon,
+2020,DAIHATSU,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,DAIMLER,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,DATSUN,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,FERRARI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,FIAT,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,FORD,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,FORD,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,FORD,Others,Multi-purpose Vehicle/Station-wagon,
+2020,HONDA,Petrol,Multi-purpose Vehicle/Station-wagon,1211
+2020,HONDA,Others,Multi-purpose Vehicle/Station-wagon,524
+2020,HYUNDAI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,HYUNDAI,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,HYUNDAI,Others,Multi-purpose Vehicle/Station-wagon,
+2020,INFINITI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,INFINITI,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,INFINITI,Others,Multi-purpose Vehicle/Station-wagon,
+2020,INTERNATIONAL,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,JAGUAR,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,JAGUAR,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,JAGUAR,Others,Multi-purpose Vehicle/Station-wagon,
+2020,JEEP,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,JEEP,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,KIA,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,KIA,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,KIA,Others,Multi-purpose Vehicle/Station-wagon,164
+2020,KOENIGSEGG,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,LAMBORGHINI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,LANCIA,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,LAND ROVER,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,LAND ROVER,Diesel,Multi-purpose Vehicle/Station-wagon,1
+2020,LAND ROVER,Others,Multi-purpose Vehicle/Station-wagon,
+2020,LOTUS,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,M.G.,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,M.G.,Others,Multi-purpose Vehicle/Station-wagon,
+2020,MARCOS,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,MASERATI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,MASERATI,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,MAXUS,Petrol,Multi-purpose Vehicle/Station-wagon,7
+2020,MAZDA,Petrol,Multi-purpose Vehicle/Station-wagon,12
+2020,MAZDA,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,MAZDA,Others,Multi-purpose Vehicle/Station-wagon,
+2020,Mclaren,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,MERCEDES BENZ,Petrol,Multi-purpose Vehicle/Station-wagon,84
+2020,MERCEDES BENZ,Diesel,Multi-purpose Vehicle/Station-wagon,7
+2020,MERCEDES BENZ,Others,Multi-purpose Vehicle/Station-wagon,1
+2020,MINI,Petrol,Multi-purpose Vehicle/Station-wagon,48
+2020,MINI,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,MINI,Others,Multi-purpose Vehicle/Station-wagon,
+2020,MITSUBISHI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,MITSUBISHI,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,MITSUBISHI,Others,Multi-purpose Vehicle/Station-wagon,
+2020,MITSUOKA,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,MORRIS,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,NISSAN,Petrol,Multi-purpose Vehicle/Station-wagon,7
+2020,NISSAN,Others,Multi-purpose Vehicle/Station-wagon,463
+2020,OPEL,Petrol,Multi-purpose Vehicle/Station-wagon,15
+2020,OPEL,Diesel,Multi-purpose Vehicle/Station-wagon,35
+2020,PAGANI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,PERODUA,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,PEUGEOT,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,PEUGEOT,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,PONTIAC,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,PORSCHE,Petrol,Multi-purpose Vehicle/Station-wagon,3
+2020,PORSCHE,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,PORSCHE,Others,Multi-purpose Vehicle/Station-wagon,1
+2020,RAMBLER,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,RANGE ROVER,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,RANGE ROVER,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,RANGE ROVER,Others,Multi-purpose Vehicle/Station-wagon,
+2020,RENAULT,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,RENAULT,Diesel,Multi-purpose Vehicle/Station-wagon,229
+2020,RENAULT,Others,Multi-purpose Vehicle/Station-wagon,
+2020,ROLLS ROYCE,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,ROVER,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,RUF,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,SEAT,Petrol,Multi-purpose Vehicle/Station-wagon,31
+2020,SEAT,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,SKODA,Petrol,Multi-purpose Vehicle/Station-wagon,1
+2020,SKODA,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,SMART,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,SMART,Others,Multi-purpose Vehicle/Station-wagon,
+2020,SSANGYONG,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,SSANGYONG,Diesel,Multi-purpose Vehicle/Station-wagon,32
+2020,SUBARU,Petrol,Multi-purpose Vehicle/Station-wagon,4
+2020,SUBARU,Others,Multi-purpose Vehicle/Station-wagon,
+2020,SUZUKI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,SUZUKI,Others,Multi-purpose Vehicle/Station-wagon,
+2020,TESLA,Others,Multi-purpose Vehicle/Station-wagon,1
+2020,THE LONDON TAXI CO,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,TOYO ACE,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,TOYOTA,Petrol,Multi-purpose Vehicle/Station-wagon,1276
+2020,TOYOTA,Diesel,Multi-purpose Vehicle/Station-wagon,2
+2020,TOYOTA,Others,Multi-purpose Vehicle/Station-wagon,1473
+2020,TRIUMPH,Petrol,Multi-purpose Vehicle/Station-wagon,
+2020,VOLKSWAGEN,Petrol,Multi-purpose Vehicle/Station-wagon,458
+2020,VOLKSWAGEN,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,VOLVO,Petrol,Multi-purpose Vehicle/Station-wagon,43
+2020,VOLVO,Diesel,Multi-purpose Vehicle/Station-wagon,
+2020,VOLVO,Others,Multi-purpose Vehicle/Station-wagon,
+2020,ALFA ROMEO,Petrol,Sports Utility Vehicle,16
+2020,ALPINA,Petrol,Sports Utility Vehicle,
+2020,ALPINA,Diesel,Sports Utility Vehicle,
+2020,ALPINE,Petrol,Sports Utility Vehicle,
+2020,ASTON MARTIN,Petrol,Sports Utility Vehicle,11
+2020,AUDI,Petrol,Sports Utility Vehicle,1028
+2020,AUDI,Diesel,Sports Utility Vehicle,
+2020,AUDI,Others,Sports Utility Vehicle,24
+2020,AUSTIN,Petrol,Sports Utility Vehicle,
+2020,AUSTIN,Diesel,Sports Utility Vehicle,
+2020,B.M.W.,Petrol,Sports Utility Vehicle,1465
+2020,B.M.W.,Diesel,Sports Utility Vehicle,
+2020,B.M.W.,Others,Sports Utility Vehicle,10
+2020,BENTLEY,Petrol,Sports Utility Vehicle,25
+2020,BENTLEY,Diesel,Sports Utility Vehicle,
+2020,BLUECAR,Others,Sports Utility Vehicle,
+2020,BYD,Others,Sports Utility Vehicle,
+2020,CHERY,Petrol,Sports Utility Vehicle,
+2020,CHEVROLET,Petrol,Sports Utility Vehicle,
+2020,CHRYSLER,Petrol,Sports Utility Vehicle,
+2020,CHRYSLER,Diesel,Sports Utility Vehicle,
+2020,CITROEN,Petrol,Sports Utility Vehicle,112
+2020,CITROEN,Diesel,Sports Utility Vehicle,
+2020,CITROEN,Others,Sports Utility Vehicle,
+2020,DAIHATSU,Petrol,Sports Utility Vehicle,
+2020,DAIMLER,Petrol,Sports Utility Vehicle,
+2020,DATSUN,Petrol,Sports Utility Vehicle,
+2020,FERRARI,Petrol,Sports Utility Vehicle,
+2020,FIAT,Petrol,Sports Utility Vehicle,
+2020,FORD,Petrol,Sports Utility Vehicle,
+2020,FORD,Diesel,Sports Utility Vehicle,
+2020,FORD,Others,Sports Utility Vehicle,
+2020,HONDA,Petrol,Sports Utility Vehicle,1160
+2020,HONDA,Others,Sports Utility Vehicle,158
+2020,HYUNDAI,Petrol,Sports Utility Vehicle,350
+2020,HYUNDAI,Diesel,Sports Utility Vehicle,
+2020,HYUNDAI,Others,Sports Utility Vehicle,21
+2020,INFINITI,Petrol,Sports Utility Vehicle,50
+2020,INFINITI,Diesel,Sports Utility Vehicle,
+2020,INFINITI,Others,Sports Utility Vehicle,
+2020,INTERNATIONAL,Petrol,Sports Utility Vehicle,1
+2020,JAGUAR,Petrol,Sports Utility Vehicle,141
+2020,JAGUAR,Diesel,Sports Utility Vehicle,
+2020,JAGUAR,Others,Sports Utility Vehicle,10
+2020,JEEP,Petrol,Sports Utility Vehicle,45
+2020,JEEP,Diesel,Sports Utility Vehicle,1
+2020,KIA,Petrol,Sports Utility Vehicle,530
+2020,KIA,Diesel,Sports Utility Vehicle,97
+2020,KIA,Others,Sports Utility Vehicle,
+2020,KOENIGSEGG,Petrol,Sports Utility Vehicle,
+2020,LAMBORGHINI,Petrol,Sports Utility Vehicle,25
+2020,LANCIA,Petrol,Sports Utility Vehicle,
+2020,LAND ROVER,Petrol,Sports Utility Vehicle,101
+2020,LAND ROVER,Diesel,Sports Utility Vehicle,9
+2020,LAND ROVER,Others,Sports Utility Vehicle,228
+2020,LOTUS,Petrol,Sports Utility Vehicle,
+2020,M.G.,Petrol,Sports Utility Vehicle,311
+2020,M.G.,Others,Sports Utility Vehicle,34
+2020,MARCOS,Petrol,Sports Utility Vehicle,
+2020,MASERATI,Petrol,Sports Utility Vehicle,60
+2020,MASERATI,Diesel,Sports Utility Vehicle,
+2020,MAXUS,Petrol,Sports Utility Vehicle,
+2020,MAZDA,Petrol,Sports Utility Vehicle,795
+2020,MAZDA,Diesel,Sports Utility Vehicle,
+2020,MAZDA,Others,Sports Utility Vehicle,2
+2020,Mclaren,Petrol,Sports Utility Vehicle,
+2020,MERCEDES BENZ,Petrol,Sports Utility Vehicle,1844
+2020,MERCEDES BENZ,Diesel,Sports Utility Vehicle,75
+2020,MERCEDES BENZ,Others,Sports Utility Vehicle,441
+2020,MINI,Petrol,Sports Utility Vehicle,3
+2020,MINI,Diesel,Sports Utility Vehicle,
+2020,MINI,Others,Sports Utility Vehicle,
+2020,MITSUBISHI,Petrol,Sports Utility Vehicle,704
+2020,MITSUBISHI,Diesel,Sports Utility Vehicle,
+2020,MITSUBISHI,Others,Sports Utility Vehicle,
+2020,MITSUOKA,Petrol,Sports Utility Vehicle,
+2020,MORRIS,Petrol,Sports Utility Vehicle,
+2020,NISSAN,Petrol,Sports Utility Vehicle,159
+2020,NISSAN,Others,Sports Utility Vehicle,298
+2020,OPEL,Petrol,Sports Utility Vehicle,131
+2020,OPEL,Diesel,Sports Utility Vehicle,2
+2020,PAGANI,Petrol,Sports Utility Vehicle,
+2020,PERODUA,Petrol,Sports Utility Vehicle,
+2020,PEUGEOT,Petrol,Sports Utility Vehicle,264
+2020,PEUGEOT,Diesel,Sports Utility Vehicle,
+2020,PONTIAC,Petrol,Sports Utility Vehicle,
+2020,PORSCHE,Petrol,Sports Utility Vehicle,358
+2020,PORSCHE,Diesel,Sports Utility Vehicle,
+2020,PORSCHE,Others,Sports Utility Vehicle,2
+2020,RAMBLER,Petrol,Sports Utility Vehicle,
+2020,RANGE ROVER,Petrol,Sports Utility Vehicle,
+2020,RANGE ROVER,Diesel,Sports Utility Vehicle,
+2020,RANGE ROVER,Others,Sports Utility Vehicle,1
+2020,RENAULT,Petrol,Sports Utility Vehicle,12
+2020,RENAULT,Diesel,Sports Utility Vehicle,
+2020,RENAULT,Others,Sports Utility Vehicle,
+2020,ROLLS ROYCE,Petrol,Sports Utility Vehicle,14
+2020,ROVER,Petrol,Sports Utility Vehicle,
+2020,RUF,Petrol,Sports Utility Vehicle,
+2020,SEAT,Petrol,Sports Utility Vehicle,130
+2020,SEAT,Diesel,Sports Utility Vehicle,
+2020,SKODA,Petrol,Sports Utility Vehicle,323
+2020,SKODA,Diesel,Sports Utility Vehicle,
+2020,SMART,Petrol,Sports Utility Vehicle,
+2020,SMART,Others,Sports Utility Vehicle,
+2020,SSANGYONG,Petrol,Sports Utility Vehicle,71
+2020,SSANGYONG,Diesel,Sports Utility Vehicle,129
+2020,SUBARU,Petrol,Sports Utility Vehicle,589
+2020,SUBARU,Others,Sports Utility Vehicle,110
+2020,SUZUKI,Petrol,Sports Utility Vehicle,36
+2020,SUZUKI,Others,Sports Utility Vehicle,
+2020,TESLA,Others,Sports Utility Vehicle,
+2020,THE LONDON TAXI CO,Diesel,Sports Utility Vehicle,
+2020,TOYO ACE,Petrol,Sports Utility Vehicle,
+2020,TOYOTA,Petrol,Sports Utility Vehicle,1568
+2020,TOYOTA,Diesel,Sports Utility Vehicle,1
+2020,TOYOTA,Others,Sports Utility Vehicle,236
+2020,TRIUMPH,Petrol,Sports Utility Vehicle,
+2020,VOLKSWAGEN,Petrol,Sports Utility Vehicle,139
+2020,VOLKSWAGEN,Diesel,Sports Utility Vehicle,
+2020,VOLVO,Petrol,Sports Utility Vehicle,452
+2020,VOLVO,Diesel,Sports Utility Vehicle,
+2020,VOLVO,Others,Sports Utility Vehicle,2
+2020,ALFA ROMEO,Petrol,Coupe/ Convertible,
+2020,ALPINA,Petrol,Coupe/ Convertible,5
+2020,ALPINA,Diesel,Coupe/ Convertible,
+2020,ALPINE,Petrol,Coupe/ Convertible,7
+2020,ASTON MARTIN,Petrol,Coupe/ Convertible,17
+2020,AUDI,Petrol,Coupe/ Convertible,13
+2020,AUDI,Diesel,Coupe/ Convertible,
+2020,AUDI,Others,Coupe/ Convertible,12
+2020,AUSTIN,Petrol,Coupe/ Convertible,
+2020,AUSTIN,Diesel,Coupe/ Convertible,
+2020,B.M.W.,Petrol,Coupe/ Convertible,101
+2020,B.M.W.,Diesel,Coupe/ Convertible,
+2020,B.M.W.,Others,Coupe/ Convertible,3
+2020,BENTLEY,Petrol,Coupe/ Convertible,25
+2020,BENTLEY,Diesel,Coupe/ Convertible,
+2020,BLUECAR,Others,Coupe/ Convertible,
+2020,BYD,Others,Coupe/ Convertible,
+2020,CHERY,Petrol,Coupe/ Convertible,
+2020,CHEVROLET,Petrol,Coupe/ Convertible,1
+2020,CHRYSLER,Petrol,Coupe/ Convertible,
+2020,CHRYSLER,Diesel,Coupe/ Convertible,
+2020,CITROEN,Petrol,Coupe/ Convertible,
+2020,CITROEN,Diesel,Coupe/ Convertible,
+2020,CITROEN,Others,Coupe/ Convertible,
+2020,DAIHATSU,Petrol,Coupe/ Convertible,
+2020,DAIMLER,Petrol,Coupe/ Convertible,1
+2020,DATSUN,Petrol,Coupe/ Convertible,2
+2020,FERRARI,Petrol,Coupe/ Convertible,44
+2020,FIAT,Petrol,Coupe/ Convertible,3
+2020,FORD,Petrol,Coupe/ Convertible,15
+2020,FORD,Diesel,Coupe/ Convertible,
+2020,FORD,Others,Coupe/ Convertible,
+2020,HONDA,Petrol,Coupe/ Convertible,2
+2020,HONDA,Others,Coupe/ Convertible,
+2020,HYUNDAI,Petrol,Coupe/ Convertible,
+2020,HYUNDAI,Diesel,Coupe/ Convertible,
+2020,HYUNDAI,Others,Coupe/ Convertible,
+2020,INFINITI,Petrol,Coupe/ Convertible,9
+2020,INFINITI,Diesel,Coupe/ Convertible,
+2020,INFINITI,Others,Coupe/ Convertible,
+2020,INTERNATIONAL,Petrol,Coupe/ Convertible,
+2020,JAGUAR,Petrol,Coupe/ Convertible,3
+2020,JAGUAR,Diesel,Coupe/ Convertible,
+2020,JAGUAR,Others,Coupe/ Convertible,
+2020,JEEP,Petrol,Coupe/ Convertible,
+2020,JEEP,Diesel,Coupe/ Convertible,
+2020,KIA,Petrol,Coupe/ Convertible,
+2020,KIA,Diesel,Coupe/ Convertible,
+2020,KIA,Others,Coupe/ Convertible,
+2020,KOENIGSEGG,Petrol,Coupe/ Convertible,
+2020,LAMBORGHINI,Petrol,Coupe/ Convertible,17
+2020,LANCIA,Petrol,Coupe/ Convertible,
+2020,LAND ROVER,Petrol,Coupe/ Convertible,
+2020,LAND ROVER,Diesel,Coupe/ Convertible,
+2020,LAND ROVER,Others,Coupe/ Convertible,
+2020,LOTUS,Petrol,Coupe/ Convertible,5
+2020,M.G.,Petrol,Coupe/ Convertible,
+2020,M.G.,Others,Coupe/ Convertible,
+2020,MARCOS,Petrol,Coupe/ Convertible,
+2020,MASERATI,Petrol,Coupe/ Convertible,4
+2020,MASERATI,Diesel,Coupe/ Convertible,
+2020,MAXUS,Petrol,Coupe/ Convertible,
+2020,MAZDA,Petrol,Coupe/ Convertible,8
+2020,MAZDA,Diesel,Coupe/ Convertible,
+2020,MAZDA,Others,Coupe/ Convertible,
+2020,Mclaren,Petrol,Coupe/ Convertible,16
+2020,MERCEDES BENZ,Petrol,Coupe/ Convertible,680
+2020,MERCEDES BENZ,Diesel,Coupe/ Convertible,3
+2020,MERCEDES BENZ,Others,Coupe/ Convertible,108
+2020,MINI,Petrol,Coupe/ Convertible,24
+2020,MINI,Diesel,Coupe/ Convertible,
+2020,MINI,Others,Coupe/ Convertible,
+2020,MITSUBISHI,Petrol,Coupe/ Convertible,
+2020,MITSUBISHI,Diesel,Coupe/ Convertible,
+2020,MITSUBISHI,Others,Coupe/ Convertible,
+2020,MITSUOKA,Petrol,Coupe/ Convertible,2
+2020,MORRIS,Petrol,Coupe/ Convertible,
+2020,NISSAN,Petrol,Coupe/ Convertible,2
+2020,NISSAN,Others,Coupe/ Convertible,
+2020,OPEL,Petrol,Coupe/ Convertible,
+2020,OPEL,Diesel,Coupe/ Convertible,
+2020,PAGANI,Petrol,Coupe/ Convertible,
+2020,PERODUA,Petrol,Coupe/ Convertible,
+2020,PEUGEOT,Petrol,Coupe/ Convertible,
+2020,PEUGEOT,Diesel,Coupe/ Convertible,
+2020,PONTIAC,Petrol,Coupe/ Convertible,1
+2020,PORSCHE,Petrol,Coupe/ Convertible,165
+2020,PORSCHE,Diesel,Coupe/ Convertible,
+2020,PORSCHE,Others,Coupe/ Convertible,
+2020,RAMBLER,Petrol,Coupe/ Convertible,
+2020,RANGE ROVER,Petrol,Coupe/ Convertible,
+2020,RANGE ROVER,Diesel,Coupe/ Convertible,
+2020,RANGE ROVER,Others,Coupe/ Convertible,
+2020,RENAULT,Petrol,Coupe/ Convertible,
+2020,RENAULT,Diesel,Coupe/ Convertible,
+2020,RENAULT,Others,Coupe/ Convertible,
+2020,ROLLS ROYCE,Petrol,Coupe/ Convertible,18
+2020,ROVER,Petrol,Coupe/ Convertible,
+2020,RUF,Petrol,Coupe/ Convertible,
+2020,SEAT,Petrol,Coupe/ Convertible,
+2020,SEAT,Diesel,Coupe/ Convertible,
+2020,SKODA,Petrol,Coupe/ Convertible,
+2020,SKODA,Diesel,Coupe/ Convertible,
+2020,SMART,Petrol,Coupe/ Convertible,
+2020,SMART,Others,Coupe/ Convertible,
+2020,SSANGYONG,Petrol,Coupe/ Convertible,
+2020,SSANGYONG,Diesel,Coupe/ Convertible,
+2020,SUBARU,Petrol,Coupe/ Convertible,1
+2020,SUBARU,Others,Coupe/ Convertible,
+2020,SUZUKI,Petrol,Coupe/ Convertible,
+2020,SUZUKI,Others,Coupe/ Convertible,
+2020,TESLA,Others,Coupe/ Convertible,
+2020,THE LONDON TAXI CO,Diesel,Coupe/ Convertible,
+2020,TOYO ACE,Petrol,Coupe/ Convertible,
+2020,TOYOTA,Petrol,Coupe/ Convertible,28
+2020,TOYOTA,Diesel,Coupe/ Convertible,
+2020,TOYOTA,Others,Coupe/ Convertible,
+2020,TRIUMPH,Petrol,Coupe/ Convertible,1
+2020,VOLKSWAGEN,Petrol,Coupe/ Convertible,16
+2020,VOLKSWAGEN,Diesel,Coupe/ Convertible,
+2020,VOLVO,Petrol,Coupe/ Convertible,
+2020,VOLVO,Diesel,Coupe/ Convertible,
+2020,VOLVO,Others,Coupe/ Convertible,
+2021,ALFA ROMEO,Petrol,Hatchback,
+2021,ALPINA,Diesel,Hatchback,
+2021,ALPINE,Petrol,Hatchback,
+2021,ASTON MARTIN,Petrol,Hatchback,
+2021,AUDI,Petrol,Hatchback,34
+2021,AUDI,Others,Hatchback,339
+2021,AUSTIN,Petrol,Hatchback,1
+2021,B.M.W.,Petrol,Hatchback,1438
+2021,B.M.W.,Diesel,Hatchback,
+2021,B.M.W.,Others,Hatchback,9
+2021,BENTLEY,Petrol,Hatchback,
+2021,BLUECAR,Others,Hatchback,30
+2021,BYD,Others,Hatchback,25
+2021,CITROEN,Petrol,Hatchback,
+2021,DAIHATSU,Petrol,Hatchback,
+2021,DATSUN,Petrol,Hatchback,
+2021,FERRARI,Petrol,Hatchback,
+2021,FERRARI,Others,Hatchback,
+2021,FIAT,Petrol,Hatchback,3
+2021,FORD,Petrol,Hatchback,1
+2021,HONDA,Petrol,Hatchback,820
+2021,HONDA,Others,Hatchback,212
+2021,HYUNDAI,Petrol,Hatchback,34
+2021,HYUNDAI,Others,Hatchback,124
+2021,INFINITI,Petrol,Hatchback,
+2021,JAGUAR,Petrol,Hatchback,
+2021,JAGUAR,Diesel,Hatchback,
+2021,JAGUAR,Others,Hatchback,
+2021,JEEP,Petrol,Hatchback,
+2021,JEEP,Others,Hatchback,
+2021,KIA,Petrol,Hatchback,11
+2021,KIA,Diesel,Hatchback,
+2021,KIA,Others,Hatchback,
+2021,LAMBORGHINI,Petrol,Hatchback,
+2021,LAND ROVER,Petrol,Hatchback,
+2021,LAND ROVER,Diesel,Hatchback,
+2021,LAND ROVER,Others,Hatchback,
+2021,LOTUS,Petrol,Hatchback,
+2021,M.G.,Petrol,Hatchback,
+2021,M.G.,Others,Hatchback,
+2021,MASERATI,Petrol,Hatchback,
+2021,MASERATI,Diesel,Hatchback,
+2021,MASERATI,Others,Hatchback,
+2021,MAXUS,Petrol,Hatchback,
+2021,MAZDA,Petrol,Hatchback,131
+2021,MAZDA,Diesel,Hatchback,
+2021,MAZDA,Others,Hatchback,131
+2021,Mclaren,Petrol,Hatchback,
+2021,MERCEDES BENZ,Petrol,Hatchback,405
+2021,MERCEDES BENZ,Diesel,Hatchback,
+2021,MERCEDES BENZ,Others,Hatchback,
+2021,MINI,Petrol,Hatchback,386
+2021,MINI,Others,Hatchback,39
+2021,MITSUBISHI,Petrol,Hatchback,43
+2021,MITSUOKA,Petrol,Hatchback,
+2021,MORGAN,Petrol,Hatchback,
+2021,NISSAN,Petrol,Hatchback,28
+2021,NISSAN,Others,Hatchback,254
+2021,OPEL,Petrol,Hatchback,94
+2021,OPEL,Diesel,Hatchback,1
+2021,PERODUA,Petrol,Hatchback,7
+2021,PEUGEOT,Petrol,Hatchback,16
+2021,POLESTAR,Others,Hatchback,
+2021,PORSCHE,Petrol,Hatchback,1
+2021,PORSCHE,Others,Hatchback,
+2021,RENAULT,Petrol,Hatchback,2
+2021,RENAULT,Diesel,Hatchback,
+2021,RENAULT,Others,Hatchback,2
+2021,ROLLS ROYCE,Petrol,Hatchback,
+2021,SEAT,Petrol,Hatchback,30
+2021,SEAT,Others,Hatchback,10
+2021,SKODA,Petrol,Hatchback,71
+2021,SKODA,Others,Hatchback,
+2021,SSANGYONG,Petrol,Hatchback,
+2021,SSANGYONG,Diesel,Hatchback,
+2021,SUBARU,Petrol,Hatchback,5
+2021,SUBARU,Others,Hatchback,
+2021,SUZUKI,Petrol,Hatchback,87
+2021,SUZUKI,Others,Hatchback,224
+2021,TESLA,Others,Hatchback,2
+2021,TOYOTA,Petrol,Hatchback,31
+2021,TOYOTA,Diesel,Hatchback,
+2021,TOYOTA,Others,Hatchback,507
+2021,VOLKSWAGEN,Petrol,Hatchback,129
+2021,VOLKSWAGEN,Others,Hatchback,102
+2021,VOLVO,Petrol,Hatchback,
+2021,VOLVO,Others,Hatchback,
+2021,ALFA ROMEO,Petrol,Sedan,24
+2021,ALPINA,Diesel,Sedan,
+2021,ALPINE,Petrol,Sedan,
+2021,ASTON MARTIN,Petrol,Sedan,
+2021,AUDI,Petrol,Sedan,89
+2021,AUDI,Others,Sedan,495
+2021,AUSTIN,Petrol,Sedan,
+2021,B.M.W.,Petrol,Sedan,1192
+2021,B.M.W.,Diesel,Sedan,2
+2021,B.M.W.,Others,Sedan,644
+2021,BENTLEY,Petrol,Sedan,37
+2021,BLUECAR,Others,Sedan,
+2021,BYD,Others,Sedan,
+2021,CITROEN,Petrol,Sedan,1
+2021,DAIHATSU,Petrol,Sedan,
+2021,DATSUN,Petrol,Sedan,1
+2021,FERRARI,Petrol,Sedan,
+2021,FERRARI,Others,Sedan,
+2021,FIAT,Petrol,Sedan,2
+2021,FORD,Petrol,Sedan,
+2021,HONDA,Petrol,Sedan,526
+2021,HONDA,Others,Sedan,5
+2021,HYUNDAI,Petrol,Sedan,2153
+2021,HYUNDAI,Others,Sedan,
+2021,INFINITI,Petrol,Sedan,3
+2021,JAGUAR,Petrol,Sedan,43
+2021,JAGUAR,Diesel,Sedan,1
+2021,JAGUAR,Others,Sedan,
+2021,JEEP,Petrol,Sedan,
+2021,JEEP,Others,Sedan,
+2021,KIA,Petrol,Sedan,657
+2021,KIA,Diesel,Sedan,
+2021,KIA,Others,Sedan,
+2021,LAMBORGHINI,Petrol,Sedan,
+2021,LAND ROVER,Petrol,Sedan,
+2021,LAND ROVER,Diesel,Sedan,
+2021,LAND ROVER,Others,Sedan,
+2021,LOTUS,Petrol,Sedan,
+2021,M.G.,Petrol,Sedan,
+2021,M.G.,Others,Sedan,
+2021,MASERATI,Petrol,Sedan,31
+2021,MASERATI,Diesel,Sedan,1
+2021,MASERATI,Others,Sedan,12
+2021,MAXUS,Petrol,Sedan,
+2021,MAZDA,Petrol,Sedan,288
+2021,MAZDA,Diesel,Sedan,14
+2021,MAZDA,Others,Sedan,1095
+2021,Mclaren,Petrol,Sedan,
+2021,MERCEDES BENZ,Petrol,Sedan,1577
+2021,MERCEDES BENZ,Diesel,Sedan,36
+2021,MERCEDES BENZ,Others,Sedan,640
+2021,MINI,Petrol,Sedan,
+2021,MINI,Others,Sedan,
+2021,MITSUBISHI,Petrol,Sedan,334
+2021,MITSUOKA,Petrol,Sedan,2
+2021,MORGAN,Petrol,Sedan,
+2021,NISSAN,Petrol,Sedan,214
+2021,NISSAN,Others,Sedan,1
+2021,OPEL,Petrol,Sedan,
+2021,OPEL,Diesel,Sedan,
+2021,PERODUA,Petrol,Sedan,11
+2021,PEUGEOT,Petrol,Sedan,1
+2021,POLESTAR,Others,Sedan,10
+2021,PORSCHE,Petrol,Sedan,45
+2021,PORSCHE,Others,Sedan,110
+2021,RENAULT,Petrol,Sedan,
+2021,RENAULT,Diesel,Sedan,
+2021,RENAULT,Others,Sedan,
+2021,ROLLS ROYCE,Petrol,Sedan,43
+2021,SEAT,Petrol,Sedan,30
+2021,SEAT,Others,Sedan,
+2021,SKODA,Petrol,Sedan,94
+2021,SKODA,Others,Sedan,82
+2021,SSANGYONG,Petrol,Sedan,
+2021,SSANGYONG,Diesel,Sedan,
+2021,SUBARU,Petrol,Sedan,6
+2021,SUBARU,Others,Sedan,
+2021,SUZUKI,Petrol,Sedan,
+2021,SUZUKI,Others,Sedan,
+2021,TESLA,Others,Sedan,920
+2021,TOYOTA,Petrol,Sedan,1873
+2021,TOYOTA,Diesel,Sedan,
+2021,TOYOTA,Others,Sedan,1427
+2021,VOLKSWAGEN,Petrol,Sedan,108
+2021,VOLKSWAGEN,Others,Sedan,
+2021,VOLVO,Petrol,Sedan,57
+2021,VOLVO,Others,Sedan,35
+2021,ALFA ROMEO,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,ALPINA,Diesel,Multi-purpose Vehicle/Station-wagon,
+2021,ALPINE,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,ASTON MARTIN,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,AUDI,Petrol,Multi-purpose Vehicle/Station-wagon,5
+2021,AUDI,Others,Multi-purpose Vehicle/Station-wagon,17
+2021,AUSTIN,Petrol,Multi-purpose Vehicle/Station-wagon,1
+2021,B.M.W.,Petrol,Multi-purpose Vehicle/Station-wagon,36
+2021,B.M.W.,Diesel,Multi-purpose Vehicle/Station-wagon,
+2021,B.M.W.,Others,Multi-purpose Vehicle/Station-wagon,
+2021,BENTLEY,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,BLUECAR,Others,Multi-purpose Vehicle/Station-wagon,
+2021,BYD,Others,Multi-purpose Vehicle/Station-wagon,64
+2021,CITROEN,Petrol,Multi-purpose Vehicle/Station-wagon,145
+2021,DAIHATSU,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,DATSUN,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,FERRARI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,FERRARI,Others,Multi-purpose Vehicle/Station-wagon,
+2021,FIAT,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,FORD,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,HONDA,Petrol,Multi-purpose Vehicle/Station-wagon,1315
+2021,HONDA,Others,Multi-purpose Vehicle/Station-wagon,507
+2021,HYUNDAI,Petrol,Multi-purpose Vehicle/Station-wagon,22
+2021,HYUNDAI,Others,Multi-purpose Vehicle/Station-wagon,
+2021,INFINITI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,JAGUAR,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,JAGUAR,Diesel,Multi-purpose Vehicle/Station-wagon,
+2021,JAGUAR,Others,Multi-purpose Vehicle/Station-wagon,
+2021,JEEP,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,JEEP,Others,Multi-purpose Vehicle/Station-wagon,
+2021,KIA,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,KIA,Diesel,Multi-purpose Vehicle/Station-wagon,54
+2021,KIA,Others,Multi-purpose Vehicle/Station-wagon,282
+2021,LAMBORGHINI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,LAND ROVER,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,LAND ROVER,Diesel,Multi-purpose Vehicle/Station-wagon,1
+2021,LAND ROVER,Others,Multi-purpose Vehicle/Station-wagon,
+2021,LOTUS,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,M.G.,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,M.G.,Others,Multi-purpose Vehicle/Station-wagon,12
+2021,MASERATI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,MASERATI,Diesel,Multi-purpose Vehicle/Station-wagon,
+2021,MASERATI,Others,Multi-purpose Vehicle/Station-wagon,
+2021,MAXUS,Petrol,Multi-purpose Vehicle/Station-wagon,17
+2021,MAZDA,Petrol,Multi-purpose Vehicle/Station-wagon,5
+2021,MAZDA,Diesel,Multi-purpose Vehicle/Station-wagon,
+2021,MAZDA,Others,Multi-purpose Vehicle/Station-wagon,
+2021,Mclaren,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,MERCEDES BENZ,Petrol,Multi-purpose Vehicle/Station-wagon,39
+2021,MERCEDES BENZ,Diesel,Multi-purpose Vehicle/Station-wagon,10
+2021,MERCEDES BENZ,Others,Multi-purpose Vehicle/Station-wagon,7
+2021,MINI,Petrol,Multi-purpose Vehicle/Station-wagon,8
+2021,MINI,Others,Multi-purpose Vehicle/Station-wagon,
+2021,MITSUBISHI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,MITSUOKA,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,MORGAN,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,NISSAN,Petrol,Multi-purpose Vehicle/Station-wagon,9
+2021,NISSAN,Others,Multi-purpose Vehicle/Station-wagon,486
+2021,OPEL,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,OPEL,Diesel,Multi-purpose Vehicle/Station-wagon,21
+2021,PERODUA,Petrol,Multi-purpose Vehicle/Station-wagon,10
+2021,PEUGEOT,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,POLESTAR,Others,Multi-purpose Vehicle/Station-wagon,
+2021,PORSCHE,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,PORSCHE,Others,Multi-purpose Vehicle/Station-wagon,1
+2021,RENAULT,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,RENAULT,Diesel,Multi-purpose Vehicle/Station-wagon,81
+2021,RENAULT,Others,Multi-purpose Vehicle/Station-wagon,
+2021,ROLLS ROYCE,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,SEAT,Petrol,Multi-purpose Vehicle/Station-wagon,14
+2021,SEAT,Others,Multi-purpose Vehicle/Station-wagon,1
+2021,SKODA,Petrol,Multi-purpose Vehicle/Station-wagon,1
+2021,SKODA,Others,Multi-purpose Vehicle/Station-wagon,11
+2021,SSANGYONG,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,SSANGYONG,Diesel,Multi-purpose Vehicle/Station-wagon,8
+2021,SUBARU,Petrol,Multi-purpose Vehicle/Station-wagon,11
+2021,SUBARU,Others,Multi-purpose Vehicle/Station-wagon,
+2021,SUZUKI,Petrol,Multi-purpose Vehicle/Station-wagon,
+2021,SUZUKI,Others,Multi-purpose Vehicle/Station-wagon,
+2021,TESLA,Others,Multi-purpose Vehicle/Station-wagon,2
+2021,TOYOTA,Petrol,Multi-purpose Vehicle/Station-wagon,864
+2021,TOYOTA,Diesel,Multi-purpose Vehicle/Station-wagon,3
+2021,TOYOTA,Others,Multi-purpose Vehicle/Station-wagon,2041
+2021,VOLKSWAGEN,Petrol,Multi-purpose Vehicle/Station-wagon,206
+2021,VOLKSWAGEN,Others,Multi-purpose Vehicle/Station-wagon,
+2021,VOLVO,Petrol,Multi-purpose Vehicle/Station-wagon,16
+2021,VOLVO,Others,Multi-purpose Vehicle/Station-wagon,15
+2021,ALFA ROMEO,Petrol,Sports Utility Vehicle,9
+2021,ALPINA,Diesel,Sports Utility Vehicle,
+2021,ALPINE,Petrol,Sports Utility Vehicle,
+2021,ASTON MARTIN,Petrol,Sports Utility Vehicle,14
+2021,AUDI,Petrol,Sports Utility Vehicle,767
+2021,AUDI,Others,Sports Utility Vehicle,194
+2021,AUSTIN,Petrol,Sports Utility Vehicle,
+2021,B.M.W.,Petrol,Sports Utility Vehicle,1425
+2021,B.M.W.,Diesel,Sports Utility Vehicle,
+2021,B.M.W.,Others,Sports Utility Vehicle,246
+2021,BENTLEY,Petrol,Sports Utility Vehicle,33
+2021,BLUECAR,Others,Sports Utility Vehicle,
+2021,BYD,Others,Sports Utility Vehicle,
+2021,CITROEN,Petrol,Sports Utility Vehicle,94
+2021,DAIHATSU,Petrol,Sports Utility Vehicle,
+2021,DATSUN,Petrol,Sports Utility Vehicle,
+2021,FERRARI,Petrol,Sports Utility Vehicle,
+2021,FERRARI,Others,Sports Utility Vehicle,
+2021,FIAT,Petrol,Sports Utility Vehicle,
+2021,FORD,Petrol,Sports Utility Vehicle,
+2021,HONDA,Petrol,Sports Utility Vehicle,1248
+2021,HONDA,Others,Sports Utility Vehicle,178
+2021,HYUNDAI,Petrol,Sports Utility Vehicle,280
+2021,HYUNDAI,Others,Sports Utility Vehicle,248
+2021,INFINITI,Petrol,Sports Utility Vehicle,10
+2021,JAGUAR,Petrol,Sports Utility Vehicle,88
+2021,JAGUAR,Diesel,Sports Utility Vehicle,
+2021,JAGUAR,Others,Sports Utility Vehicle,81
+2021,JEEP,Petrol,Sports Utility Vehicle,58
+2021,JEEP,Others,Sports Utility Vehicle,1
+2021,KIA,Petrol,Sports Utility Vehicle,182
+2021,KIA,Diesel,Sports Utility Vehicle,103
+2021,KIA,Others,Sports Utility Vehicle,146
+2021,LAMBORGHINI,Petrol,Sports Utility Vehicle,29
+2021,LAND ROVER,Petrol,Sports Utility Vehicle,86
+2021,LAND ROVER,Diesel,Sports Utility Vehicle,9
+2021,LAND ROVER,Others,Sports Utility Vehicle,189
+2021,LOTUS,Petrol,Sports Utility Vehicle,
+2021,M.G.,Petrol,Sports Utility Vehicle,392
+2021,M.G.,Others,Sports Utility Vehicle,117
+2021,MASERATI,Petrol,Sports Utility Vehicle,53
+2021,MASERATI,Diesel,Sports Utility Vehicle,
+2021,MASERATI,Others,Sports Utility Vehicle,
+2021,MAXUS,Petrol,Sports Utility Vehicle,
+2021,MAZDA,Petrol,Sports Utility Vehicle,695
+2021,MAZDA,Diesel,Sports Utility Vehicle,
+2021,MAZDA,Others,Sports Utility Vehicle,2
+2021,Mclaren,Petrol,Sports Utility Vehicle,
+2021,MERCEDES BENZ,Petrol,Sports Utility Vehicle,2557
+2021,MERCEDES BENZ,Diesel,Sports Utility Vehicle,52
+2021,MERCEDES BENZ,Others,Sports Utility Vehicle,335
+2021,MINI,Petrol,Sports Utility Vehicle,
+2021,MINI,Others,Sports Utility Vehicle,
+2021,MITSUBISHI,Petrol,Sports Utility Vehicle,527
+2021,MITSUOKA,Petrol,Sports Utility Vehicle,
+2021,MORGAN,Petrol,Sports Utility Vehicle,
+2021,NISSAN,Petrol,Sports Utility Vehicle,44
+2021,NISSAN,Others,Sports Utility Vehicle,778
+2021,OPEL,Petrol,Sports Utility Vehicle,227
+2021,OPEL,Diesel,Sports Utility Vehicle,30
+2021,PERODUA,Petrol,Sports Utility Vehicle,
+2021,PEUGEOT,Petrol,Sports Utility Vehicle,351
+2021,POLESTAR,Others,Sports Utility Vehicle,
+2021,PORSCHE,Petrol,Sports Utility Vehicle,324
+2021,PORSCHE,Others,Sports Utility Vehicle,1
+2021,RENAULT,Petrol,Sports Utility Vehicle,49
+2021,RENAULT,Diesel,Sports Utility Vehicle,
+2021,RENAULT,Others,Sports Utility Vehicle,2
+2021,ROLLS ROYCE,Petrol,Sports Utility Vehicle,24
+2021,SEAT,Petrol,Sports Utility Vehicle,120
+2021,SEAT,Others,Sports Utility Vehicle,
+2021,SKODA,Petrol,Sports Utility Vehicle,211
+2021,SKODA,Others,Sports Utility Vehicle,
+2021,SSANGYONG,Petrol,Sports Utility Vehicle,25
+2021,SSANGYONG,Diesel,Sports Utility Vehicle,102
+2021,SUBARU,Petrol,Sports Utility Vehicle,313
+2021,SUBARU,Others,Sports Utility Vehicle,11
+2021,SUZUKI,Petrol,Sports Utility Vehicle,67
+2021,SUZUKI,Others,Sports Utility Vehicle,
+2021,TESLA,Others,Sports Utility Vehicle,
+2021,TOYOTA,Petrol,Sports Utility Vehicle,1272
+2021,TOYOTA,Diesel,Sports Utility Vehicle,6
+2021,TOYOTA,Others,Sports Utility Vehicle,1582
+2021,VOLKSWAGEN,Petrol,Sports Utility Vehicle,365
+2021,VOLKSWAGEN,Others,Sports Utility Vehicle,2
+2021,VOLVO,Petrol,Sports Utility Vehicle,301
+2021,VOLVO,Others,Sports Utility Vehicle,84
+2021,ALFA ROMEO,Petrol,Coupe/ Convertible,4
+2021,ALPINA,Diesel,Coupe/ Convertible,2
+2021,ALPINE,Petrol,Coupe/ Convertible,11
+2021,ASTON MARTIN,Petrol,Coupe/ Convertible,13
+2021,AUDI,Petrol,Coupe/ Convertible,24
+2021,AUDI,Others,Coupe/ Convertible,11
+2021,AUSTIN,Petrol,Coupe/ Convertible,
+2021,B.M.W.,Petrol,Coupe/ Convertible,262
+2021,B.M.W.,Diesel,Coupe/ Convertible,
+2021,B.M.W.,Others,Coupe/ Convertible,1
+2021,BENTLEY,Petrol,Coupe/ Convertible,33
+2021,BLUECAR,Others,Coupe/ Convertible,
+2021,BYD,Others,Coupe/ Convertible,
+2021,CITROEN,Petrol,Coupe/ Convertible,
+2021,DAIHATSU,Petrol,Coupe/ Convertible,1
+2021,DATSUN,Petrol,Coupe/ Convertible,2
+2021,FERRARI,Petrol,Coupe/ Convertible,56
+2021,FERRARI,Others,Coupe/ Convertible,9
+2021,FIAT,Petrol,Coupe/ Convertible,
+2021,FORD,Petrol,Coupe/ Convertible,4
+2021,HONDA,Petrol,Coupe/ Convertible,1
+2021,HONDA,Others,Coupe/ Convertible,3
+2021,HYUNDAI,Petrol,Coupe/ Convertible,
+2021,HYUNDAI,Others,Coupe/ Convertible,
+2021,INFINITI,Petrol,Coupe/ Convertible,2
+2021,JAGUAR,Petrol,Coupe/ Convertible,6
+2021,JAGUAR,Diesel,Coupe/ Convertible,
+2021,JAGUAR,Others,Coupe/ Convertible,
+2021,JEEP,Petrol,Coupe/ Convertible,
+2021,JEEP,Others,Coupe/ Convertible,
+2021,KIA,Petrol,Coupe/ Convertible,
+2021,KIA,Diesel,Coupe/ Convertible,
+2021,KIA,Others,Coupe/ Convertible,
+2021,LAMBORGHINI,Petrol,Coupe/ Convertible,18
+2021,LAND ROVER,Petrol,Coupe/ Convertible,
+2021,LAND ROVER,Diesel,Coupe/ Convertible,
+2021,LAND ROVER,Others,Coupe/ Convertible,
+2021,LOTUS,Petrol,Coupe/ Convertible,6
+2021,M.G.,Petrol,Coupe/ Convertible,3
+2021,M.G.,Others,Coupe/ Convertible,
+2021,MASERATI,Petrol,Coupe/ Convertible,
+2021,MASERATI,Diesel,Coupe/ Convertible,
+2021,MASERATI,Others,Coupe/ Convertible,
+2021,MAXUS,Petrol,Coupe/ Convertible,
+2021,MAZDA,Petrol,Coupe/ Convertible,5
+2021,MAZDA,Diesel,Coupe/ Convertible,
+2021,MAZDA,Others,Coupe/ Convertible,
+2021,Mclaren,Petrol,Coupe/ Convertible,28
+2021,MERCEDES BENZ,Petrol,Coupe/ Convertible,638
+2021,MERCEDES BENZ,Diesel,Coupe/ Convertible,4
+2021,MERCEDES BENZ,Others,Coupe/ Convertible,121
+2021,MINI,Petrol,Coupe/ Convertible,27
+2021,MINI,Others,Coupe/ Convertible,
+2021,MITSUBISHI,Petrol,Coupe/ Convertible,1
+2021,MITSUOKA,Petrol,Coupe/ Convertible,4
+2021,MORGAN,Petrol,Coupe/ Convertible,4
+2021,NISSAN,Petrol,Coupe/ Convertible,7
+2021,NISSAN,Others,Coupe/ Convertible,
+2021,OPEL,Petrol,Coupe/ Convertible,
+2021,OPEL,Diesel,Coupe/ Convertible,
+2021,PERODUA,Petrol,Coupe/ Convertible,
+2021,PEUGEOT,Petrol,Coupe/ Convertible,
+2021,POLESTAR,Others,Coupe/ Convertible,
+2021,PORSCHE,Petrol,Coupe/ Convertible,179
+2021,PORSCHE,Others,Coupe/ Convertible,19
+2021,RENAULT,Petrol,Coupe/ Convertible,
+2021,RENAULT,Diesel,Coupe/ Convertible,
+2021,RENAULT,Others,Coupe/ Convertible,
+2021,ROLLS ROYCE,Petrol,Coupe/ Convertible,23
+2021,SEAT,Petrol,Coupe/ Convertible,
+2021,SEAT,Others,Coupe/ Convertible,
+2021,SKODA,Petrol,Coupe/ Convertible,
+2021,SKODA,Others,Coupe/ Convertible,
+2021,SSANGYONG,Petrol,Coupe/ Convertible,
+2021,SSANGYONG,Diesel,Coupe/ Convertible,
+2021,SUBARU,Petrol,Coupe/ Convertible,
+2021,SUBARU,Others,Coupe/ Convertible,
+2021,SUZUKI,Petrol,Coupe/ Convertible,
+2021,SUZUKI,Others,Coupe/ Convertible,
+2021,TESLA,Others,Coupe/ Convertible,
+2021,TOYOTA,Petrol,Coupe/ Convertible,27
+2021,TOYOTA,Diesel,Coupe/ Convertible,
+2021,TOYOTA,Others,Coupe/ Convertible,
+2021,VOLKSWAGEN,Petrol,Coupe/ Convertible,2
+2021,VOLKSWAGEN,Others,Coupe/ Convertible,1
+2021,VOLVO,Petrol,Coupe/ Convertible,2
+2021,VOLVO,Others,Coupe/ Convertible,

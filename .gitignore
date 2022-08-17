@@ -91,6 +91,9 @@
 !/**/img/**/*.png
 !/**/img/**/*.jpeg
 
+# Include session 3 data files
+!/1-foundations/3-numpy-and-pandas/data/*
+
 #######################
 # Include all the files with passwords or tokens here. All files named
 # password or passwords are with this template ignored no matter which
