@@ -82,6 +82,12 @@ class: middle
 ] 
 
 ---
+class: center, middle
+
+# Questions? 
+
+
+---
 class: inverse, center, middle
 
 # Why programming? 
@@ -224,6 +230,10 @@ class: middle, center
   the project's final report, data visualizations, etc.
 ]
 
+---
+class: center, middle
+
+# Questions? 
 
 ---
 class: inverse, center, middle
@@ -259,6 +269,11 @@ Why are there so many programming languages? How does Python compare to other la
     ```
   ]
 ] 
+
+---
+class: center, middle
+
+# Questions? 
 
 ---
 class: inverse, center, middle
@@ -356,9 +371,10 @@ be able to follow the code?_"
 * Peer-review
 * Document
 
-Settling for "_just_" correct code does not 
-save you or your team any time in the long run.
+  Settling for "_just_" correct code does not 
+  save you or your team any time in the long run.
 
+]
 
 ---
 
@@ -469,12 +485,18 @@ class: middle,
 ]
 
 ---
+class: center, middle
+
+# Questions? 
+
+---
 class: inverse, center, middle
 
 # Some common concepts in programming 
   
 ---
 class: middle
+
 
 .pull-left[
 
@@ -689,7 +711,7 @@ See [DIME Analytic's book](http://hdl.handle.net/10986/35594) for more details.
 
 class: center, middle
 
-# Thanks!
+# Thank you!
 
 # Questions?
 
