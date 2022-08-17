@@ -59,12 +59,14 @@ class: middle
 class: middle
 
 ## What we assume about you:
+
 .pull-left[
   
   Python can be used for countless of topics in computer science. 
-  However, the scope of this training is limited to:
+  However, the scope of this training based on:
   
-  1. How to use Python for data work. Numbers, text data, geo-data etc.
+  1. Participants want to use Python for data work. 
+  Numeric data, text data, geo-data etc.
   
   1. Participants have some experience working with data. 
   For example, extensive work in Excel or some work in Stata or R.
@@ -161,7 +163,7 @@ class: middle
 ---
 class: middle
 
-## Data work in programming
+## All aspect of data work can be made exact with code
 
 .pull-left[
 
@@ -169,23 +171,25 @@ If code is a recipe,
 then the ingredients of data work is 
 the project's original data.
 
-While organic ingredients in food is slightly different each time, 
+While organic ingredients in food can be slightly different each time, 
 code inputs can and should be as exact as the code.
-
-__Primary data__: Proper back-up of raw data
-
-__Secondary shared data__: Cite source, back-up data 
-
-__Secondary published data__: Cite source
 
 Derivatives of original data 
 (new data products and analysis outputs) 
-should be created from original data and code only.
+should be created from code and original data only.
 
 ]
 
 .pull-right[
 
+How to make original data very exact depends on the type of source of data:
+
+* __Primary data__: Proper back-up of raw data
+
+* __Secondary shared data__: Cite source _and_ 
+proper back-up of data exactly as it was received 
+
+* __Secondary published data__: Cite source
 ]
 
 
@@ -363,14 +367,14 @@ class: middle
   
   How to make correct code into good code?
   
-Ask yourself 
-"_Would someone with your level of Python knowledge
-be able to follow the code?_"
-
-* Simplify
-* Peer-review
-* Document
-
+  Ask yourself 
+  "_Would someone with your level of Python knowledge
+  be able to follow the code?_"
+  
+  * Simplify
+  * Peer-review
+  * Document
+  
   Settling for "_just_" correct code does not 
   save you or your team any time in the long run.
 
@@ -501,14 +505,11 @@ class: middle
 .pull-left[
 
   ## What is a script?
-  
+
   **A script is file with code** 
   that is meant to run in a certain order, 
   usually from top to bottom 
-  (_not the formal definition_).
-  
-  Compare with software that is meant to use different code
-  depending on how each user interacts with it.
+  (_not a formal definition_).
   
   **A project often consists of several scripts.**
   If they are not fully independent, 
