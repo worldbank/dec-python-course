@@ -392,7 +392,7 @@ We can easily re-use code within and across projects as code is separate from in
 
 * **Functions:** A block of code that can be referenced across a project
 
-* **Library:** Code packages developed by others to solve difficult tasks but made easy to use in any project
+* **Libraries:** Code packages developed by others to solve difficult tasks but made easy to use in any project
 
 ***
 
