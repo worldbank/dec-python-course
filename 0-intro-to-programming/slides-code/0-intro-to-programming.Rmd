@@ -74,9 +74,12 @@ class: middle
 ]
 
 .pull-right[
-  
-  IMAGE OF EXCLE AND STATA LOGO WITH ARROW TOWARDS PYTHON LOGO
-]
+  .center[
+    ```{r, eval=TRUE, echo=FALSE,out.width = '75%'}
+      knitr::include_graphics("img/ExclRStata2Python.png")
+    ```
+  ]
+] 
 
 ---
 class: inverse, center, middle
@@ -87,9 +90,11 @@ class: inverse, center, middle
 ---
 class:  middle
 
-## Why use programming for data work? 
+
 
 .pull-left[
+
+  ## Why use programming for data work?
 
   Data work should be very exact. Computers are more exact than humans.
 
@@ -103,8 +108,12 @@ class:  middle
 ]
 
 .pull-right[
-
-]
+  .center[
+    ```{r, eval=TRUE, echo=FALSE,out.width = '45%'}
+      knitr::include_graphics("img/code-more-exact.png")
+    ```
+  ]
+] 
 
 ---
 class:  middle
@@ -177,21 +186,28 @@ should be created from original data and code only.
 ---
 class: middle
 
-## Code is how you communicate data science
+
 
 .pull-left[
-  Chefs use recipes to communicate about food
+  
+  ## Code is how you communicate data science
+
+  Chefs use recipes to communicate about food, 
+  architects use blue prints to communicate about future buildings etc.
   
   Data scientists use code to communicate about data work.
   
   A cook book of poorly written recipes will lead to bad food. 
-  
   Poorly written code will lead to bad communication about data work
 ]
 
-.pull-right[PICTURE]
-
-
+.pull-right[
+  .center[
+    ```{r, eval=TRUE, echo=FALSE,out.width = '80%'}
+      knitr::include_graphics("img/coms-by-code.png")
+    ```
+  ]
+] 
 
 
 ---
@@ -216,7 +232,7 @@ class: inverse, center, middle
 
 ---
 
-class: 
+class: middle
 
 ## Why Python?
 
@@ -237,8 +253,12 @@ Why are there so many programming languages? How does Python compare to other la
 ]
 
 .pull-right[
-
-]
+  .center[
+    ```{r, eval=TRUE, echo=FALSE,out.width = '75%'}
+      knitr::include_graphics("img/pythonlogo.png")
+    ```
+  ]
+] 
 
 ---
 class: inverse, center, middle
@@ -248,9 +268,10 @@ class: inverse, center, middle
 ---
 class: middle
 
-## Learn how to commnuicate data science well
-
 .pull-left[
+  
+  ## Learn how to commnuicate data science well
+
   **Correct code:** Code that generates correct results
   
   **Good code:** Code that can be understood and used by others
@@ -263,7 +284,13 @@ class: middle
 ]
 
 .pull-right[
-]
+  .center[
+    ```{r, eval=TRUE, echo=FALSE,out.width = '80%'}
+      knitr::include_graphics("img/coms-well-by-code.png")
+    ```
+  ]
+] 
+
 
 ---
 class: middle
@@ -281,9 +308,18 @@ what makes them the best is how well they understand the errors
 
 class: middle
 
+.pull-left[
+  .center[
+    ```{r, eval=TRUE, echo=FALSE,out.width = '100%'}
+      knitr::include_graphics("img/ihearterrors.png")
+    ```
+  ]
+] 
+
+.pull-right[
+
 ## Errors and bugs
 
-.pull-left[
 * Errors is a part of programming and they should be your friend
   
 * Python always give you some message when there is an error
@@ -294,18 +330,24 @@ class: middle
 test run your code and find out where it breaks
 ]
 
-.pull-right[
-  PICTURE TEXT ERROR IN HEART
-]
-
-
 ---
 class: middle
 
-## When the code works you are only half-done
+.pull-left[
+  .center[
+   # When your code works<br>you are only half-done
+  ]
+  .right[
+    Ancient proverb
+  ]
+]
 
-How to make correct code into good code?
+.pull-right[
 
+  ### Path towards good code
+  
+  How to make correct code into good code?
+  
 Ask yourself 
 "_Would someone with your level of Python knowledge
 be able to follow the code?_"
@@ -345,9 +387,10 @@ We can easily re-use code within and across projects as code is separate from in
 ---
 class: middle
 
-## Learn good code from expert coders
-
 .pull-left[
+
+  ## Learn good code from expert coders
+
   **Be careful** - expert code examples can be deceptive
   
   Advanced code examples is usually meant to explain
@@ -359,11 +402,21 @@ class: middle
   Use critical thinking.
 ]
 
+.pull-left[
+  .right[
+    ```{r, eval=TRUE, echo=FALSE,out.width = '90%'}
+      knitr::include_graphics("img/confused-code.png")
+    ```
+  ]
+] 
+
 ---
 class: middle
 
 ## Learn good code from peer coders
+
 .pull-left[
+
   Read code from real world data work examples, 
   written by people at or just above your skill level
   
@@ -376,6 +429,15 @@ class: middle
   can become better at writing good code.
   
 ]
+
+.pull-left[
+  .right[
+    ```{r, eval=TRUE, echo=FALSE,out.width = '90%'}
+      knitr::include_graphics("img/peer-review.png")
+    ```
+  ]
+] 
+
 
 ---
 class: middle,
@@ -434,9 +496,14 @@ class: middle
   and how you can have sub-recipes for common small tasks.
 ]
 
-.pull-right[
+.pull-left[
+  .center[
+    ```{r, eval=TRUE, echo=FALSE,out.width = '75%'}
+      knitr::include_graphics("img/python-code.png")
+    ```
+  ]
+] 
 
-]  
   
 ---
 class: middle
@@ -562,6 +629,15 @@ class: middle
   and can track every single edit anyone in the team do.
 
 ]
+
+.pull-left[
+  .center[
+    ```{r, eval=TRUE, echo=FALSE,out.width = '90%'}
+      knitr::include_graphics("img/commit.png")
+    ```
+  ]
+] 
+
 
 ---
 class: middle
