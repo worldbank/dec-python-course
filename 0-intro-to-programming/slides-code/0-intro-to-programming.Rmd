@@ -29,13 +29,14 @@ class: middle
 ## Scope of this session
 
 .pull-left[
-  The *DEC Foundations of Python* does not require
-  that you have any background in programming. 
+  The *DEC Foundations of Python* course does not 
+  require any background in programming. 
   
   If you have no programming background, 
-  then this session will prepare you for the rest of the course.
+  then this session will prepare you 
+  for the rest of the course.
   
-  To be successful in programming data work in Python code,
+  To successfully solve data work tasks using Python code,
   you need to learn two skills:
   
   * Learn how to write Python code 
@@ -62,17 +63,21 @@ class: middle
 
 .pull-left[
   
-  Python can be used for countless of topics in computer science. 
-  However, the scope of this training based on:
+  Python can be used for 
+  countless of topics in computer science. 
+  However, the scope of this course is based on:
   
   1. Participants want to use Python for data work. 
   Numeric data, text data, geo-data etc.
   
-  1. Participants have some experience working with data. 
-  For example, extensive work in Excel or some work in Stata or R.
-  
-  1. This course does not include how to use Python 
+  1. This course does not cover how to use Python 
   for software development, backends for websites etc.
+  
+  1. Participants have some experience working with data. 
+  For example, extensive work in Excel 
+  or some work in Stata or R.
+  
+
 ]
 
 .pull-right[
@@ -126,14 +131,14 @@ class:  middle
 ---
 class:  middle
 
-## Compare Excel and programming
+## Work flow - Excel vs. programming
 
   | | Excel | Programming |
   |---------|-----|-----|
-  | Are manual edits done directly to the files containing data? | Yes, we manually work directly in the file containing the raw data and and outputs | We only manually edit the code which is in files from files with data and output.  |
-  | Can we write instructions for the computer to modify our data? | Yes, this is an option (Excel formulas) | Yes, and this is the only way (code)  |
-  | Can computer instructions be mixed with manual edits? | Yes, and it is common. | No, code should always start from unaltered raw data |
-  | Do we have an unambiguous way of sharing what was done to the data? | Only formulas are shown, not manual edits | Yes, it is the code |
+  | Manual edits in the files containing data? | Yes, raw data, computations, outputs etc., in the same file | No, manual edits in code files that are seperate |
+  | Write instructions for a computer to modify our data? | Yes, this is an option (Excel formulas) | Yes, and this is the only way (code)  |
+  | Mix computer instructions and manual edits? | Yes, and it is common. | No, code should always start from unaltered raw data |
+  | An unambiguous way of sharing exactly what was done to the data? | Only formulas are shown, not manual edits | Yes, it is the code |
   | Is it easy for a reviewer to reproduce all steps? | Its challenging or impossible to follow any manual edits as there is no record of them | Yes, anyone who has the code and have access to the input data can reproduce everything |
 
 ---
@@ -141,9 +146,11 @@ class: middle
 
 ## Programming is like writing recipes
 
+(_but more exact recipes_)
+
 .pull-left[
   ### Sponge cake:
-  * Set oven on 200C
+  * Set oven at 200C
   * Melt 200g butter and mix with 200g sugar
   * Mix in 4 eggs - one at the time
   * Mix in 200g flour
@@ -172,11 +179,12 @@ then the ingredients of data work is
 the project's original data.
 
 While organic ingredients in food can be slightly different each time, 
-code inputs can and should be as exact as the code.
+**code inputs can and should be made as exact as the code**.
 
 Derivatives of original data 
 (new data products and analysis outputs) 
 should be created from code and original data only.
+They will be as exact as the code and inputs are.
 
 ]
 
@@ -200,7 +208,7 @@ class: middle
 
 .pull-left[
   
-  ## Code is how you communicate data science
+  ## Code is how you communicate about data work
 
   Chefs use recipes to communicate about food, 
   architects use blue prints to communicate about future buildings etc.
@@ -208,7 +216,7 @@ class: middle
   Data scientists use code to communicate about data work.
   
   A cook book of poorly written recipes will lead to bad food. 
-  Poorly written code will lead to bad communication about data work
+  Poorly written code will lead to bad communication about data work.
 ]
 
 .pull-right[
@@ -228,9 +236,12 @@ class: middle, center
     Code is not just a means to an end - **code is an end in itself**
   ]
   
-  The code is a comprehensive and exact method
-  to communicate the project's data work, 
-  and **the code is an output** just as much as 
+  .margin-bottom100[
+    Code is a comprehensive and exact method<br>
+  to communicate about a project's data work
+  ]
+  
+  **The code is an output** just as much as <br>
   the project's final report, data visualizations, etc.
 ]
 
@@ -259,11 +270,11 @@ Why are there so many programming languages? How does Python compare to other la
 
 **Easy syntax**: Python code reads more similarly to regular English
 
+**General purpose**: Python can be used for data science, servers, software etc.
+
 **Widely used**: Many users means many user developed tools
 
 **#1 in data science**: The language with most data science tools
-
-**General purpose**: Python can be used for data science, servers, software etc.
 ]
 
 .pull-right[
@@ -289,7 +300,7 @@ class: middle
 
 .pull-left[
   
-  ## Learn how to commnuicate data science well
+  ## Learn how to communicate about data work well
 
   **Correct code:** Code that generates correct results
   
@@ -310,22 +321,11 @@ class: middle
   ]
 ] 
 
-
----
-class: middle
-
-## Trial and error!
-
-**Writing correct code usually takes many errors**
-
-Don't be afraid of making errors, as code should not edit the original data! 
-
-Even the best coders use trial and error - 
-what makes them the best is how well they understand the errors
-
 ---
 
 class: middle
+
+## Errors and bugs
 
 .pull-left[
   .center[
@@ -337,72 +337,20 @@ class: middle
 
 .pull-right[
 
-## Errors and bugs
+* **Writing correct code usually takes many errors** -
+errors should be your friends!
 
-* Errors is a part of programming and they should be your friend
-  
-* Python always give you some message when there is an error
-  
+* Don't be afraid errors as code should not edit the original data! 
+
+* Great coders gets errors -
+but great coders know how to read error messages
+
 * Learn how to interpret error messages - Google them
 
 * You will have thousands of errors and bugs - 
-test run your code and find out where it breaks
+embrace errors, run your code 
+and find out where the bug is
 ]
-
----
-class: middle
-
-.pull-left[
-  .center[
-   # When your code works<br>you are only half-done
-  ]
-  .right[
-    Ancient proverb
-  ]
-]
-
-.pull-right[
-
-  ### Path towards good code
-  
-  How to make correct code into good code?
-  
-  Ask yourself 
-  "_Would someone with your level of Python knowledge
-  be able to follow the code?_"
-  
-  * Simplify
-  * Peer-review
-  * Document
-  
-  Settling for "_just_" correct code does not 
-  save you or your team any time in the long run.
-
-]
-
----
-
-class: middle
-
-## Re-use code
-
-We can easily re-use code within and across projects as code is separate from inputs and outputs. Three levels of re-using code:
-
-* **Copy-paste:** Copy someone else's code and modify it to fit your context
-
-* **Functions:** A block of code that can be referenced across a project
-
-* **Libraries:** Code packages developed by others to solve difficult tasks but made easy to use in any project
-
-***
-
-**Do not reinvent the wheel:**
-
-* Aim to have each section of code be built on someone else' efforts
-
-* Someone else's efforts can be the efforts of past you 
-
-* Compare with Excel - how do you build on the efforts of other users?
 
 ---
 class: middle
@@ -411,14 +359,15 @@ class: middle
 
   ## Learn good code from expert coders
 
-  **Be careful** - expert code examples can be deceptive
+  **Be careful** - great code examples can be deceptive
   
-  Advanced code examples is usually meant to explain
+  Example code is often only meant to explain
   how to do something complex _correctly_, 
-  and not how to write _good code_.
+  and not how to write _good code_ in a real-life setting.
   
   An advance example might not fit your project, 
-  regardless how _correct_ it solved a well-defined school book example.
+  regardless how _correct_ it solved 
+  a well-defined school book example.
   Use critical thinking.
 ]
 
@@ -433,31 +382,33 @@ class: middle
 ---
 class: middle
 
-## Learn good code from peer coders
-
 .pull-left[
-
-  Read code from real world data work examples, 
-  written by people at or just above your skill level
-  
-  This will teach you lessons 
-  much more applicable to your day-to-day work,
-  than school book examples
-  
-  Code written by someone at your level 
-  will teach you much more about how you
-  can become better at writing good code.
-  
+  .center[
+   # When your code works<br>you are only half-done
+  ]
+  .right[
+    \- ancient proverb
+  ]
 ]
 
-.pull-left[
-  .right[
-    ```{r, eval=TRUE, echo=FALSE,out.width = '90%'}
-      knitr::include_graphics("img/peer-review.png")
-    ```
-  ]
-] 
 
+
+.pull-right[
+
+### A path towards good code
+  
+Ask yourself 
+"_Would someone with your level of Python knowledge
+be able to follow the code?_"
+  
+  * Simplify your code
+  * Document your code
+  * Peer-review your code
+  
+Settling for "_just_" correct code does not 
+save you or your team any time in the long run.
+
+]
 
 ---
 class: middle,
@@ -487,6 +438,63 @@ class: middle,
   | `Deleting variable "id" and "name"` | `Removing identifying variables to create a non-confidential data set` |
   
 ]
+
+---
+class: middle
+
+## Peer-review and learn about good code
+
+.pull-left[
+
+  The feedback you get will improve your code - 
+  would you submit a report without a proof read?
+
+  Peer-reviewing each other's code is the best way
+  to learn how to write better code. 
+  
+  A peer is likely to be at 
+  about the same skill level as you and 
+  write code on a topic relevant to you.
+  
+  Ask yourself 
+  "_What would make this code easier to follow?_"
+  
+]
+
+.pull-left[
+  .right[
+    ```{r, eval=TRUE, echo=FALSE,out.width = '90%'}
+      knitr::include_graphics("img/peer-review.png")
+    ```
+  ]
+] 
+
+---
+
+class: middle
+
+## Re-use code
+
+We can easily re-use code within and across projects<br>
+as code is separate from inputs and outputs.
+
+Three levels of re-using code:
+
+* **Copy-paste:** Copy code is ok. Use critical thinking and modify to fit your context
+
+* **Functions:** A block of code that can be referenced across a project
+
+* **Libraries:** Code packages developed by others to solve difficult tasks but made easy to use in any project
+
+***
+
+**Do not reinvent the wheel:**
+
+* Aim to have each section of code be built on someone else' efforts
+
+* Someone else's efforts can be the efforts of past you 
+
+* Compare with Excel - how do you build on the efforts of other users?
 
 ---
 class: center, middle
@@ -521,7 +529,7 @@ class: middle
 
 .pull-left[
   .center[
-    ```{r, eval=TRUE, echo=FALSE,out.width = '75%'}
+    ```{r, eval=TRUE, echo=FALSE,out.width = '85%'}
       knitr::include_graphics("img/python-code.png")
     ```
   ]
@@ -653,7 +661,7 @@ class: middle
 
 ]
 
-.pull-left[
+.pull-right[
   .center[
     ```{r, eval=TRUE, echo=FALSE,out.width = '90%'}
       knitr::include_graphics("img/commit.png")
@@ -666,11 +674,21 @@ class: middle
 class: middle
 
 ## Version control of code = Version control of all data work
-  
+
+.pull-left[
+  .center[
+    ```{r, eval=TRUE, echo=FALSE,out.width = '70%'}
+      knitr::include_graphics("img/gitgithub.png")
+    ```
+  ]
+] 
+ 
+.pull-right[
+
   Code is very exact instructions on 
   how to create outputs from original data.
   
-  If we handle the original data with the same level of exactness
+  If the original data is handled with exactness
   (backed-up or properly cited), 
   and if we version control our code, 
   then all outputs are also version controlled.
@@ -680,6 +698,8 @@ class: middle
   
   The most common standard for version control in code 
   is called _Git_ and most Git projects are hosted on _GitHub_.
+  
+]
 
 ---
 class: middle
