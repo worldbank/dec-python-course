@@ -340,16 +340,17 @@ class: middle
 * **Writing correct code usually takes many errors** -
 errors should be your friends!
 
-* Don't be afraid errors as code should not edit the original data! 
+* Don't be afraid of errors,
+as code should not edit the original data! 
 
-* Great coders gets errors -
+* Great coders get errors -
 but great coders know how to read error messages
 
 * Learn how to interpret error messages - Google them
 
-* You will have thousands of errors and bugs - 
+* You will encounter thousands of errors and bugs - 
 embrace errors, run your code 
-and find out where the bug is
+and find out where the bug is and then fix it
 ]
 
 ---
