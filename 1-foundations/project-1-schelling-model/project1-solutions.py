@@ -150,7 +150,7 @@ def run_schelling(grid, threshold, max_rounds):
 
     moved = True
     rounds = 0 # rpunds counter
-    city_clone = [row[:] for row in grid]
+    city_clone = clone_grid(grid)
 
     while moved == True and rounds < max_rounds:
 
