@@ -52,7 +52,7 @@ def hypothetical_similarity(grid, current_location, new_location):
     i_new, j_new = new_location
 
     # Creating a copy of the city grid -- that's where we work
-    city_clone = [row[:] for row in grid]
+    city_clone = clone_grid(grid)
     city_clone[i_new][j_new] = group
     city_clone[i][j] = ''
 
@@ -86,7 +86,7 @@ def move_agent(grid, location, threshold):
         return grid
 
     else:
-        city_clone = [row[:] for row in grid]
+        city_clone = clone_grid(grid)
         available = list_available(grid, location, threshold)
         i, j = location
         group = grid[i][j]
@@ -119,7 +119,7 @@ def move_agent(grid, location, threshold):
 def one_round(grid, threshold):
 
     N = len(grid)
-    city_clone = [row[:] for row in grid]
+    city_clone = clone_grid(grid)
     moves = 0 # move counter
 
     # iterating through rows
