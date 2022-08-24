@@ -1,3 +1,9 @@
+def clone_grid(grid):
+    '''
+    Returns a copy of a grid
+    '''
+    return [row[:] for row in grid]
+
 def neighborhood(grid, location):
 
     '''
