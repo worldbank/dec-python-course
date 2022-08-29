@@ -3,14 +3,17 @@
 ## Session 4 - APIs and introduction to data visualization in Python
 
 - Introduction to APIs
-  + Intuition behind APIs
-  + API example (ISS data)
+  + What is an API
+  + API examples
 - Using APIs with Python
   + Requests library
   + Coding a simple API client
-  + Fetching data using an API client
-  + Using an API library
+  + API client libraries
 - Data visualization (tbd)
-  + Introduction to grammar of graphics
-  + Seaborn
-  + Altair
+  + `matplotlib`
+  + `seaborn`
+  + Bar plots
+  + Line plots
+  + Scatterplots
+  + Histogram
+  + Exporting images
