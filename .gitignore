@@ -109,3 +109,4 @@ token/
 tokens/
 
 !/**/*.csv
+!/**/img/*
