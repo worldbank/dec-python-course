@@ -1,12 +1,19 @@
 # DEC Foundations of Python for Data Science
 
-## Session 4 - APIs and introduction to data visualization
+## Session 4 - APIs and introduction to data visualization in Python
 
-- APIs
-  + Understanding APIs
-  + Manual interactions with APIs
-  + Using Python to interact with APIs
-- Data visualization
-  + Introduction to grammar of graphics
-  + Seaborn
-  + Altair
+- Introduction to APIs
+  + What is an API
+  + API examples
+- Using APIs with Python
+  + Requests library
+  + Coding a simple API client
+  + API client libraries
+- Data visualization (tbd)
+  + `matplotlib`
+  + `seaborn`
+  + Bar plots
+  + Line plots
+  + Scatterplots
+  + Histogram
+  + Exporting images
