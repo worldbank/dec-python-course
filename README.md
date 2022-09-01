@@ -43,9 +43,9 @@ and each session dives deeper into the advanced topic.
             * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/1-foundations/4-api-and-dataviz/foundations-s4-dataviz.ipynb)
             * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/1-foundations/4-api-and-dataviz/foundations-s4-dataviz.ipynb)
     * Project 2 -
-        * [Jupyter notebook]()
-        * [Colab notebook]()
-        * [Suggested solutions]()
+        * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/1-foundations/project-2-rasters_and_functions/Project%202.ipynb)
+        * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/1-foundations/project-2-rasters_and_functions/Project%202.ipynb)
+        * [Suggested solutions](https://github.com/worldbank/dec-python-course/blob/main/1-foundations/project-2-rasters_and_functions/Project%202_Solutions.ipynb)
 * **Part 2 - Advanced topics of Data Science of Python**
     * Not developed yet
 
