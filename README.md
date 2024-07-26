@@ -1,15 +1,15 @@
 # DEC-foundations-of-python
 
 This repository contains all the material for the DEC Python training.
-This training is developed by DIME Analytics and DECDG.
+This training is developed by DIME Analytics and DECID.
 
 ## Course content
 
 This training is structured into three parts.
-Part 0 is a single session introduction for people with no coding background.
+Part 0 is a single-session introduction for people with no coding background.
 Part 1 is a course that covers the foundations of Python
 used in almost any type of Python data science project.
-Part 2 is a collection of stand alone sessions that
+Part 2 is a collection of stand-alone sessions that
 assumes knowledge in the foundations of Python
 and each session dives deeper into the advanced topic.
 
@@ -50,6 +50,9 @@ and each session dives deeper into the advanced topic.
     * Geospatial analysis
         * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/2-advanced-topics/geospatial-analysis/geospatial-analysis.ipynb)
         * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/2-advanced-topics/geospatial-analysis/geospatial-analysis.ipynb)
+    * Introduction to text analysis
+        * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/2-advanced-topics/text-analysis/intro-text-analysis.ipynb)
+        * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/2-advanced-topics/text-analysis/intro-text-analysis.ipynb)
 
 ## Contact
 
