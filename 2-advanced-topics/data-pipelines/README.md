@@ -13,48 +13,14 @@ Part 2 is a collection of stand-alone sessions that
 assumes knowledge in the foundations of Python
 and each session dives deeper into the advanced topic.
 
-#### Links to content
-* **Part 0 - Intro to Programming**
-  * [Slides](https://github.com/worldbank/dec-python-course/blob/main/0-intro-to-programming/0-intro-to-programming.pdf)
-* **Part 1 - Foundations of Data Science in Python**
-    * Session 1 - Variable types and Python syntax
-        * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/1-foundations/1-types-and-syntax/foundations-s1.ipynb)
-        * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/1-foundations/1-types-and-syntax/foundations-s1.ipynb)
-        * [Suggested solutions](https://github.com/worldbank/dec-python-course/blob/main/1-foundations/1-types-and-syntax/solutions-s1.ipynb)
-    * Session 2 - Control flow and functions
-        * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/1-foundations/2-control-flows-and-functions/foundations-s2.ipynb)
-        * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/1-foundations/2-control-flows-and-functions/foundations-s2.ipynb)
-        * [Suggested solutions](https://github.com/worldbank/dec-python-course/blob/main/1-foundations/2-control-flows-and-functions/solutions-s2.ipynb)
-    * Session 3 - NumPy and Pandas
-        * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/1-foundations/3-numpy-and-pandas/foundations-s3.ipynb)
-        * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/1-foundations/3-numpy-and-pandas/foundations-s3.ipynb)
-        * [Suggested solutions](https://github.com/worldbank/dec-python-course/blob/main/1-foundations/3-numpy-and-pandas/solutions-s3.ipynb)
-    * Session 4 - APIs and introduction to data visualization in Python
-        * APIs
-            * [Slides](https://github.com/worldbank/dec-python-course/blob/main/1-foundations/4-api-and-dataviz/Introduction%20to%20APIs.pdf)
-            * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/1-foundations/4-api-and-dataviz/foundations-s4-api.ipynb)
-            * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/1-foundations/4-api-and-dataviz/foundations-s4-api.ipynb)
-            * [Suggested solutions](https://github.com/worldbank/dec-python-course/blob/main/1-foundations/4-api-and-dataviz/foundations-s4-api-solutions.ipynb)
-        * Data visualization
-            * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/1-foundations/4-api-and-dataviz/foundations-s4-dataviz.ipynb)
-            * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/1-foundations/4-api-and-dataviz/foundations-s4-dataviz.ipynb)   
-    * Project 1 - Schelling model
-        * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/1-foundations/project-1-schelling-model/project-1-schelling-model-of-segregation.ipynb)
-        * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/1-foundations/project-1-schelling-model/project-1-schelling-model-of-segregation.ipynb)
-        * [Suggested solutions](https://github.com/worldbank/dec-python-course/blob/main/1-foundations/project-1-schelling-model/project1-solutions.ipynb)
-    * Project 2 - Raster data analysis and ML inference
-        * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/1-foundations/project-2-rasters_and_functions/Project%202.ipynb)
-        * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/1-foundations/project-2-rasters_and_functions/Project%202.ipynb)
-        * [Suggested solutions](https://github.com/worldbank/dec-python-course/blob/main/1-foundations/project-2-rasters_and_functions/Project%202_Solutions.ipynb)
-* **Part 2 - Advanced topics of Data Science of Python**
-    * Geospatial analysis
-        * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/2-advanced-topics/geospatial-analysis/geospatial-analysis.ipynb)
-        * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/2-advanced-topics/geospatial-analysis/geospatial-analysis.ipynb)
-    * Introduction to text analysis
-        * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/2-advanced-topics/text-analysis/intro-text-analysis.ipynb)
-        * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/2-advanced-topics/text-analysis/intro-text-analysis.ipynb)
+* intro_data_pipelines : Overview of data pipelines with code snippets and explanatory notes on the medallion architecture, auxiliary data, transformations and orchestration. This is the entry point giving users a global scope of whats done in the other parts of the course.
 
-## Contact
+* bronze : The first stage of the processing the dataset in the medallion scheme which includes loading the data from sources 
 
-If you have any questions you can contact one of the teams behind this training
-on dimeanalytics@worldbank.org.
+* silver : The second stage of the processing where multiple transformations and standardizations are done
+
+* gold : The third and final stage of processing where we construct the final cleaned and ready dataset
+
+* subnational_population: An example of auxiliary data retrieval used within the project
+
+* kenya_func_agg : An exmaple of aggregation of the main public finance data and the auxiliary data
