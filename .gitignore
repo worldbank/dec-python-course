@@ -60,6 +60,7 @@
 !/**/requirements.txt
 !/**/Pipfile
 !/**/Pipfile.lock
+/venv
 # Still ignore .ipynb files in checkpoint folders
 .ipynb_checkpoints
 
