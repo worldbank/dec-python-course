@@ -110,4 +110,5 @@ token/
 tokens/
 
 !/**/*.csv
+!/**/*.png
 !/**/img/*
