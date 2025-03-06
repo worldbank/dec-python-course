@@ -1,7 +1,7 @@
-# DEC-foundations-of-python
+# DEC's Python for Data Science
 
 This repository contains all the material for the DEC Python training.
-This training is developed by DIME Analytics and DECID.
+This training is developed by DIME and DECID.
 
 ## Course content
 
@@ -53,6 +53,9 @@ and each session dives deeper into the advanced topic.
     * Introduction to text analysis
         * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/2-advanced-topics/text-analysis/intro-text-analysis.ipynb)
         * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/2-advanced-topics/text-analysis/intro-text-analysis.ipynb)
+    * Data to data pipelines
+        * [Introduction to data pipelines - Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/2-advanced-topics/data-pipelines/intro_data_pipelines.ipynb)
+        * [Other session materials](https://github.com/worldbank/dec-python-course/tree/main/2-advanced-topics/data-pipelines)
 
 ## Contact
 
