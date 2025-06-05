@@ -57,8 +57,29 @@ and each session dives deeper into the advanced topic.
         * [Introduction to data pipelines - Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/2-advanced-topics/data-pipelines/intro_data_pipelines.ipynb)
         * [Other session materials](https://github.com/worldbank/dec-python-course/tree/main/2-advanced-topics/data-pipelines)
 * **Part 3 - Content in other languages**
-
-Some of the contents of this training have been translated to other languages for workshops with external counterparts. All materials in other languages are archived in this folder.
+    Some of the contents of this training have been translated to other languages for workshops with external counterparts. All materials in other languages are archived in this folder.
+    * Introduccion a Python para ciencia de datos y analisis de textos
+        * Sesion 1: Tipos de variables y sintaxis
+            * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/3-other-languages/Python-para-ciencia-de-datos/Sesion%201%20-%20Tipos%20de%20variables%20y%20sintaxis.ipynb)
+            * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/3-other-languages/Python-para-ciencia-de-datos/Sesion%201%20-%20Tipos%20de%20variables%20y%20sintaxis.ipynb)
+        * Sesion 2: Control de ejecucion y funciones
+            * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/3-other-languages/Python-para-ciencia-de-datos/Sesion%202%20-%20Control%20de%20ejecucion%20y%20funciones.ipynb)
+            * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/3-other-languages/Python-para-ciencia-de-datos/Sesion%202%20-%20Control%20de%20ejecucion%20y%20funciones.ipynb)
+        * Sesion 3a: Paquetes y preparacion de datos con pandas
+            * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/3-other-languages/Python-para-ciencia-de-datos/Sesion%203a%20-%20Paquetes%20y%20limpieza%20de%20datos%20con%20Pandas.ipynb)
+            * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/3-other-languages/Python-para-ciencia-de-datos/Sesion%203a%20-%20Paquetes%20y%20limpieza%20de%20datos%20con%20Pandas.ipynb)
+        * Sesion 3b: Visualizacion de datos
+            * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/3-other-languages/Python-para-ciencia-de-datos/Sesion%203b%20-%20Visualizacion%20de%20datos.ipynb)
+            * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/3-other-languages/Python-para-ciencia-de-datos/Sesion%203b%20-%20Visualizacion%20de%20datos.ipynb)
+        * Sesion 4a: Estructuracion de datos de texto no estructurados
+            * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/3-other-languages/Python-para-ciencia-de-datos/Sesion%204a%20-%20Estructuracion%20de%20datos%20de%20texto%20no%20estructurados.ipynb)
+            * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/3-other-languages/Python-para-ciencia-de-datos/Sesion%204a%20-%20Estructuracion%20de%20datos%20de%20texto%20no%20estructurados.ipynb)
+        * Sesion 4b: Limpieza de datos de textos
+            * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/3-other-languages/Python-para-ciencia-de-datos/Sesion%204b%20-%20Limpieza%20de%20datos%20de%20textos.ipynb)
+            * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/3-other-languages/Python-para-ciencia-de-datos/Sesion%204b%20-%20Limpieza%20de%20datos%20de%20textos.ipynb)
+        * Sesion 5: Analisis de textos
+            * [Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/3-other-languages/Python-para-ciencia-de-datos/Sesion%205%20-%20Analisis%20de%20textos.ipynb)
+            * [Colab notebook](https://colab.research.google.com/github/worldbank/dec-python-course/blob/main/3-other-languages/Python-para-ciencia-de-datos/Sesion%205%20-%20Analisis%20de%20textos.ipynb)
 
 ## Contact
 
