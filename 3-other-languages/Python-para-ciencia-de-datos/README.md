@@ -4,16 +4,16 @@ Este curso es introductorio y no requiere conocimientos previos de Python, pero 
 
 ## Contenido general
 
-- Ciencia de datos en Python (9 horas):
+- Ciencia de datos en Python (16 horas):
     -	Tipos de variable y sintaxis de Python (3 horas)
     -	Control de ejecución y funciones (3 horas)
-    -	Paquetes + datos estructurados (data frames) en Pandas (2 horas)
-    -	Entornos de programación en Python (1 hora)
+    -	Paquetes + datos estructurados (data frames) en Pandas (3 horas)
+    -	Visualizacion de datos (1 hora)
 - Análisis de textos (6 horas):
-    -	Estructurando datos de texto en data frames (2 horas)
+    -	Estructurando datos de texto en data frames (1.5 horas)
     -	Limpieza de datos de texto (1.5 horas)
     -	Análisis descriptivo de datos de texto (1 hora)
-    -	Clusters y clasificación de textos no supervisada (1.5 horas)
+    -	Clusters y clasificación de textos no supervisada (2 horas)
 
 ## Sesiones
 
@@ -25,9 +25,9 @@ La sesión introduce los tipos de variables unitarios básicos en Python, variab
 
 Esta sesión utiliza los contenidos de la sesión anterior para mostrar cómo controlar la ejecución de comandos en Python mediante condiciones y bucles, introduciendo el uso de operadores lógicos y valores booleanos. La sesión también muestra como trabajar con funciones creadas por el usuario. El contenido de esta sesión es también introductorio y sirve como base para las demás sesiones.
 
-### Sesión 3: Paquetes, Data Frames en Pandas, y entornos de desarrollo integrado (3 horas)
+### Sesión 3: Paquetes, Data Frames en Pandas, y visualizacion de datos (4 horas)
 
-La sesión introduce el concepto de paquetes externos y utiliza uno de ellos, Pandas, para mostrar como realizar operaciones con datos estructurados de forma tabular en Python, mostrando ejemplos para las operaciones de datos más comunes al trabajar con tablas de datos. La sesión también muestra diferentes opciones para desarrollar y ejecutar código en Python que los programadores usualmente utilizan, considerando diferentes casos de uso y ventajas.
+La sesión introduce el concepto de paquetes externos y utiliza uno de ellos, Pandas, para mostrar como realizar operaciones con datos estructurados de forma tabular en Python, mostrando ejemplos para las operaciones de datos más comunes al trabajar con tablas de datos. La sesión también muestra dos opciones para visualizacion de datos en Python: matplotlib y seaborn, considerando diferentes casos de uso y ventajas.
 
 ### Sesión 4: Preparación de datos en análisis de textos (3 horas)
 
