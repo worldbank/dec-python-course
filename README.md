@@ -56,6 +56,9 @@ and each session dives deeper into the advanced topic.
     * Introduction to data pipelines
         * [Introduction to data pipelines - Jupyter notebook](https://github.com/worldbank/dec-python-course/blob/main/2-advanced-topics/data-pipelines/intro_data_pipelines.ipynb)
         * [Other session materials](https://github.com/worldbank/dec-python-course/tree/main/2-advanced-topics/data-pipelines)
+* **Part 3 - Content in other languages**
+
+Some of the contents of this training have been translated to other languages for workshops with external counterparts. All materials in other languages are archived in this folder.
 
 ## Contact
 
