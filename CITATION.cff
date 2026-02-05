@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: DEC Python Training
+message: The DEC team's Python training materials tailored for users with previous knowledge in R or Stata. Includes best practices for data management, analysis, and visualization.
+type: software
+authors:
+  - name: 'The Development Economics Vice Presidency (DEC), The World Bank'
+    address: 1818 H St NW
+    city: 'Washington, DC'
+    country: US
+    post-code: '20433'
+    email: dimeanalytics@worldbank.org
+repository-code: 'https://github.com/worldbank/dec-python-course'
+keywords:
+  - python
+  - best-practices
+  - data-management
+  - analysis
+  - visualization
+license: MIT
